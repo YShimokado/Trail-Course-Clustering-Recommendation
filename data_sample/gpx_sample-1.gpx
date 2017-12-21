@@ -1,0 +1,2510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2017-11-19T22:29:06Z</time>
+<bounds minlat="35.629874000" minlon="138.727398000" maxlat="35.730661000" maxlon="138.859834000"/>
+<trk>
+  <name>higashino92017/11/19_04:56</name>
+<trkseg>
+<trkpt lat="35.726755000" lon="138.728100000">
+  <ele>489.986908</ele>
+  <time>2017-11-18T19:56:50Z</time>
+  <desc>lat.=35.726755, lon.=138.728100, Alt.=489.986908m. Speed=0.838783m/h.</desc>
+</trkpt>
+<trkpt lat="35.726614000" lon="138.727985000">
+  <ele>522.048218</ele>
+  <time>2017-11-18T19:57:02Z</time>
+  <desc>lat.=35.726614, lon.=138.727985, Alt.=522.048218m. Speed=0.578378m/h.</desc>
+</trkpt>
+<trkpt lat="35.726910000" lon="138.728001000">
+  <ele>516.375732</ele>
+  <time>2017-11-18T20:00:10Z</time>
+  <desc>lat.=35.726910, lon.=138.728001, Alt.=516.375732m. Speed=10.257707m/h.</desc>
+</trkpt>
+<trkpt lat="35.726954000" lon="138.727524000">
+  <ele>531.109802</ele>
+  <time>2017-11-18T20:00:35Z</time>
+  <desc>lat.=35.726954, lon.=138.727524, Alt.=531.109802m. Speed=12.459723m/h.</desc>
+</trkpt>
+<trkpt lat="35.727124000" lon="138.728141000">
+  <ele>528.785156</ele>
+  <time>2017-11-18T20:00:54Z</time>
+  <desc>lat.=35.727124, lon.=138.728141, Alt.=528.785156m. Speed=7.494309m/h.</desc>
+</trkpt>
+<trkpt lat="35.727488000" lon="138.727993000">
+  <ele>537.581238</ele>
+  <time>2017-11-18T20:01:21Z</time>
+  <desc>lat.=35.727488, lon.=138.727993, Alt.=537.581238m. Speed=10.329905m/h.</desc>
+</trkpt>
+<trkpt lat="35.727487000" lon="138.728255000">
+  <ele>535.637390</ele>
+  <time>2017-11-18T20:01:29Z</time>
+  <desc>lat.=35.727487, lon.=138.728255, Alt.=535.637390m. Speed=9.412841m/h.</desc>
+</trkpt>
+<trkpt lat="35.727718000" lon="138.728088000">
+  <ele>536.836792</ele>
+  <time>2017-11-18T20:01:43Z</time>
+  <desc>lat.=35.727718, lon.=138.728088, Alt.=536.836792m. Speed=10.324726m/h.</desc>
+</trkpt>
+<trkpt lat="35.727399000" lon="138.728691000">
+  <ele>535.620239</ele>
+  <time>2017-11-18T20:02:12Z</time>
+  <desc>lat.=35.727399, lon.=138.728691, Alt.=535.620239m. Speed=10.487842m/h.</desc>
+</trkpt>
+<trkpt lat="35.727709000" lon="138.729032000">
+  <ele>532.565979</ele>
+  <time>2017-11-18T20:02:36Z</time>
+  <desc>lat.=35.727709, lon.=138.729032, Alt.=532.565979m. Speed=11.475718m/h.</desc>
+</trkpt>
+<trkpt lat="35.728473000" lon="138.728485000">
+  <ele>543.497864</ele>
+  <time>2017-11-18T20:03:09Z</time>
+  <desc>lat.=35.728473, lon.=138.728485, Alt.=543.497864m. Speed=9.529027m/h.</desc>
+</trkpt>
+<trkpt lat="35.728575000" lon="138.728668000">
+  <ele>540.079468</ele>
+  <time>2017-11-18T20:03:18Z</time>
+  <desc>lat.=35.728575, lon.=138.728668, Alt.=540.079468m. Speed=9.436357m/h.</desc>
+</trkpt>
+<trkpt lat="35.727514000" lon="138.729705000">
+  <ele>547.855286</ele>
+  <time>2017-11-18T20:04:08Z</time>
+  <desc>lat.=35.727514, lon.=138.729705, Alt.=547.855286m. Speed=11.416079m/h.</desc>
+</trkpt>
+<trkpt lat="35.727342000" lon="138.731124000">
+  <ele>543.888123</ele>
+  <time>2017-11-18T20:04:49Z</time>
+  <desc>lat.=35.727342, lon.=138.731124, Alt.=543.888123m. Speed=10.340035m/h.</desc>
+</trkpt>
+<trkpt lat="35.727642000" lon="138.729735000">
+  <ele>547.037109</ele>
+  <time>2017-11-18T20:05:36Z</time>
+  <desc>lat.=35.727642, lon.=138.729735, Alt.=547.037109m. Speed=11.381400m/h.</desc>
+</trkpt>
+<trkpt lat="35.728234000" lon="138.729131000">
+  <ele>548.490356</ele>
+  <time>2017-11-18T20:06:09Z</time>
+  <desc>lat.=35.728234, lon.=138.729131, Alt.=548.490356m. Speed=14.269213m/h.</desc>
+</trkpt>
+<trkpt lat="35.728748000" lon="138.729089000">
+  <ele>548.201233</ele>
+  <time>2017-11-18T20:06:30Z</time>
+  <desc>lat.=35.728748, lon.=138.729089, Alt.=548.201233m. Speed=9.599256m/h.</desc>
+</trkpt>
+<trkpt lat="35.729424000" lon="138.729415000">
+  <ele>549.518738</ele>
+  <time>2017-11-18T20:06:58Z</time>
+  <desc>lat.=35.729424, lon.=138.729415, Alt.=549.518738m. Speed=9.127609m/h.</desc>
+</trkpt>
+<trkpt lat="35.728275000" lon="138.729687000">
+  <ele>568.153809</ele>
+  <time>2017-11-18T20:07:53Z</time>
+  <desc>lat.=35.728275, lon.=138.729687, Alt.=568.153809m. Speed=8.588805m/h.</desc>
+</trkpt>
+<trkpt lat="35.727962000" lon="138.730030000">
+  <ele>570.056458</ele>
+  <time>2017-11-18T20:08:08Z</time>
+  <desc>lat.=35.727962, lon.=138.730030, Alt.=570.056458m. Speed=10.063014m/h.</desc>
+</trkpt>
+<trkpt lat="35.727921000" lon="138.730912000">
+  <ele>572.559448</ele>
+  <time>2017-11-18T20:08:36Z</time>
+  <desc>lat.=35.727921, lon.=138.730912, Alt.=572.559448m. Speed=9.629201m/h.</desc>
+</trkpt>
+<trkpt lat="35.728288000" lon="138.732070000">
+  <ele>576.903992</ele>
+  <time>2017-11-18T20:09:16Z</time>
+  <desc>lat.=35.728288, lon.=138.732070, Alt.=576.903992m. Speed=10.572058m/h.</desc>
+</trkpt>
+<trkpt lat="35.727924000" lon="138.732924000">
+  <ele>585.546753</ele>
+  <time>2017-11-18T20:09:52Z</time>
+  <desc>lat.=35.727924, lon.=138.732924, Alt.=585.546753m. Speed=7.579069m/h.</desc>
+</trkpt>
+<trkpt lat="35.729352000" lon="138.733135000">
+  <ele>615.202332</ele>
+  <time>2017-11-18T20:11:18Z</time>
+  <desc>lat.=35.729352, lon.=138.733135, Alt.=615.202332m. Speed=5.907650m/h.</desc>
+</trkpt>
+<trkpt lat="35.729487000" lon="138.733531000">
+  <ele>629.434204</ele>
+  <time>2017-11-18T20:11:40Z</time>
+  <desc>lat.=35.729487, lon.=138.733531, Alt.=629.434204m. Speed=6.672664m/h.</desc>
+</trkpt>
+<trkpt lat="35.729758000" lon="138.733212000">
+  <ele>635.627197</ele>
+  <time>2017-11-18T20:12:03Z</time>
+  <desc>lat.=35.729758, lon.=138.733212, Alt.=635.627197m. Speed=6.212460m/h.</desc>
+</trkpt>
+<trkpt lat="35.730078000" lon="138.733461000">
+  <ele>647.868103</ele>
+  <time>2017-11-18T20:12:24Z</time>
+  <desc>lat.=35.730078, lon.=138.733461, Alt.=647.868103m. Speed=8.084474m/h.</desc>
+</trkpt>
+<trkpt lat="35.730314000" lon="138.733330000">
+  <ele>657.048462</ele>
+  <time>2017-11-18T20:12:43Z</time>
+  <desc>lat.=35.730314, lon.=138.733330, Alt.=657.048462m. Speed=5.748478m/h.</desc>
+</trkpt>
+<trkpt lat="35.730322000" lon="138.734188000">
+  <ele>663.816956</ele>
+  <time>2017-11-18T20:13:39Z</time>
+  <desc>lat.=35.730322, lon.=138.734188, Alt.=663.816956m. Speed=6.587948m/h.</desc>
+</trkpt>
+<trkpt lat="35.730661000" lon="138.734915000">
+  <ele>663.016296</ele>
+  <time>2017-11-18T20:14:13Z</time>
+  <desc>lat.=35.730661, lon.=138.734915, Alt.=663.016296m. Speed=7.897980m/h.</desc>
+</trkpt>
+<trkpt lat="35.730618000" lon="138.735501000">
+  <ele>662.621338</ele>
+  <time>2017-11-18T20:14:29Z</time>
+  <desc>lat.=35.730618, lon.=138.735501, Alt.=662.621338m. Speed=5.721853m/h.</desc>
+</trkpt>
+<trkpt lat="35.730042000" lon="138.735704000">
+  <ele>669.403748</ele>
+  <time>2017-11-18T20:14:59Z</time>
+  <desc>lat.=35.730042, lon.=138.735704, Alt.=669.403748m. Speed=6.967626m/h.</desc>
+</trkpt>
+<trkpt lat="35.729444000" lon="138.736929000">
+  <ele>663.147705</ele>
+  <time>2017-11-18T20:15:45Z</time>
+  <desc>lat.=35.729444, lon.=138.736929, Alt.=663.147705m. Speed=7.936610m/h.</desc>
+</trkpt>
+<trkpt lat="35.727677000" lon="138.738559000">
+  <ele>651.117432</ele>
+  <time>2017-11-18T20:16:53Z</time>
+  <desc>lat.=35.727677, lon.=138.738559, Alt.=651.117432m. Speed=5.846038m/h.</desc>
+</trkpt>
+<trkpt lat="35.725871000" lon="138.739290000">
+  <ele>632.844666</ele>
+  <time>2017-11-18T20:17:46Z</time>
+  <desc>lat.=35.725871, lon.=138.739290, Alt.=632.844666m. Speed=12.103712m/h.</desc>
+</trkpt>
+<trkpt lat="35.725018000" lon="138.740344000">
+  <ele>626.492554</ele>
+  <time>2017-11-18T20:18:22Z</time>
+  <desc>lat.=35.725018, lon.=138.740344, Alt.=626.492554m. Speed=12.210383m/h.</desc>
+</trkpt>
+<trkpt lat="35.724839000" lon="138.740920000">
+  <ele>621.745361</ele>
+  <time>2017-11-18T20:18:37Z</time>
+  <desc>lat.=35.724839, lon.=138.740920, Alt.=621.745361m. Speed=13.087050m/h.</desc>
+</trkpt>
+<trkpt lat="35.723906000" lon="138.741150000">
+  <ele>610.079712</ele>
+  <time>2017-11-18T20:19:06Z</time>
+  <desc>lat.=35.723906, lon.=138.741150, Alt.=610.079712m. Speed=12.425773m/h.</desc>
+</trkpt>
+<trkpt lat="35.723433000" lon="138.740822000">
+  <ele>601.743835</ele>
+  <time>2017-11-18T20:19:20Z</time>
+  <desc>lat.=35.723433, lon.=138.740822, Alt.=601.743835m. Speed=14.384151m/h.</desc>
+</trkpt>
+<trkpt lat="35.723068000" lon="138.741226000">
+  <ele>594.584167</ele>
+  <time>2017-11-18T20:19:35Z</time>
+  <desc>lat.=35.723068, lon.=138.741226, Alt.=594.584167m. Speed=13.300537m/h.</desc>
+</trkpt>
+<trkpt lat="35.722867000" lon="138.741162000">
+  <ele>593.152222</ele>
+  <time>2017-11-18T20:19:39Z</time>
+  <desc>lat.=35.722867, lon.=138.741162, Alt.=593.152222m. Speed=12.571308m/h.</desc>
+</trkpt>
+<trkpt lat="35.722742000" lon="138.740673000">
+  <ele>587.581055</ele>
+  <time>2017-11-18T20:19:51Z</time>
+  <desc>lat.=35.722742, lon.=138.740673, Alt.=587.581055m. Speed=14.803374m/h.</desc>
+</trkpt>
+<trkpt lat="35.722361000" lon="138.740798000">
+  <ele>584.452759</ele>
+  <time>2017-11-18T20:20:07Z</time>
+  <desc>lat.=35.722361, lon.=138.740798, Alt.=584.452759m. Speed=10.258896m/h.</desc>
+</trkpt>
+<trkpt lat="35.722400000" lon="138.740389000">
+  <ele>588.004089</ele>
+  <time>2017-11-18T20:20:16Z</time>
+  <desc>lat.=35.722400, lon.=138.740389, Alt.=588.004089m. Speed=12.737227m/h.</desc>
+</trkpt>
+<trkpt lat="35.722091000" lon="138.740097000">
+  <ele>579.399719</ele>
+  <time>2017-11-18T20:20:29Z</time>
+  <desc>lat.=35.722091, lon.=138.740097, Alt.=579.399719m. Speed=11.358362m/h.</desc>
+</trkpt>
+<trkpt lat="35.721804000" lon="138.740440000">
+  <ele>569.128357</ele>
+  <time>2017-11-18T20:20:43Z</time>
+  <desc>lat.=35.721804, lon.=138.740440, Alt.=569.128357m. Speed=15.087033m/h.</desc>
+</trkpt>
+<trkpt lat="35.721625000" lon="138.740356000">
+  <ele>568.076721</ele>
+  <time>2017-11-18T20:20:47Z</time>
+  <desc>lat.=35.721625, lon.=138.740356, Alt.=568.076721m. Speed=14.396305m/h.</desc>
+</trkpt>
+<trkpt lat="35.721557000" lon="138.739702000">
+  <ele>560.949463</ele>
+  <time>2017-11-18T20:21:02Z</time>
+  <desc>lat.=35.721557, lon.=138.739702, Alt.=560.949463m. Speed=13.334166m/h.</desc>
+</trkpt>
+<trkpt lat="35.721116000" lon="138.739917000">
+  <ele>548.498169</ele>
+  <time>2017-11-18T20:21:21Z</time>
+  <desc>lat.=35.721116, lon.=138.739917, Alt.=548.498169m. Speed=11.960185m/h.</desc>
+</trkpt>
+<trkpt lat="35.720676000" lon="138.739549000">
+  <ele>543.656921</ele>
+  <time>2017-11-18T20:21:34Z</time>
+  <desc>lat.=35.720676, lon.=138.739549, Alt.=543.656921m. Speed=13.787834m/h.</desc>
+</trkpt>
+<trkpt lat="35.718971000" lon="138.739163000">
+  <ele>518.721008</ele>
+  <time>2017-11-18T20:22:24Z</time>
+  <desc>lat.=35.718971, lon.=138.739163, Alt.=518.721008m. Speed=12.966326m/h.</desc>
+</trkpt>
+<trkpt lat="35.718890000" lon="138.738923000">
+  <ele>519.029358</ele>
+  <time>2017-11-18T20:22:29Z</time>
+  <desc>lat.=35.718890, lon.=138.738923, Alt.=519.029358m. Speed=12.690606m/h.</desc>
+</trkpt>
+<trkpt lat="35.719642000" lon="138.737998000">
+  <ele>502.249908</ele>
+  <time>2017-11-18T20:23:02Z</time>
+  <desc>lat.=35.719642, lon.=138.737998, Alt.=502.249908m. Speed=7.419441m/h.</desc>
+</trkpt>
+<trkpt lat="35.718669000" lon="138.738902000">
+  <ele>499.285645</ele>
+  <time>2017-11-18T20:23:44Z</time>
+  <desc>lat.=35.718669, lon.=138.738902, Alt.=499.285645m. Speed=11.531888m/h.</desc>
+</trkpt>
+<trkpt lat="35.718163000" lon="138.740129000">
+  <ele>498.490601</ele>
+  <time>2017-11-18T20:24:22Z</time>
+  <desc>lat.=35.718163, lon.=138.740129, Alt.=498.490601m. Speed=10.380838m/h.</desc>
+</trkpt>
+<trkpt lat="35.716570000" lon="138.740763000">
+  <ele>501.736359</ele>
+  <time>2017-11-18T20:25:36Z</time>
+  <desc>lat.=35.716570, lon.=138.740763, Alt.=501.736359m. Speed=13.773046m/h.</desc>
+</trkpt>
+<trkpt lat="35.715507000" lon="138.741551000">
+  <ele>499.505798</ele>
+  <time>2017-11-18T20:26:16Z</time>
+  <desc>lat.=35.715507, lon.=138.741551, Alt.=499.505798m. Speed=12.593513m/h.</desc>
+</trkpt>
+<trkpt lat="35.714052000" lon="138.743189000">
+  <ele>503.701874</ele>
+  <time>2017-11-18T20:27:22Z</time>
+  <desc>lat.=35.714052, lon.=138.743189, Alt.=503.701874m. Speed=10.331651m/h.</desc>
+</trkpt>
+<trkpt lat="35.713718000" lon="138.744215000">
+  <ele>504.731750</ele>
+  <time>2017-11-18T20:27:59Z</time>
+  <desc>lat.=35.713718, lon.=138.744215, Alt.=504.731750m. Speed=5.234298m/h.</desc>
+</trkpt>
+<trkpt lat="35.711871000" lon="138.746890000">
+  <ele>523.044861</ele>
+  <time>2017-11-18T20:29:56Z</time>
+  <desc>lat.=35.711871, lon.=138.746890, Alt.=523.044861m. Speed=10.130921m/h.</desc>
+</trkpt>
+<trkpt lat="35.709909000" lon="138.748575000">
+  <ele>517.684387</ele>
+  <time>2017-11-18T20:31:17Z</time>
+  <desc>lat.=35.709909, lon.=138.748575, Alt.=517.684387m. Speed=9.156187m/h.</desc>
+</trkpt>
+<trkpt lat="35.708412000" lon="138.749102000">
+  <ele>513.877380</ele>
+  <time>2017-11-18T20:32:11Z</time>
+  <desc>lat.=35.708412, lon.=138.749102, Alt.=513.877380m. Speed=12.211726m/h.</desc>
+</trkpt>
+<trkpt lat="35.706508000" lon="138.748669000">
+  <ele>523.725464</ele>
+  <time>2017-11-18T20:33:16Z</time>
+  <desc>lat.=35.706508, lon.=138.748669, Alt.=523.725464m. Speed=12.777324m/h.</desc>
+</trkpt>
+<trkpt lat="35.704280000" lon="138.748573000">
+  <ele>504.430237</ele>
+  <time>2017-11-18T20:34:26Z</time>
+  <desc>lat.=35.704280, lon.=138.748573, Alt.=504.430237m. Speed=12.951303m/h.</desc>
+</trkpt>
+<trkpt lat="35.702103000" lon="138.747581000">
+  <ele>506.082581</ele>
+  <time>2017-11-18T20:35:37Z</time>
+  <desc>lat.=35.702103, lon.=138.747581, Alt.=506.082581m. Speed=11.396167m/h.</desc>
+</trkpt>
+<trkpt lat="35.702127000" lon="138.748779000">
+  <ele>521.106140</ele>
+  <time>2017-11-18T20:36:27Z</time>
+  <desc>lat.=35.702127, lon.=138.748779, Alt.=521.106140m. Speed=7.164648m/h.</desc>
+</trkpt>
+<trkpt lat="35.703294000" lon="138.751186000">
+  <ele>556.587769</ele>
+  <time>2017-11-18T20:38:42Z</time>
+  <desc>lat.=35.703294, lon.=138.751186, Alt.=556.587769m. Speed=6.138867m/h.</desc>
+</trkpt>
+<trkpt lat="35.703428000" lon="138.752844000">
+  <ele>596.027771</ele>
+  <time>2017-11-18T20:40:34Z</time>
+  <desc>lat.=35.703428, lon.=138.752844, Alt.=596.027771m. Speed=5.419200m/h.</desc>
+</trkpt>
+<trkpt lat="35.703833000" lon="138.752615000">
+  <ele>599.479980</ele>
+  <time>2017-11-18T20:41:15Z</time>
+  <desc>lat.=35.703833, lon.=138.752615, Alt.=599.479980m. Speed=5.848700m/h.</desc>
+</trkpt>
+<trkpt lat="35.705276000" lon="138.757429000">
+  <ele>721.508362</ele>
+  <time>2017-11-18T20:48:58Z</time>
+  <desc>lat.=35.705276, lon.=138.757429, Alt.=721.508362m. Speed=2.541778m/h.</desc>
+</trkpt>
+<trkpt lat="35.705041000" lon="138.760389000">
+  <ele>920.905090</ele>
+  <time>2017-11-18T21:00:22Z</time>
+  <desc>lat.=35.705041, lon.=138.760389, Alt.=920.905090m. Speed=3.293062m/h.</desc>
+</trkpt>
+<trkpt lat="35.704796000" lon="138.760777000">
+  <ele>938.152527</ele>
+  <time>2017-11-18T21:01:12Z</time>
+  <desc>lat.=35.704796, lon.=138.760777, Alt.=938.152527m. Speed=2.449700m/h.</desc>
+</trkpt>
+<trkpt lat="35.705731000" lon="138.761427000">
+  <ele>968.054077</ele>
+  <time>2017-11-18T21:03:55Z</time>
+  <desc>lat.=35.705731, lon.=138.761427, Alt.=968.054077m. Speed=3.274661m/h.</desc>
+</trkpt>
+<trkpt lat="35.705740000" lon="138.761632000">
+  <ele>974.432007</ele>
+  <time>2017-11-18T21:04:16Z</time>
+  <desc>lat.=35.705740, lon.=138.761632, Alt.=974.432007m. Speed=3.871645m/h.</desc>
+</trkpt>
+<trkpt lat="35.706515000" lon="138.761885000">
+  <ele>1008.509827</ele>
+  <time>2017-11-18T21:06:01Z</time>
+  <desc>lat.=35.706515, lon.=138.761885, Alt.=1008.509827m. Speed=4.345634m/h.</desc>
+</trkpt>
+<trkpt lat="35.706727000" lon="138.762890000">
+  <ele>1030.036255</ele>
+  <time>2017-11-18T21:07:45Z</time>
+  <desc>lat.=35.706727, lon.=138.762890, Alt.=1030.036255m. Speed=7.260806m/h.</desc>
+<name>恩若ノ峰(温石ノ峰) [おんじゃくのみね]</name><type>1</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7729</link></trkpt>
+<trkpt lat="35.707665000" lon="138.763609000">
+  <ele>1014.949646</ele>
+  <time>2017-11-18T21:08:40Z</time>
+  <desc>lat.=35.707665, lon.=138.763609, Alt.=1014.949646m. Speed=7.952166m/h.</desc>
+</trkpt>
+<trkpt lat="35.707504000" lon="138.764677000">
+  <ele>1012.955994</ele>
+  <time>2017-11-18T21:09:19Z</time>
+  <desc>lat.=35.707504, lon.=138.764677, Alt.=1012.955994m. Speed=7.300111m/h.</desc>
+</trkpt>
+<trkpt lat="35.708324000" lon="138.766244000">
+  <ele>1024.400635</ele>
+  <time>2017-11-18T21:10:30Z</time>
+  <desc>lat.=35.708324, lon.=138.766244, Alt.=1024.400635m. Speed=4.457878m/h.</desc>
+</trkpt>
+<trkpt lat="35.707863000" lon="138.767487000">
+  <ele>1031.568237</ele>
+  <time>2017-11-18T21:11:52Z</time>
+  <desc>lat.=35.707863, lon.=138.767487, Alt.=1031.568237m. Speed=4.631695m/h.</desc>
+</trkpt>
+<trkpt lat="35.706454000" lon="138.769114000">
+  <ele>1055.649902</ele>
+  <time>2017-11-18T21:13:53Z</time>
+  <desc>lat.=35.706454, lon.=138.769114, Alt.=1055.649902m. Speed=3.461382m/h.</desc>
+</trkpt>
+<trkpt lat="35.706332000" lon="138.769763000">
+  <ele>1057.105103</ele>
+  <time>2017-11-18T21:14:27Z</time>
+  <desc>lat.=35.706332, lon.=138.769763, Alt.=1057.105103m. Speed=1.861207m/h.</desc>
+</trkpt>
+<trkpt lat="35.706850000" lon="138.770806000">
+  <ele>1080.180176</ele>
+  <time>2017-11-18T21:16:03Z</time>
+  <desc>lat.=35.706850, lon.=138.770806, Alt.=1080.180176m. Speed=6.811869m/h.</desc>
+</trkpt>
+<trkpt lat="35.706589000" lon="138.771547000">
+  <ele>1092.970825</ele>
+  <time>2017-11-18T21:16:57Z</time>
+  <desc>lat.=35.706589, lon.=138.771547, Alt.=1092.970825m. Speed=11.328916m/h.</desc>
+</trkpt>
+<trkpt lat="35.706221000" lon="138.771684000">
+  <ele>1099.406860</ele>
+  <time>2017-11-18T21:17:23Z</time>
+  <desc>lat.=35.706221, lon.=138.771684, Alt.=1099.406860m. Speed=3.518865m/h.</desc>
+</trkpt>
+<trkpt lat="35.706003000" lon="138.772360000">
+  <ele>1103.799438</ele>
+  <time>2017-11-18T21:17:52Z</time>
+  <desc>lat.=35.706003, lon.=138.772360, Alt.=1103.799438m. Speed=2.551889m/h.</desc>
+</trkpt>
+<trkpt lat="35.705108000" lon="138.773368000">
+  <ele>1113.120483</ele>
+  <time>2017-11-18T21:19:10Z</time>
+  <desc>lat.=35.705108, lon.=138.773368, Alt.=1113.120483m. Speed=6.422740m/h.</desc>
+</trkpt>
+<trkpt lat="35.705044000" lon="138.773979000">
+  <ele>1104.413940</ele>
+  <time>2017-11-18T21:19:33Z</time>
+  <desc>lat.=35.705044, lon.=138.773979, Alt.=1104.413940m. Speed=6.387035m/h.</desc>
+</trkpt>
+<trkpt lat="35.705354000" lon="138.775136000">
+  <ele>1107.057983</ele>
+  <time>2017-11-18T21:20:15Z</time>
+  <desc>lat.=35.705354, lon.=138.775136, Alt.=1107.057983m. Speed=6.199293m/h.</desc>
+</trkpt>
+<trkpt lat="35.704640000" lon="138.777492000">
+  <ele>1135.692383</ele>
+  <time>2017-11-18T21:23:18Z</time>
+  <desc>lat.=35.704640, lon.=138.777492, Alt.=1135.692383m. Speed=7.275054m/h.</desc>
+</trkpt>
+<trkpt lat="35.703547000" lon="138.778670000">
+  <ele>1132.359131</ele>
+  <time>2017-11-18T21:24:25Z</time>
+  <desc>lat.=35.703547, lon.=138.778670, Alt.=1132.359131m. Speed=5.253457m/h.</desc>
+</trkpt>
+<trkpt lat="35.703948000" lon="138.780901000">
+  <ele>1192.408813</ele>
+  <time>2017-11-18T21:28:18Z</time>
+  <desc>lat.=35.703948, lon.=138.780901, Alt.=1192.408813m. Speed=2.736014m/h.</desc>
+</trkpt>
+<trkpt lat="35.702625000" lon="138.782648000">
+  <ele>1231.737549</ele>
+  <time>2017-11-18T21:31:11Z</time>
+  <desc>lat.=35.702625, lon.=138.782648, Alt.=1231.737549m. Speed=7.093750m/h.</desc>
+</trkpt>
+<trkpt lat="35.702040000" lon="138.783022000">
+  <ele>1234.585083</ele>
+  <time>2017-11-18T21:31:45Z</time>
+  <desc>lat.=35.702040, lon.=138.783022, Alt.=1234.585083m. Speed=7.811779m/h.</desc>
+</trkpt>
+<trkpt lat="35.701890000" lon="138.784276000">
+  <ele>1256.306396</ele>
+  <time>2017-11-18T21:33:05Z</time>
+  <desc>lat.=35.701890, lon.=138.784276, Alt.=1256.306396m. Speed=2.520770m/h.</desc>
+</trkpt>
+<trkpt lat="35.702266000" lon="138.785405000">
+  <ele>1274.670776</ele>
+  <time>2017-11-18T21:34:10Z</time>
+  <desc>lat.=35.702266, lon.=138.785405, Alt.=1274.670776m. Speed=3.576849m/h.</desc>
+</trkpt>
+<trkpt lat="35.701765000" lon="138.786277000">
+  <ele>1284.586548</ele>
+  <time>2017-11-18T21:35:05Z</time>
+  <desc>lat.=35.701765, lon.=138.786277, Alt.=1284.586548m. Speed=3.806494m/h.</desc>
+<name>オツタテ</name><type>1</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=14046</link></trkpt>
+<trkpt lat="35.701755000" lon="138.786891000">
+  <ele>1284.347290</ele>
+  <time>2017-11-18T21:35:28Z</time>
+  <desc>lat.=35.701755, lon.=138.786891, Alt.=1284.347290m. Speed=5.597723m/h.</desc>
+</trkpt>
+<trkpt lat="35.700249000" lon="138.788860000">
+  <ele>1267.581909</ele>
+  <time>2017-11-18T21:37:28Z</time>
+  <desc>lat.=35.700249, lon.=138.788860, Alt.=1267.581909m. Speed=3.776529m/h.</desc>
+</trkpt>
+<trkpt lat="35.699933000" lon="138.789971000">
+  <ele>1262.597778</ele>
+  <time>2017-11-18T21:39:07Z</time>
+  <desc>lat.=35.699933, lon.=138.789971, Alt.=1262.597778m. Speed=2.366210m/h.</desc>
+</trkpt>
+<trkpt lat="35.699388000" lon="138.790225000">
+  <ele>1262.588379</ele>
+  <time>2017-11-18T21:39:46Z</time>
+  <desc>lat.=35.699388, lon.=138.790225, Alt.=1262.588379m. Speed=3.845405m/h.</desc>
+</trkpt>
+<trkpt lat="35.699324000" lon="138.790761000">
+  <ele>1276.365234</ele>
+  <time>2017-11-18T21:40:26Z</time>
+  <desc>lat.=35.699324, lon.=138.790761, Alt.=1276.365234m. Speed=3.925352m/h.</desc>
+</trkpt>
+<trkpt lat="35.698741000" lon="138.791366000">
+  <ele>1282.110596</ele>
+  <time>2017-11-18T21:41:36Z</time>
+  <desc>lat.=35.698741, lon.=138.791366, Alt.=1282.110596m. Speed=2.721647m/h.</desc>
+</trkpt>
+<trkpt lat="35.698728000" lon="138.791785000">
+  <ele>1296.976074</ele>
+  <time>2017-11-18T21:42:30Z</time>
+  <desc>lat.=35.698728, lon.=138.791785, Alt.=1296.976074m. Speed=5.649012m/h.</desc>
+<name>源次郎平</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=37365</link></trkpt>
+<trkpt lat="35.697972000" lon="138.792517000">
+  <ele>1305.173706</ele>
+  <time>2017-11-18T21:43:32Z</time>
+  <desc>lat.=35.697972, lon.=138.792517, Alt.=1305.173706m. Speed=7.288508m/h.</desc>
+</trkpt>
+<trkpt lat="35.697351000" lon="138.794565000">
+  <ele>1321.921997</ele>
+  <time>2017-11-18T21:46:42Z</time>
+  <desc>lat.=35.697351, lon.=138.794565, Alt.=1321.921997m. Speed=2.554480m/h.</desc>
+</trkpt>
+<trkpt lat="35.697977000" lon="138.795460000">
+  <ele>1359.580444</ele>
+  <time>2017-11-18T21:48:33Z</time>
+  <desc>lat.=35.697977, lon.=138.795460, Alt.=1359.580444m. Speed=4.182202m/h.</desc>
+</trkpt>
+<trkpt lat="35.697787000" lon="138.797016000">
+  <ele>1387.519287</ele>
+  <time>2017-11-18T21:51:15Z</time>
+  <desc>lat.=35.697787, lon.=138.797016, Alt.=1387.519287m. Speed=2.366642m/h.</desc>
+</trkpt>
+<trkpt lat="35.697416000" lon="138.797309000">
+  <ele>1395.383301</ele>
+  <time>2017-11-18T21:52:27Z</time>
+  <desc>lat.=35.697416, lon.=138.797309, Alt.=1395.383301m. Speed=0.878764m/h.</desc>
+</trkpt>
+<trkpt lat="35.697378000" lon="138.798105000">
+  <ele>1453.053955</ele>
+  <time>2017-11-18T21:55:57Z</time>
+  <desc>lat.=35.697378, lon.=138.798105, Alt.=1453.053955m. Speed=0.780750m/h.</desc>
+</trkpt>
+<trkpt lat="35.696216000" lon="138.800285000">
+  <ele>1535.470825</ele>
+  <time>2017-11-18T22:01:39Z</time>
+  <desc>lat.=35.696216, lon.=138.800285, Alt.=1535.470825m. Speed=5.401617m/h.</desc>
+</trkpt>
+<trkpt lat="35.696557000" lon="138.800919000">
+  <ele>1551.499756</ele>
+  <time>2017-11-18T22:02:26Z</time>
+  <desc>lat.=35.696557, lon.=138.800919, Alt.=1551.499756m. Speed=5.009284m/h.</desc>
+</trkpt>
+<trkpt lat="35.696502000" lon="138.802761000">
+  <ele>1566.895630</ele>
+  <time>2017-11-18T22:06:04Z</time>
+  <desc>lat.=35.696502, lon.=138.802761, Alt.=1566.895630m. Speed=2.948447m/h.</desc>
+</trkpt>
+<trkpt lat="35.695952000" lon="138.803322000">
+  <ele>1573.983765</ele>
+  <time>2017-11-18T22:06:53Z</time>
+  <desc>lat.=35.695952, lon.=138.803322, Alt.=1573.983765m. Speed=1.974703m/h.</desc>
+</trkpt>
+<trkpt lat="35.695562000" lon="138.804170000">
+  <ele>1595.502686</ele>
+  <time>2017-11-18T22:08:56Z</time>
+  <desc>lat.=35.695562, lon.=138.804170, Alt.=1595.502686m. Speed=4.618348m/h.</desc>
+<name>源次郎岳・下日川峠・嵯峨塩温泉分岐点</name><type>3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=14308</link></trkpt>
+<trkpt lat="35.697043000" lon="138.806064000">
+  <ele>1605.512573</ele>
+  <time>2017-11-18T22:10:33Z</time>
+  <desc>lat.=35.697043, lon.=138.806064, Alt.=1605.512573m. Speed=7.583503m/h.</desc>
+</trkpt>
+<trkpt lat="35.697593000" lon="138.806279000">
+  <ele>1608.888428</ele>
+  <time>2017-11-18T22:11:11Z</time>
+  <desc>lat.=35.697593, lon.=138.806279, Alt.=1608.888428m. Speed=5.144894m/h.</desc>
+</trkpt>
+<trkpt lat="35.698223000" lon="138.808226000">
+  <ele>1588.334961</ele>
+  <time>2017-11-18T22:12:39Z</time>
+  <desc>lat.=35.698223, lon.=138.808226, Alt.=1588.334961m. Speed=4.827263m/h.</desc>
+</trkpt>
+<trkpt lat="35.698847000" lon="138.808971000">
+  <ele>1597.004395</ele>
+  <time>2017-11-18T22:13:29Z</time>
+  <desc>lat.=35.698847, lon.=138.808971, Alt.=1597.004395m. Speed=15.361116m/h.</desc>
+</trkpt>
+<trkpt lat="35.699693000" lon="138.809212000">
+  <ele>1584.033325</ele>
+  <time>2017-11-18T22:14:16Z</time>
+  <desc>lat.=35.699693, lon.=138.809212, Alt.=1584.033325m. Speed=5.674484m/h.</desc>
+</trkpt>
+<trkpt lat="35.701375000" lon="138.810279000">
+  <ele>1589.253052</ele>
+  <time>2017-11-18T22:15:28Z</time>
+  <desc>lat.=35.701375, lon.=138.810279, Alt.=1589.253052m. Speed=4.497808m/h.</desc>
+</trkpt>
+<trkpt lat="35.701964000" lon="138.810069000">
+  <ele>1586.986328</ele>
+  <time>2017-11-18T22:16:01Z</time>
+  <desc>lat.=35.701964, lon.=138.810069, Alt.=1586.986328m. Speed=8.908696m/h.</desc>
+</trkpt>
+<trkpt lat="35.702577000" lon="138.810182000">
+  <ele>1581.596680</ele>
+  <time>2017-11-18T22:16:36Z</time>
+  <desc>lat.=35.702577, lon.=138.810182, Alt.=1581.596680m. Speed=6.828662m/h.</desc>
+</trkpt>
+<trkpt lat="35.703393000" lon="138.810835000">
+  <ele>1596.058472</ele>
+  <time>2017-11-18T22:17:24Z</time>
+  <desc>lat.=35.703393, lon.=138.810835, Alt.=1596.058472m. Speed=6.924882m/h.</desc>
+<name>下日川峠 [しもにっかわとうげ]</name><type>2</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7728</link></trkpt>
+<trkpt lat="35.702810000" lon="138.812042000">
+  <ele>1592.606201</ele>
+  <time>2017-11-18T22:18:17Z</time>
+  <desc>lat.=35.702810, lon.=138.812042, Alt.=1592.606201m. Speed=7.898084m/h.</desc>
+</trkpt>
+<trkpt lat="35.703465000" lon="138.812009000">
+  <ele>1598.456299</ele>
+  <time>2017-11-18T22:19:01Z</time>
+  <desc>lat.=35.703465, lon.=138.812009, Alt.=1598.456299m. Speed=4.991944m/h.</desc>
+</trkpt>
+<trkpt lat="35.704011000" lon="138.811230000">
+  <ele>1603.959229</ele>
+  <time>2017-11-18T22:19:55Z</time>
+  <desc>lat.=35.704011, lon.=138.811230, Alt.=1603.959229m. Speed=8.297469m/h.</desc>
+</trkpt>
+<trkpt lat="35.704311000" lon="138.811284000">
+  <ele>1608.750366</ele>
+  <time>2017-11-18T22:20:09Z</time>
+  <desc>lat.=35.704311, lon.=138.811284, Alt.=1608.750366m. Speed=5.888020m/h.</desc>
+</trkpt>
+<trkpt lat="35.704164000" lon="138.812844000">
+  <ele>1627.750610</ele>
+  <time>2017-11-18T22:21:29Z</time>
+  <desc>lat.=35.704164, lon.=138.812844, Alt.=1627.750610m. Speed=6.211268m/h.</desc>
+</trkpt>
+<trkpt lat="35.704573000" lon="138.813636000">
+  <ele>1630.536011</ele>
+  <time>2017-11-18T22:22:09Z</time>
+  <desc>lat.=35.704573, lon.=138.813636, Alt.=1630.536011m. Speed=5.425636m/h.</desc>
+</trkpt>
+<trkpt lat="35.705703000" lon="138.813701000">
+  <ele>1659.108765</ele>
+  <time>2017-11-18T22:23:19Z</time>
+  <desc>lat.=35.705703, lon.=138.813701, Alt.=1659.108765m. Speed=8.251269m/h.</desc>
+<name>NTT中継アンテナ</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=14307</link></trkpt>
+<trkpt lat="35.706940000" lon="138.815394000">
+  <ele>1674.698242</ele>
+  <time>2017-11-18T22:25:44Z</time>
+  <desc>lat.=35.706940, lon.=138.815394, Alt.=1674.698242m. Speed=3.296293m/h.</desc>
+</trkpt>
+<trkpt lat="35.708232000" lon="138.815537000">
+  <ele>1681.572510</ele>
+  <time>2017-11-18T22:27:16Z</time>
+  <desc>lat.=35.708232, lon.=138.815537, Alt.=1681.572510m. Speed=3.450412m/h.</desc>
+</trkpt>
+<trkpt lat="35.709379000" lon="138.816563000">
+  <ele>1701.698975</ele>
+  <time>2017-11-18T22:28:46Z</time>
+  <desc>lat.=35.709379, lon.=138.816563, Alt.=1701.698975m. Speed=6.347106m/h.</desc>
+<name>1627m峰(ゴウロ沢ノ頭)</name><type>1</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=14306</link></trkpt>
+<trkpt lat="35.710263000" lon="138.816267000">
+  <ele>1709.995239</ele>
+  <time>2017-11-18T22:29:25Z</time>
+  <desc>lat.=35.710263, lon.=138.816267, Alt.=1709.995239m. Speed=7.529573m/h.</desc>
+</trkpt>
+<trkpt lat="35.710995000" lon="138.816515000">
+  <ele>1704.891235</ele>
+  <time>2017-11-18T22:30:22Z</time>
+  <desc>lat.=35.710995, lon.=138.816515, Alt.=1704.891235m. Speed=4.113585m/h.</desc>
+</trkpt>
+<trkpt lat="35.711317000" lon="138.817308000">
+  <ele>1718.217529</ele>
+  <time>2017-11-18T22:31:22Z</time>
+  <desc>lat.=35.711317, lon.=138.817308, Alt.=1718.217529m. Speed=5.685733m/h.</desc>
+</trkpt>
+<trkpt lat="35.711640000" lon="138.817509000">
+  <ele>1730.493164</ele>
+  <time>2017-11-18T22:31:45Z</time>
+  <desc>lat.=35.711640, lon.=138.817509, Alt.=1730.493164m. Speed=4.754304m/h.</desc>
+</trkpt>
+<trkpt lat="35.712156000" lon="138.818592000">
+  <ele>1737.274292</ele>
+  <time>2017-11-18T22:33:08Z</time>
+  <desc>lat.=35.712156, lon.=138.818592, Alt.=1737.274292m. Speed=4.535916m/h.</desc>
+</trkpt>
+<trkpt lat="35.712678000" lon="138.819118000">
+  <ele>1737.938599</ele>
+  <time>2017-11-18T22:33:45Z</time>
+  <desc>lat.=35.712678, lon.=138.819118, Alt.=1737.938599m. Speed=7.616786m/h.</desc>
+</trkpt>
+<trkpt lat="35.714135000" lon="138.819409000">
+  <ele>1710.576904</ele>
+  <time>2017-11-18T22:34:53Z</time>
+  <desc>lat.=35.714135, lon.=138.819409, Alt.=1710.576904m. Speed=11.303820m/h.</desc>
+</trkpt>
+<trkpt lat="35.715179000" lon="138.820464000">
+  <ele>1686.041382</ele>
+  <time>2017-11-18T22:36:17Z</time>
+  <desc>lat.=35.715179, lon.=138.820464, Alt.=1686.041382m. Speed=2.945250m/h.</desc>
+</trkpt>
+<trkpt lat="35.716401000" lon="138.820828000">
+  <ele>1665.766724</ele>
+  <time>2017-11-18T22:37:18Z</time>
+  <desc>lat.=35.716401, lon.=138.820828, Alt.=1665.766724m. Speed=3.706665m/h.</desc>
+</trkpt>
+<trkpt lat="35.716791000" lon="138.820720000">
+  <ele>1664.564087</ele>
+  <time>2017-11-18T22:37:39Z</time>
+  <desc>lat.=35.716791, lon.=138.820720, Alt.=1664.564087m. Speed=5.617074m/h.</desc>
+</trkpt>
+<trkpt lat="35.717217000" lon="138.820977000">
+  <ele>1651.456787</ele>
+  <time>2017-11-18T22:38:05Z</time>
+  <desc>lat.=35.717217, lon.=138.820977, Alt.=1651.456787m. Speed=6.994726m/h.</desc>
+<name>中日川峠 [なかにっかわとうげ]</name><type>2</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=7727</link></trkpt>
+<trkpt lat="35.717780000" lon="138.822356000">
+  <ele>1639.006958</ele>
+  <time>2017-11-18T22:38:53Z</time>
+  <desc>lat.=35.717780, lon.=138.822356, Alt.=1639.006958m. Speed=8.636603m/h.</desc>
+</trkpt>
+<trkpt lat="35.718518000" lon="138.822912000">
+  <ele>1641.736450</ele>
+  <time>2017-11-18T22:39:38Z</time>
+  <desc>lat.=35.718518, lon.=138.822912, Alt.=1641.736450m. Speed=6.034597m/h.</desc>
+</trkpt>
+<trkpt lat="35.718580000" lon="138.823508000">
+  <ele>1661.836670</ele>
+  <time>2017-11-18T22:40:15Z</time>
+  <desc>lat.=35.718580, lon.=138.823508, Alt.=1661.836670m. Speed=7.428818m/h.</desc>
+</trkpt>
+<trkpt lat="35.719544000" lon="138.823456000">
+  <ele>1660.377563</ele>
+  <time>2017-11-18T22:41:04Z</time>
+  <desc>lat.=35.719544, lon.=138.823456, Alt.=1660.377563m. Speed=8.929467m/h.</desc>
+</trkpt>
+<trkpt lat="35.720073000" lon="138.823904000">
+  <ele>1642.931641</ele>
+  <time>2017-11-18T22:41:28Z</time>
+  <desc>lat.=35.720073, lon.=138.823904, Alt.=1642.931641m. Speed=9.578940m/h.</desc>
+</trkpt>
+<trkpt lat="35.719906000" lon="138.825149000">
+  <ele>1662.520752</ele>
+  <time>2017-11-18T22:42:31Z</time>
+  <desc>lat.=35.719906, lon.=138.825149, Alt.=1662.520752m. Speed=5.348393m/h.</desc>
+</trkpt>
+<trkpt lat="35.720316000" lon="138.825535000">
+  <ele>1659.411621</ele>
+  <time>2017-11-18T22:42:57Z</time>
+  <desc>lat.=35.720316, lon.=138.825535, Alt.=1659.411621m. Speed=6.263008m/h.</desc>
+</trkpt>
+<trkpt lat="35.721785000" lon="138.825638000">
+  <ele>1664.073975</ele>
+  <time>2017-11-18T22:44:04Z</time>
+  <desc>lat.=35.721785, lon.=138.825638, Alt.=1664.073975m. Speed=5.976873m/h.</desc>
+</trkpt>
+<trkpt lat="35.722229000" lon="138.825894000">
+  <ele>1648.432983</ele>
+  <time>2017-11-18T22:44:21Z</time>
+  <desc>lat.=35.722229, lon.=138.825894, Alt.=1648.432983m. Speed=5.305969m/h.</desc>
+</trkpt>
+<trkpt lat="35.722901000" lon="138.827342000">
+  <ele>1646.223389</ele>
+  <time>2017-11-18T22:45:25Z</time>
+  <desc>lat.=35.722901, lon.=138.827342, Alt.=1646.223389m. Speed=8.372865m/h.</desc>
+</trkpt>
+<trkpt lat="35.723661000" lon="138.828223000">
+  <ele>1632.327393</ele>
+  <time>2017-11-18T22:46:01Z</time>
+  <desc>lat.=35.723661, lon.=138.828223, Alt.=1632.327393m. Speed=10.587453m/h.</desc>
+</trkpt>
+<trkpt lat="35.724933000" lon="138.829056000">
+  <ele>1634.594849</ele>
+  <time>2017-11-18T22:47:40Z</time>
+  <desc>lat.=35.724933, lon.=138.829056, Alt.=1634.594849m. Speed=3.925077m/h.</desc>
+</trkpt>
+<trkpt lat="35.727907000" lon="138.828981000">
+  <ele>1639.628662</ele>
+  <time>2017-11-18T22:50:26Z</time>
+  <desc>lat.=35.727907, lon.=138.828981, Alt.=1639.628662m. Speed=8.375923m/h.</desc>
+</trkpt>
+<trkpt lat="35.728304000" lon="138.829319000">
+  <ele>1655.096069</ele>
+  <time>2017-11-18T22:50:53Z</time>
+  <desc>lat.=35.728304, lon.=138.829319, Alt.=1655.096069m. Speed=3.788756m/h.</desc>
+<name>砥山</name><type>1</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=14304</link></trkpt>
+<trkpt lat="35.728143000" lon="138.830255000">
+  <ele>1688.345947</ele>
+  <time>2017-11-18T22:51:56Z</time>
+  <desc>lat.=35.728143, lon.=138.830255, Alt.=1688.345947m. Speed=3.175559m/h.</desc>
+</trkpt>
+<trkpt lat="35.728471000" lon="138.830643000">
+  <ele>1686.912231</ele>
+  <time>2017-11-18T22:52:34Z</time>
+  <desc>lat.=35.728471, lon.=138.830643, Alt.=1686.912231m. Speed=3.765891m/h.</desc>
+</trkpt>
+<trkpt lat="35.729445000" lon="138.830962000">
+  <ele>1675.215210</ele>
+  <time>2017-11-18T22:53:12Z</time>
+  <desc>lat.=35.729445, lon.=138.830962, Alt.=1675.215210m. Speed=9.800395m/h.</desc>
+</trkpt>
+<trkpt lat="35.729651000" lon="138.831382000">
+  <ele>1670.991455</ele>
+  <time>2017-11-18T22:53:25Z</time>
+  <desc>lat.=35.729651, lon.=138.831382, Alt.=1670.991455m. Speed=4.450129m/h.</desc>
+</trkpt>
+<trkpt lat="35.729501000" lon="138.832214000">
+  <ele>1655.412598</ele>
+  <time>2017-11-18T22:53:55Z</time>
+  <desc>lat.=35.729501, lon.=138.832214, Alt.=1655.412598m. Speed=9.467819m/h.</desc>
+</trkpt>
+<trkpt lat="35.728993000" lon="138.832635000">
+  <ele>1649.514526</ele>
+  <time>2017-11-18T22:54:15Z</time>
+  <desc>lat.=35.728993, lon.=138.832635, Alt.=1649.514526m. Speed=7.358305m/h.</desc>
+</trkpt>
+<trkpt lat="35.728381000" lon="138.832333000">
+  <ele>1652.543823</ele>
+  <time>2017-11-18T22:54:43Z</time>
+  <desc>lat.=35.728381, lon.=138.832333, Alt.=1652.543823m. Speed=6.527125m/h.</desc>
+</trkpt>
+<trkpt lat="35.728524000" lon="138.833433000">
+  <ele>1650.327515</ele>
+  <time>2017-11-18T22:55:27Z</time>
+  <desc>lat.=35.728524, lon.=138.833433, Alt.=1650.327515m. Speed=11.359148m/h.</desc>
+</trkpt>
+<trkpt lat="35.728963000" lon="138.834373000">
+  <ele>1632.520386</ele>
+  <time>2017-11-18T22:56:07Z</time>
+  <desc>lat.=35.728963, lon.=138.834373, Alt.=1632.520386m. Speed=6.908697m/h.</desc>
+</trkpt>
+<trkpt lat="35.728498000" lon="138.835528000">
+  <ele>1641.860840</ele>
+  <time>2017-11-18T22:56:51Z</time>
+  <desc>lat.=35.728498, lon.=138.835528, Alt.=1641.860840m. Speed=3.531929m/h.</desc>
+</trkpt>
+<trkpt lat="35.728548000" lon="138.836878000">
+  <ele>1635.971558</ele>
+  <time>2017-11-18T22:57:48Z</time>
+  <desc>lat.=35.728548, lon.=138.836878, Alt.=1635.971558m. Speed=7.182403m/h.</desc>
+</trkpt>
+<trkpt lat="35.728157000" lon="138.837473000">
+  <ele>1627.381348</ele>
+  <time>2017-11-18T22:58:10Z</time>
+  <desc>lat.=35.728157, lon.=138.837473, Alt.=1627.381348m. Speed=10.735101m/h.</desc>
+</trkpt>
+<trkpt lat="35.726684000" lon="138.838584000">
+  <ele>1580.017944</ele>
+  <time>2017-11-18T22:59:13Z</time>
+  <desc>lat.=35.726684, lon.=138.838584, Alt.=1580.017944m. Speed=8.836031m/h.</desc>
+</trkpt>
+<trkpt lat="35.725818000" lon="138.838638000">
+  <ele>1552.350708</ele>
+  <time>2017-11-18T22:59:37Z</time>
+  <desc>lat.=35.725818, lon.=138.838638, Alt.=1552.350708m. Speed=6.743779m/h.</desc>
+</trkpt>
+<trkpt lat="35.726474000" lon="138.840162000">
+  <ele>1591.466431</ele>
+  <time>2017-11-18T23:01:02Z</time>
+  <desc>lat.=35.726474, lon.=138.840162, Alt.=1591.466431m. Speed=6.486158m/h.</desc>
+</trkpt>
+<trkpt lat="35.727239000" lon="138.840817000">
+  <ele>1631.265137</ele>
+  <time>2017-11-18T23:02:01Z</time>
+  <desc>lat.=35.727239, lon.=138.840817, Alt.=1631.265137m. Speed=4.188956m/h.</desc>
+</trkpt>
+<trkpt lat="35.727694000" lon="138.840805000">
+  <ele>1646.858276</ele>
+  <time>2017-11-18T23:02:32Z</time>
+  <desc>lat.=35.727694, lon.=138.840805, Alt.=1646.858276m. Speed=5.301235m/h.</desc>
+</trkpt>
+<trkpt lat="35.728603000" lon="138.841717000">
+  <ele>1654.430054</ele>
+  <time>2017-11-18T23:03:33Z</time>
+  <desc>lat.=35.728603, lon.=138.841717, Alt.=1654.430054m. Speed=7.771343m/h.</desc>
+</trkpt>
+<trkpt lat="35.729217000" lon="138.841474000">
+  <ele>1651.271240</ele>
+  <time>2017-11-18T23:06:12Z</time>
+  <desc>lat.=35.729217, lon.=138.841474, Alt.=1651.271240m. Speed=0.043214m/h.</desc>
+</trkpt>
+<trkpt lat="35.729513000" lon="138.841857000">
+  <ele>1625.910156</ele>
+  <time>2017-11-18T23:08:12Z</time>
+  <desc>lat.=35.729513, lon.=138.841857, Alt.=1625.910156m. Speed=2.032837m/h.</desc>
+</trkpt>
+<trkpt lat="35.729249000" lon="138.841728000">
+  <ele>1624.319580</ele>
+  <time>2017-11-18T23:08:29Z</time>
+  <desc>lat.=35.729249, lon.=138.841728, Alt.=1624.319580m. Speed=7.024475m/h.</desc>
+</trkpt>
+<trkpt lat="35.729699000" lon="138.841826000">
+  <ele>1636.529175</ele>
+  <time>2017-11-18T23:09:19Z</time>
+  <desc>lat.=35.729699, lon.=138.841826, Alt.=1636.529175m. Speed=6.062137m/h.</desc>
+</trkpt>
+<trkpt lat="35.729749000" lon="138.842134000">
+  <ele>1646.328003</ele>
+  <time>2017-11-18T23:09:45Z</time>
+  <desc>lat.=35.729749, lon.=138.842134, Alt.=1646.328003m. Speed=2.450154m/h.</desc>
+</trkpt>
+<trkpt lat="35.729417000" lon="138.842705000">
+  <ele>1654.391602</ele>
+  <time>2017-11-18T23:10:28Z</time>
+  <desc>lat.=35.729417, lon.=138.842705, Alt.=1654.391602m. Speed=2.897692m/h.</desc>
+<name>小屋平バス停(石丸峠入口) [こやだいらばすてい(いしまるとうげいりぐち)]</name><type>3,4,12</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=10720</link></trkpt>
+<trkpt lat="35.729741000" lon="138.844194000">
+  <ele>1648.886597</ele>
+  <time>2017-11-18T23:12:38Z</time>
+  <desc>lat.=35.729741, lon.=138.844194, Alt.=1648.886597m. Speed=3.593986m/h.</desc>
+</trkpt>
+<trkpt lat="35.729461000" lon="138.844442000">
+  <ele>1660.814453</ele>
+  <time>2017-11-18T23:13:12Z</time>
+  <desc>lat.=35.729461, lon.=138.844442, Alt.=1660.814453m. Speed=3.900913m/h.</desc>
+</trkpt>
+<trkpt lat="35.729704000" lon="138.845421000">
+  <ele>1701.567627</ele>
+  <time>2017-11-18T23:16:16Z</time>
+  <desc>lat.=35.729704, lon.=138.845421, Alt.=1701.567627m. Speed=1.737751m/h.</desc>
+</trkpt>
+<trkpt lat="35.729452000" lon="138.846684000">
+  <ele>1757.889038</ele>
+  <time>2017-11-18T23:19:43Z</time>
+  <desc>lat.=35.729452, lon.=138.846684, Alt.=1757.889038m. Speed=2.914052m/h.</desc>
+</trkpt>
+<trkpt lat="35.729083000" lon="138.847002000">
+  <ele>1766.835815</ele>
+  <time>2017-11-18T23:20:25Z</time>
+  <desc>lat.=35.729083, lon.=138.847002, Alt.=1766.835815m. Speed=6.281719m/h.</desc>
+</trkpt>
+<trkpt lat="35.728137000" lon="138.846976000">
+  <ele>1768.953369</ele>
+  <time>2017-11-18T23:21:14Z</time>
+  <desc>lat.=35.728137, lon.=138.846976, Alt.=1768.953369m. Speed=8.656343m/h.</desc>
+</trkpt>
+<trkpt lat="35.728075000" lon="138.848051000">
+  <ele>1765.017578</ele>
+  <time>2017-11-18T23:22:11Z</time>
+  <desc>lat.=35.728075, lon.=138.848051, Alt.=1765.017578m. Speed=8.782287m/h.</desc>
+</trkpt>
+<trkpt lat="35.728550000" lon="138.848330000">
+  <ele>1771.243042</ele>
+  <time>2017-11-18T23:22:37Z</time>
+  <desc>lat.=35.728550, lon.=138.848330, Alt.=1771.243042m. Speed=4.984629m/h.</desc>
+</trkpt>
+<trkpt lat="35.728609000" lon="138.849198000">
+  <ele>1779.601440</ele>
+  <time>2017-11-18T23:23:05Z</time>
+  <desc>lat.=35.728609, lon.=138.849198, Alt.=1779.601440m. Speed=8.049518m/h.</desc>
+</trkpt>
+<trkpt lat="35.728297000" lon="138.850440000">
+  <ele>1777.493286</ele>
+  <time>2017-11-18T23:24:02Z</time>
+  <desc>lat.=35.728297, lon.=138.850440, Alt.=1777.493286m. Speed=7.535805m/h.</desc>
+</trkpt>
+<trkpt lat="35.728323000" lon="138.851400000">
+  <ele>1781.514648</ele>
+  <time>2017-11-18T23:24:41Z</time>
+  <desc>lat.=35.728323, lon.=138.851400, Alt.=1781.514648m. Speed=10.060836m/h.</desc>
+</trkpt>
+<trkpt lat="35.728588000" lon="138.851761000">
+  <ele>1783.228760</ele>
+  <time>2017-11-18T23:24:57Z</time>
+  <desc>lat.=35.728588, lon.=138.851761, Alt.=1783.228760m. Speed=9.817888m/h.</desc>
+</trkpt>
+<trkpt lat="35.728596000" lon="138.853781000">
+  <ele>1806.664673</ele>
+  <time>2017-11-18T23:26:04Z</time>
+  <desc>lat.=35.728596, lon.=138.853781, Alt.=1806.664673m. Speed=2.535660m/h.</desc>
+</trkpt>
+<trkpt lat="35.729113000" lon="138.854450000">
+  <ele>1861.522339</ele>
+  <time>2017-11-18T23:29:14Z</time>
+  <desc>lat.=35.729113, lon.=138.854450, Alt.=1861.522339m. Speed=1.080199m/h.</desc>
+</trkpt>
+<trkpt lat="35.728744000" lon="138.855242000">
+  <ele>1853.129517</ele>
+  <time>2017-11-18T23:30:28Z</time>
+  <desc>lat.=35.728744, lon.=138.855242, Alt.=1853.129517m. Speed=7.658133m/h.</desc>
+</trkpt>
+<trkpt lat="35.728895000" lon="138.856111000">
+  <ele>1848.661255</ele>
+  <time>2017-11-18T23:31:34Z</time>
+  <desc>lat.=35.728895, lon.=138.856111, Alt.=1848.661255m. Speed=4.249112m/h.</desc>
+</trkpt>
+<trkpt lat="35.728143000" lon="138.857258000">
+  <ele>1849.225708</ele>
+  <time>2017-11-18T23:33:15Z</time>
+  <desc>lat.=35.728143, lon.=138.857258, Alt.=1849.225708m. Speed=4.589541m/h.</desc>
+</trkpt>
+<trkpt lat="35.728252000" lon="138.858836000">
+  <ele>1918.321533</ele>
+  <time>2017-11-18T23:37:54Z</time>
+  <desc>lat.=35.728252, lon.=138.858836, Alt.=1918.321533m. Speed=2.595796m/h.</desc>
+</trkpt>
+<trkpt lat="35.728497000" lon="138.859109000">
+  <ele>1933.182983</ele>
+  <time>2017-11-18T23:39:18Z</time>
+  <desc>lat.=35.728497, lon.=138.859109, Alt.=1933.182983m. Speed=3.166224m/h.</desc>
+</trkpt>
+<trkpt lat="35.728356000" lon="138.859622000">
+  <ele>1946.270386</ele>
+  <time>2017-11-18T23:40:24Z</time>
+  <desc>lat.=35.728356, lon.=138.859622, Alt.=1946.270386m. Speed=3.703299m/h.</desc>
+</trkpt>
+<trkpt lat="35.727477000" lon="138.859348000">
+  <ele>1939.834351</ele>
+  <time>2017-11-18T23:41:26Z</time>
+  <desc>lat.=35.727477, lon.=138.859348, Alt.=1939.834351m. Speed=7.094143m/h.</desc>
+</trkpt>
+<trkpt lat="35.727016000" lon="138.859503000">
+  <ele>1922.726318</ele>
+  <time>2017-11-18T23:41:49Z</time>
+  <desc>lat.=35.727016, lon.=138.859503, Alt.=1922.726318m. Speed=11.175652m/h.</desc>
+</trkpt>
+<trkpt lat="35.725391000" lon="138.858864000">
+  <ele>1911.566162</ele>
+  <time>2017-11-18T23:42:51Z</time>
+  <desc>lat.=35.725391, lon.=138.858864, Alt.=1911.566162m. Speed=7.134048m/h.</desc>
+<name>狼平</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=6451</link></trkpt>
+<trkpt lat="35.725232000" lon="138.858474000">
+  <ele>1925.282349</ele>
+  <time>2017-11-18T23:43:27Z</time>
+  <desc>lat.=35.725232, lon.=138.858474, Alt.=1925.282349m. Speed=3.161571m/h.</desc>
+</trkpt>
+<trkpt lat="35.724014000" lon="138.858577000">
+  <ele>1941.549927</ele>
+  <time>2017-11-18T23:45:24Z</time>
+  <desc>lat.=35.724014, lon.=138.858577, Alt.=1941.549927m. Speed=1.896566m/h.</desc>
+</trkpt>
+<trkpt lat="35.723710000" lon="138.858398000">
+  <ele>1957.951050</ele>
+  <time>2017-11-18T23:46:15Z</time>
+  <desc>lat.=35.723710, lon.=138.858398, Alt.=1957.951050m. Speed=6.827214m/h.</desc>
+</trkpt>
+<trkpt lat="35.723434000" lon="138.857661000">
+  <ele>1961.508545</ele>
+  <time>2017-11-18T23:47:03Z</time>
+  <desc>lat.=35.723434, lon.=138.857661, Alt.=1961.508545m. Speed=3.643684m/h.</desc>
+</trkpt>
+<trkpt lat="35.723041000" lon="138.857329000">
+  <ele>1952.363525</ele>
+  <time>2017-11-18T23:47:30Z</time>
+  <desc>lat.=35.723041, lon.=138.857329, Alt.=1952.363525m. Speed=4.975772m/h.</desc>
+</trkpt>
+<trkpt lat="35.722686000" lon="138.857349000">
+  <ele>1948.209595</ele>
+  <time>2017-11-18T23:48:08Z</time>
+  <desc>lat.=35.722686, lon.=138.857349, Alt.=1948.209595m. Speed=2.053610m/h.</desc>
+</trkpt>
+<trkpt lat="35.719733000" lon="138.856083000">
+  <ele>2045.631470</ele>
+  <time>2017-11-18T23:56:17Z</time>
+  <desc>lat.=35.719733, lon.=138.856083, Alt.=2045.631470m. Speed=3.457025m/h.</desc>
+</trkpt>
+<trkpt lat="35.718872000" lon="138.856361000">
+  <ele>2036.213989</ele>
+  <time>2017-11-18T23:57:58Z</time>
+  <desc>lat.=35.718872, lon.=138.856361, Alt.=2036.213989m. Speed=5.360923m/h.</desc>
+</trkpt>
+<trkpt lat="35.718161000" lon="138.856092000">
+  <ele>2043.493530</ele>
+  <time>2017-11-18T23:59:02Z</time>
+  <desc>lat.=35.718161, lon.=138.856092, Alt.=2043.493530m. Speed=1.499612m/h.</desc>
+</trkpt>
+<trkpt lat="35.716941000" lon="138.856591000">
+  <ele>2050.898682</ele>
+  <time>2017-11-19T00:00:51Z</time>
+  <desc>lat.=35.716941, lon.=138.856591, Alt.=2050.898682m. Speed=3.320139m/h.</desc>
+<name>小金沢山 [こがねざわやま]</name><type>1,2,3,4,8,9,10,11,13,14</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2849</link></trkpt>
+<trkpt lat="35.715424000" lon="138.855140000">
+  <ele>2048.651611</ele>
+  <time>2017-11-19T00:03:18Z</time>
+  <desc>lat.=35.715424, lon.=138.855140, Alt.=2048.651611m. Speed=6.293176m/h.</desc>
+</trkpt>
+<trkpt lat="35.714168000" lon="138.854959000">
+  <ele>2033.900146</ele>
+  <time>2017-11-19T00:04:28Z</time>
+  <desc>lat.=35.714168, lon.=138.854959, Alt.=2033.900146m. Speed=5.878264m/h.</desc>
+</trkpt>
+<trkpt lat="35.713966000" lon="138.855508000">
+  <ele>2018.555298</ele>
+  <time>2017-11-19T00:04:51Z</time>
+  <desc>lat.=35.713966, lon.=138.855508, Alt.=2018.555298m. Speed=10.584943m/h.</desc>
+</trkpt>
+<trkpt lat="35.713012000" lon="138.856549000">
+  <ele>2010.218750</ele>
+  <time>2017-11-19T00:05:53Z</time>
+  <desc>lat.=35.713012, lon.=138.856549, Alt.=2010.218750m. Speed=7.584415m/h.</desc>
+</trkpt>
+<trkpt lat="35.712624000" lon="138.856682000">
+  <ele>2012.128052</ele>
+  <time>2017-11-19T00:06:15Z</time>
+  <desc>lat.=35.712624, lon.=138.856682, Alt.=2012.128052m. Speed=5.993383m/h.</desc>
+</trkpt>
+<trkpt lat="35.710858000" lon="138.855835000">
+  <ele>2022.428711</ele>
+  <time>2017-11-19T00:08:55Z</time>
+  <desc>lat.=35.710858, lon.=138.855835, Alt.=2022.428711m. Speed=2.192785m/h.</desc>
+</trkpt>
+<trkpt lat="35.709339000" lon="138.856293000">
+  <ele>2006.789063</ele>
+  <time>2017-11-19T00:10:38Z</time>
+  <desc>lat.=35.709339, lon.=138.856293, Alt.=2006.789063m. Speed=1.933645m/h.</desc>
+</trkpt>
+<trkpt lat="35.707864000" lon="138.856384000">
+  <ele>2001.752686</ele>
+  <time>2017-11-19T00:11:55Z</time>
+  <desc>lat.=35.707864, lon.=138.856384, Alt.=2001.752686m. Speed=3.944538m/h.</desc>
+</trkpt>
+<trkpt lat="35.705910000" lon="138.856890000">
+  <ele>2022.094116</ele>
+  <time>2017-11-19T00:14:21Z</time>
+  <desc>lat.=35.705910, lon.=138.856890, Alt.=2022.094116m. Speed=4.905951m/h.</desc>
+<name>牛奥ノ雁ヶ腹摺山 [うしおくのがんがはらすりやま]</name><type>1,11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=956</link></trkpt>
+<trkpt lat="35.704796000" lon="138.856159000">
+  <ele>2003.109985</ele>
+  <time>2017-11-19T00:16:03Z</time>
+  <desc>lat.=35.704796, lon.=138.856159, Alt.=2003.109985m. Speed=9.404964m/h.</desc>
+</trkpt>
+<trkpt lat="35.703640000" lon="138.856069000">
+  <ele>1994.121704</ele>
+  <time>2017-11-19T00:17:09Z</time>
+  <desc>lat.=35.703640, lon.=138.856069, Alt.=1994.121704m. Speed=11.165916m/h.</desc>
+</trkpt>
+<trkpt lat="35.702616000" lon="138.855350000">
+  <ele>1923.128174</ele>
+  <time>2017-11-19T00:18:11Z</time>
+  <desc>lat.=35.702616, lon.=138.855350, Alt.=1923.128174m. Speed=8.330917m/h.</desc>
+</trkpt>
+<trkpt lat="35.700261000" lon="138.855553000">
+  <ele>1908.582642</ele>
+  <time>2017-11-19T00:21:18Z</time>
+  <desc>lat.=35.700261, lon.=138.855553, Alt.=1908.582642m. Speed=3.626046m/h.</desc>
+</trkpt>
+<trkpt lat="35.700083000" lon="138.855949000">
+  <ele>1913.578857</ele>
+  <time>2017-11-19T00:21:53Z</time>
+  <desc>lat.=35.700083, lon.=138.855949, Alt.=1913.578857m. Speed=3.772655m/h.</desc>
+</trkpt>
+<trkpt lat="35.698818000" lon="138.856443000">
+  <ele>1957.690552</ele>
+  <time>2017-11-19T00:25:06Z</time>
+  <desc>lat.=35.698818, lon.=138.856443, Alt.=1957.690552m. Speed=4.211335m/h.</desc>
+</trkpt>
+<trkpt lat="35.697976000" lon="138.856272000">
+  <ele>1989.160156</ele>
+  <time>2017-11-19T00:27:04Z</time>
+  <desc>lat.=35.697976, lon.=138.856272, Alt.=1989.160156m. Speed=3.521759m/h.</desc>
+</trkpt>
+<trkpt lat="35.697756000" lon="138.857015000">
+  <ele>1995.001343</ele>
+  <time>2017-11-19T00:27:46Z</time>
+  <desc>lat.=35.697756, lon.=138.857015, Alt.=1995.001343m. Speed=3.074332m/h.</desc>
+<name>川胡桃沢ノ頭 [かわくるみさわのあたま]</name><type>1,11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3896</link></trkpt>
+<trkpt lat="35.693973000" lon="138.858656000">
+  <ele>2005.563354</ele>
+  <time>2017-11-19T00:33:04Z</time>
+  <desc>lat.=35.693973, lon.=138.858656, Alt.=2005.563354m. Speed=3.880292m/h.</desc>
+</trkpt>
+<trkpt lat="35.692268000" lon="138.858570000">
+  <ele>2005.343262</ele>
+  <time>2017-11-19T00:35:03Z</time>
+  <desc>lat.=35.692268, lon.=138.858570, Alt.=2005.343262m. Speed=3.990756m/h.</desc>
+</trkpt>
+<trkpt lat="35.691674000" lon="138.858290000">
+  <ele>2016.548340</ele>
+  <time>2017-11-19T00:36:10Z</time>
+  <desc>lat.=35.691674, lon.=138.858290, Alt.=2016.548340m. Speed=4.020123m/h.</desc>
+</trkpt>
+<trkpt lat="35.689615000" lon="138.859086000">
+  <ele>2020.319336</ele>
+  <time>2017-11-19T00:39:15Z</time>
+  <desc>lat.=35.689615, lon.=138.859086, Alt.=2020.319336m. Speed=0.749886m/h.</desc>
+</trkpt>
+<trkpt lat="35.689133000" lon="138.859763000">
+  <ele>2030.159302</ele>
+  <time>2017-11-19T00:40:13Z</time>
+  <desc>lat.=35.689133, lon.=138.859763, Alt.=2030.159302m. Speed=5.615180m/h.</desc>
+</trkpt>
+<trkpt lat="35.688653000" lon="138.859834000">
+  <ele>2031.504395</ele>
+  <time>2017-11-19T00:40:45Z</time>
+  <desc>lat.=35.688653, lon.=138.859834, Alt.=2031.504395m. Speed=4.538457m/h.</desc>
+<name>黒岳</name><type>1</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=6653</link></trkpt>
+<trkpt lat="35.687864000" lon="138.859300000">
+  <ele>2019.657715</ele>
+  <time>2017-11-19T00:41:40Z</time>
+  <desc>lat.=35.687864, lon.=138.859300, Alt.=2019.657715m. Speed=10.585035m/h.</desc>
+</trkpt>
+<trkpt lat="35.687736000" lon="138.858959000">
+  <ele>2011.952637</ele>
+  <time>2017-11-19T00:41:58Z</time>
+  <desc>lat.=35.687736, lon.=138.858959, Alt.=2011.952637m. Speed=5.019274m/h.</desc>
+</trkpt>
+<trkpt lat="35.686514000" lon="138.858086000">
+  <ele>1993.971802</ele>
+  <time>2017-11-19T00:43:16Z</time>
+  <desc>lat.=35.686514, lon.=138.858086, Alt.=1993.971802m. Speed=5.521771m/h.</desc>
+</trkpt>
+<trkpt lat="35.685741000" lon="138.858425000">
+  <ele>1955.025757</ele>
+  <time>2017-11-19T00:44:06Z</time>
+  <desc>lat.=35.685741, lon.=138.858425, Alt.=1955.025757m. Speed=9.217082m/h.</desc>
+</trkpt>
+<trkpt lat="35.683600000" lon="138.857714000">
+  <ele>1928.824707</ele>
+  <time>2017-11-19T00:47:03Z</time>
+  <desc>lat.=35.683600, lon.=138.857714, Alt.=1928.824707m. Speed=6.249041m/h.</desc>
+</trkpt>
+<trkpt lat="35.683220000" lon="138.857167000">
+  <ele>1925.489380</ele>
+  <time>2017-11-19T00:48:05Z</time>
+  <desc>lat.=35.683220, lon.=138.857167, Alt.=1925.489380m. Speed=11.368105m/h.</desc>
+</trkpt>
+<trkpt lat="35.683404000" lon="138.856685000">
+  <ele>1932.124878</ele>
+  <time>2017-11-19T00:48:29Z</time>
+  <desc>lat.=35.683404, lon.=138.856685, Alt.=1932.124878m. Speed=9.281162m/h.</desc>
+</trkpt>
+<trkpt lat="35.682805000" lon="138.854689000">
+  <ele>1864.670044</ele>
+  <time>2017-11-19T00:50:25Z</time>
+  <desc>lat.=35.682805, lon.=138.854689, Alt.=1864.670044m. Speed=3.789526m/h.</desc>
+</trkpt>
+<trkpt lat="35.683087000" lon="138.853444000">
+  <ele>1800.777954</ele>
+  <time>2017-11-19T00:52:09Z</time>
+  <desc>lat.=35.683087, lon.=138.853444, Alt.=1800.777954m. Speed=3.347796m/h.</desc>
+</trkpt>
+<trkpt lat="35.682603000" lon="138.853346000">
+  <ele>1774.615479</ele>
+  <time>2017-11-19T00:52:51Z</time>
+  <desc>lat.=35.682603, lon.=138.853346, Alt.=1774.615479m. Speed=2.671298m/h.</desc>
+</trkpt>
+<trkpt lat="35.682585000" lon="138.853025000">
+  <ele>1767.731201</ele>
+  <time>2017-11-19T00:53:16Z</time>
+  <desc>lat.=35.682585, lon.=138.853025, Alt.=1767.731201m. Speed=4.176121m/h.</desc>
+</trkpt>
+<trkpt lat="35.680936000" lon="138.852163000">
+  <ele>1704.223022</ele>
+  <time>2017-11-19T00:54:43Z</time>
+  <desc>lat.=35.680936, lon.=138.852163, Alt.=1704.223022m. Speed=11.477776m/h.</desc>
+</trkpt>
+<trkpt lat="35.680554000" lon="138.851450000">
+  <ele>1683.501587</ele>
+  <time>2017-11-19T00:55:12Z</time>
+  <desc>lat.=35.680554, lon.=138.851450, Alt.=1683.501587m. Speed=5.365078m/h.</desc>
+<name>湯ノ沢峠 [ゆのさわとうげ]</name><type>2,3,7,13,14,18</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=5880</link></trkpt>
+<trkpt lat="35.680660000" lon="138.851116000">
+  <ele>1674.230713</ele>
+  <time>2017-11-19T00:55:25Z</time>
+  <desc>lat.=35.680660, lon.=138.851116, Alt.=1674.230713m. Speed=3.923623m/h.</desc>
+</trkpt>
+<trkpt lat="35.681014000" lon="138.850971000">
+  <ele>1678.669678</ele>
+  <time>2017-11-19T00:55:54Z</time>
+  <desc>lat.=35.681014, lon.=138.850971, Alt.=1678.669678m. Speed=0.625742m/h.</desc>
+</trkpt>
+<trkpt lat="35.680601000" lon="138.851401000">
+  <ele>1684.489380</ele>
+  <time>2017-11-19T00:56:53Z</time>
+  <desc>lat.=35.680601, lon.=138.851401, Alt.=1684.489380m. Speed=5.470221m/h.</desc>
+</trkpt>
+<trkpt lat="35.679677000" lon="138.850608000">
+  <ele>1707.345581</ele>
+  <time>2017-11-19T00:57:57Z</time>
+  <desc>lat.=35.679677, lon.=138.850608, Alt.=1707.345581m. Speed=3.318362m/h.</desc>
+</trkpt>
+<trkpt lat="35.677733000" lon="138.849983000">
+  <ele>1705.313965</ele>
+  <time>2017-11-19T01:00:26Z</time>
+  <desc>lat.=35.677733, lon.=138.849983, Alt.=1705.313965m. Speed=8.170015m/h.</desc>
+</trkpt>
+<trkpt lat="35.677401000" lon="138.850168000">
+  <ele>1700.626099</ele>
+  <time>2017-11-19T01:00:45Z</time>
+  <desc>lat.=35.677401, lon.=138.850168, Alt.=1700.626099m. Speed=8.499901m/h.</desc>
+</trkpt>
+<trkpt lat="35.676970000" lon="138.849471000">
+  <ele>1714.679199</ele>
+  <time>2017-11-19T01:01:29Z</time>
+  <desc>lat.=35.676970, lon.=138.849471, Alt.=1714.679199m. Speed=5.741734m/h.</desc>
+</trkpt>
+<trkpt lat="35.676893000" lon="138.849985000">
+  <ele>1724.860352</ele>
+  <time>2017-11-19T01:02:04Z</time>
+  <desc>lat.=35.676893, lon.=138.849985, Alt.=1724.860352m. Speed=11.751032m/h.</desc>
+</trkpt>
+<trkpt lat="35.675668000" lon="138.848879000">
+  <ele>1710.010864</ele>
+  <time>2017-11-19T01:03:03Z</time>
+  <desc>lat.=35.675668, lon.=138.848879, Alt.=1710.010864m. Speed=6.050015m/h.</desc>
+</trkpt>
+<trkpt lat="35.675265000" lon="138.848812000">
+  <ele>1713.599365</ele>
+  <time>2017-11-19T01:03:26Z</time>
+  <desc>lat.=35.675265, lon.=138.848812, Alt.=1713.599365m. Speed=3.385551m/h.</desc>
+</trkpt>
+<trkpt lat="35.674432000" lon="138.847707000">
+  <ele>1743.914551</ele>
+  <time>2017-11-19T01:05:26Z</time>
+  <desc>lat.=35.674432, lon.=138.847707, Alt.=1743.914551m. Speed=2.756582m/h.</desc>
+</trkpt>
+<trkpt lat="35.674041000" lon="138.845811000">
+  <ele>1790.229614</ele>
+  <time>2017-11-19T01:08:01Z</time>
+  <desc>lat.=35.674041, lon.=138.845811, Alt.=1790.229614m. Speed=3.416207m/h.</desc>
+</trkpt>
+<trkpt lat="35.673808000" lon="138.845610000">
+  <ele>1789.491333</ele>
+  <time>2017-11-19T01:08:25Z</time>
+  <desc>lat.=35.673808, lon.=138.845610, Alt.=1789.491333m. Speed=4.420178m/h.</desc>
+</trkpt>
+<trkpt lat="35.673336000" lon="138.847274000">
+  <ele>1796.176147</ele>
+  <time>2017-11-19T01:11:06Z</time>
+  <desc>lat.=35.673336, lon.=138.847274, Alt.=1796.176147m. Speed=1.494645m/h.</desc>
+</trkpt>
+<trkpt lat="35.673018000" lon="138.846677000">
+  <ele>1814.604858</ele>
+  <time>2017-11-19T01:12:22Z</time>
+  <desc>lat.=35.673018, lon.=138.846677, Alt.=1814.604858m. Speed=7.659732m/h.</desc>
+</trkpt>
+<trkpt lat="35.672936000" lon="138.847127000">
+  <ele>1816.788452</ele>
+  <time>2017-11-19T01:12:50Z</time>
+  <desc>lat.=35.672936, lon.=138.847127, Alt.=1816.788452m. Speed=4.795198m/h.</desc>
+<name>大蔵高丸 [おおくらたかまる]</name><type>1,11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=392</link></trkpt>
+<trkpt lat="35.672297000" lon="138.847265000">
+  <ele>1799.587158</ele>
+  <time>2017-11-19T01:13:34Z</time>
+  <desc>lat.=35.672297, lon.=138.847265, Alt.=1799.587158m. Speed=6.034673m/h.</desc>
+</trkpt>
+<trkpt lat="35.671364000" lon="138.846927000">
+  <ele>1795.918335</ele>
+  <time>2017-11-19T01:14:28Z</time>
+  <desc>lat.=35.671364, lon.=138.846927, Alt.=1795.918335m. Speed=2.838057m/h.</desc>
+</trkpt>
+<trkpt lat="35.669926000" lon="138.846992000">
+  <ele>1798.845093</ele>
+  <time>2017-11-19T01:15:42Z</time>
+  <desc>lat.=35.669926, lon.=138.846992, Alt.=1798.845093m. Speed=9.572564m/h.</desc>
+</trkpt>
+<trkpt lat="35.669443000" lon="138.847329000">
+  <ele>1792.090454</ele>
+  <time>2017-11-19T01:15:58Z</time>
+  <desc>lat.=35.669443, lon.=138.847329, Alt.=1792.090454m. Speed=10.679547m/h.</desc>
+</trkpt>
+<trkpt lat="35.668435000" lon="138.847305000">
+  <ele>1792.225952</ele>
+  <time>2017-11-19T01:16:59Z</time>
+  <desc>lat.=35.668435, lon.=138.847305, Alt.=1792.225952m. Speed=7.485402m/h.</desc>
+</trkpt>
+<trkpt lat="35.665537000" lon="138.848643000">
+  <ele>1792.991089</ele>
+  <time>2017-11-19T01:19:26Z</time>
+  <desc>lat.=35.665537, lon.=138.848643, Alt.=1792.991089m. Speed=7.608503m/h.</desc>
+</trkpt>
+<trkpt lat="35.664090000" lon="138.848396000">
+  <ele>1787.361816</ele>
+  <time>2017-11-19T01:20:58Z</time>
+  <desc>lat.=35.664090, lon.=138.848396, Alt.=1787.361816m. Speed=9.933293m/h.</desc>
+</trkpt>
+<trkpt lat="35.663748000" lon="138.848577000">
+  <ele>1787.977905</ele>
+  <time>2017-11-19T01:21:21Z</time>
+  <desc>lat.=35.663748, lon.=138.848577, Alt.=1787.977905m. Speed=8.731443m/h.</desc>
+</trkpt>
+<trkpt lat="35.663657000" lon="138.849107000">
+  <ele>1780.070068</ele>
+  <time>2017-11-19T01:21:45Z</time>
+  <desc>lat.=35.663657, lon.=138.849107, Alt.=1780.070068m. Speed=6.914225m/h.</desc>
+</trkpt>
+<trkpt lat="35.662246000" lon="138.849309000">
+  <ele>1790.157837</ele>
+  <time>2017-11-19T01:22:55Z</time>
+  <desc>lat.=35.662246, lon.=138.849309, Alt.=1790.157837m. Speed=4.076943m/h.</desc>
+</trkpt>
+<trkpt lat="35.660421000" lon="138.850142000">
+  <ele>1767.659180</ele>
+  <time>2017-11-19T01:24:27Z</time>
+  <desc>lat.=35.660421, lon.=138.850142, Alt.=1767.659180m. Speed=5.587296m/h.</desc>
+</trkpt>
+<trkpt lat="35.659382000" lon="138.849348000">
+  <ele>1721.682861</ele>
+  <time>2017-11-19T01:25:29Z</time>
+  <desc>lat.=35.659382, lon.=138.849348, Alt.=1721.682861m. Speed=6.702261m/h.</desc>
+</trkpt>
+<trkpt lat="35.657065000" lon="138.848750000">
+  <ele>1694.296631</ele>
+  <time>2017-11-19T01:27:27Z</time>
+  <desc>lat.=35.657065, lon.=138.848750, Alt.=1694.296631m. Speed=4.061419m/h.</desc>
+</trkpt>
+<trkpt lat="35.656497000" lon="138.848332000">
+  <ele>1701.657593</ele>
+  <time>2017-11-19T01:28:07Z</time>
+  <desc>lat.=35.656497, lon.=138.848332, Alt.=1701.657593m. Speed=8.712548m/h.</desc>
+</trkpt>
+<trkpt lat="35.654987000" lon="138.848335000">
+  <ele>1676.458618</ele>
+  <time>2017-11-19T01:29:14Z</time>
+  <desc>lat.=35.654987, lon.=138.848335, Alt.=1676.458618m. Speed=11.190067m/h.</desc>
+</trkpt>
+<trkpt lat="35.653625000" lon="138.849119000">
+  <ele>1650.625610</ele>
+  <time>2017-11-19T01:30:56Z</time>
+  <desc>lat.=35.653625, lon.=138.849119, Alt.=1650.625610m. Speed=9.559687m/h.</desc>
+</trkpt>
+<trkpt lat="35.652660000" lon="138.850182000">
+  <ele>1626.620972</ele>
+  <time>2017-11-19T01:32:06Z</time>
+  <desc>lat.=35.652660, lon.=138.850182, Alt.=1626.620972m. Speed=4.965735m/h.</desc>
+</trkpt>
+<trkpt lat="35.652729000" lon="138.850496000">
+  <ele>1624.937378</ele>
+  <time>2017-11-19T01:32:25Z</time>
+  <desc>lat.=35.652729, lon.=138.850496, Alt.=1624.937378m. Speed=3.468717m/h.</desc>
+</trkpt>
+<trkpt lat="35.652511000" lon="138.850867000">
+  <ele>1638.984009</ele>
+  <time>2017-11-19T01:32:51Z</time>
+  <desc>lat.=35.652511, lon.=138.850867, Alt.=1638.984009m. Speed=1.812063m/h.</desc>
+<name>天下石</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3983</link></trkpt>
+<trkpt lat="35.651324000" lon="138.850387000">
+  <ele>1660.731079</ele>
+  <time>2017-11-19T01:34:15Z</time>
+  <desc>lat.=35.651324, lon.=138.850387, Alt.=1660.731079m. Speed=2.380624m/h.</desc>
+</trkpt>
+<trkpt lat="35.650590000" lon="138.850565000">
+  <ele>1665.430298</ele>
+  <time>2017-11-19T01:35:21Z</time>
+  <desc>lat.=35.650590, lon.=138.850565, Alt.=1665.430298m. Speed=4.029546m/h.</desc>
+</trkpt>
+<trkpt lat="35.650249000" lon="138.850978000">
+  <ele>1669.960327</ele>
+  <time>2017-11-19T01:35:56Z</time>
+  <desc>lat.=35.650249, lon.=138.850978, Alt.=1669.960327m. Speed=3.090457m/h.</desc>
+</trkpt>
+<trkpt lat="35.649890000" lon="138.850930000">
+  <ele>1675.873413</ele>
+  <time>2017-11-19T01:36:25Z</time>
+  <desc>lat.=35.649890, lon.=138.850930, Alt.=1675.873413m. Speed=5.509296m/h.</desc>
+</trkpt>
+<trkpt lat="35.649781000" lon="138.850610000">
+  <ele>1670.209106</ele>
+  <time>2017-11-19T01:36:44Z</time>
+  <desc>lat.=35.649781, lon.=138.850610, Alt.=1670.209106m. Speed=3.445386m/h.</desc>
+</trkpt>
+<trkpt lat="35.648769000" lon="138.850173000">
+  <ele>1643.597656</ele>
+  <time>2017-11-19T01:37:40Z</time>
+  <desc>lat.=35.648769, lon.=138.850173, Alt.=1643.597656m. Speed=5.910335m/h.</desc>
+</trkpt>
+<trkpt lat="35.647898000" lon="138.849126000">
+  <ele>1624.650757</ele>
+  <time>2017-11-19T01:38:56Z</time>
+  <desc>lat.=35.647898, lon.=138.849126, Alt.=1624.650757m. Speed=2.530048m/h.</desc>
+<name>米背負峠(米ショイダル・コメッショイ)</name><type>2,3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=11178</link></trkpt>
+<trkpt lat="35.647840000" lon="138.848624000">
+  <ele>1601.621216</ele>
+  <time>2017-11-19T01:39:56Z</time>
+  <desc>lat.=35.647840, lon.=138.848624, Alt.=1601.621216m. Speed=2.902627m/h.</desc>
+</trkpt>
+<trkpt lat="35.646953000" lon="138.848137000">
+  <ele>1611.898560</ele>
+  <time>2017-11-19T01:40:55Z</time>
+  <desc>lat.=35.646953, lon.=138.848137, Alt.=1611.898560m. Speed=4.216242m/h.</desc>
+</trkpt>
+<trkpt lat="35.645732000" lon="138.846228000">
+  <ele>1669.061157</ele>
+  <time>2017-11-19T01:46:17Z</time>
+  <desc>lat.=35.645732, lon.=138.846228, Alt.=1669.061157m. Speed=0.903483m/h.</desc>
+</trkpt>
+<trkpt lat="35.645077000" lon="138.846438000">
+  <ele>1679.403320</ele>
+  <time>2017-11-19T01:47:02Z</time>
+  <desc>lat.=35.645077, lon.=138.846438, Alt.=1679.403320m. Speed=1.862923m/h.</desc>
+</trkpt>
+<trkpt lat="35.644652000" lon="138.846203000">
+  <ele>1683.163818</ele>
+  <time>2017-11-19T01:47:41Z</time>
+  <desc>lat.=35.644652, lon.=138.846203, Alt.=1683.163818m. Speed=4.255787m/h.</desc>
+<name>大谷ヶ丸 [おおやがまる]</name><type>1</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=3984</link></trkpt>
+<trkpt lat="35.642212000" lon="138.846139000">
+  <ele>1598.434692</ele>
+  <time>2017-11-19T01:50:20Z</time>
+  <desc>lat.=35.642212, lon.=138.846139, Alt.=1598.434692m. Speed=4.301288m/h.</desc>
+</trkpt>
+<trkpt lat="35.641197000" lon="138.845597000">
+  <ele>1572.598267</ele>
+  <time>2017-11-19T01:51:29Z</time>
+  <desc>lat.=35.641197, lon.=138.845597, Alt.=1572.598267m. Speed=5.207328m/h.</desc>
+</trkpt>
+<trkpt lat="35.640803000" lon="138.845638000">
+  <ele>1555.356201</ele>
+  <time>2017-11-19T01:51:52Z</time>
+  <desc>lat.=35.640803, lon.=138.845638, Alt.=1555.356201m. Speed=5.031462m/h.</desc>
+</trkpt>
+<trkpt lat="35.640429000" lon="138.844770000">
+  <ele>1565.160034</ele>
+  <time>2017-11-19T01:52:39Z</time>
+  <desc>lat.=35.640429, lon.=138.844770, Alt.=1565.160034m. Speed=3.436286m/h.</desc>
+</trkpt>
+<trkpt lat="35.640489000" lon="138.844304000">
+  <ele>1559.084473</ele>
+  <time>2017-11-19T01:53:10Z</time>
+  <desc>lat.=35.640489, lon.=138.844304, Alt.=1559.084473m. Speed=4.136216m/h.</desc>
+</trkpt>
+<trkpt lat="35.640135000" lon="138.843611000">
+  <ele>1563.719360</ele>
+  <time>2017-11-19T01:53:39Z</time>
+  <desc>lat.=35.640135, lon.=138.843611, Alt.=1563.719360m. Speed=5.828540m/h.</desc>
+</trkpt>
+<trkpt lat="35.639768000" lon="138.841425000">
+  <ele>1576.507690</ele>
+  <time>2017-11-19T01:55:01Z</time>
+  <desc>lat.=35.639768, lon.=138.841425, Alt.=1576.507690m. Speed=8.542642m/h.</desc>
+</trkpt>
+<trkpt lat="35.639112000" lon="138.840957000">
+  <ele>1614.294922</ele>
+  <time>2017-11-19T01:55:39Z</time>
+  <desc>lat.=35.639112, lon.=138.840957, Alt.=1614.294922m. Speed=9.062843m/h.</desc>
+</trkpt>
+<trkpt lat="35.638209000" lon="138.839482000">
+  <ele>1577.626953</ele>
+  <time>2017-11-19T01:56:46Z</time>
+  <desc>lat.=35.638209, lon.=138.839482, Alt.=1577.626953m. Speed=7.218490m/h.</desc>
+</trkpt>
+<trkpt lat="35.638330000" lon="138.839112000">
+  <ele>1552.045898</ele>
+  <time>2017-11-19T01:57:06Z</time>
+  <desc>lat.=35.638330, lon.=138.839112, Alt.=1552.045898m. Speed=3.766186m/h.</desc>
+</trkpt>
+<trkpt lat="35.637729000" lon="138.838649000">
+  <ele>1526.808960</ele>
+  <time>2017-11-19T01:57:50Z</time>
+  <desc>lat.=35.637729, lon.=138.838649, Alt.=1526.808960m. Speed=4.299887m/h.</desc>
+</trkpt>
+<trkpt lat="35.637153000" lon="138.838658000">
+  <ele>1519.557861</ele>
+  <time>2017-11-19T01:58:14Z</time>
+  <desc>lat.=35.637153, lon.=138.838658, Alt.=1519.557861m. Speed=5.407418m/h.</desc>
+</trkpt>
+<trkpt lat="35.636790000" lon="138.838029000">
+  <ele>1523.064087</ele>
+  <time>2017-11-19T01:58:38Z</time>
+  <desc>lat.=35.636790, lon.=138.838029, Alt.=1523.064087m. Speed=7.606189m/h.</desc>
+</trkpt>
+<trkpt lat="35.636706000" lon="138.837102000">
+  <ele>1513.688110</ele>
+  <time>2017-11-19T01:59:21Z</time>
+  <desc>lat.=35.636706, lon.=138.837102, Alt.=1513.688110m. Speed=2.141332m/h.</desc>
+</trkpt>
+<trkpt lat="35.636252000" lon="138.835758000">
+  <ele>1450.293579</ele>
+  <time>2017-11-19T02:00:31Z</time>
+  <desc>lat.=35.636252, lon.=138.835758, Alt.=1450.293579m. Speed=3.159593m/h.</desc>
+</trkpt>
+<trkpt lat="35.635749000" lon="138.835238000">
+  <ele>1445.371704</ele>
+  <time>2017-11-19T02:01:18Z</time>
+  <desc>lat.=35.635749, lon.=138.835238, Alt.=1445.371704m. Speed=4.443363m/h.</desc>
+<name>コンドウ丸(金洞丸)</name><type>1</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=11179</link></trkpt>
+<trkpt lat="35.635059000" lon="138.833834000">
+  <ele>1480.090088</ele>
+  <time>2017-11-19T02:02:10Z</time>
+  <desc>lat.=35.635059, lon.=138.833834, Alt.=1480.090088m. Speed=6.735103m/h.</desc>
+</trkpt>
+<trkpt lat="35.634748000" lon="138.831889000">
+  <ele>1435.570557</ele>
+  <time>2017-11-19T02:03:23Z</time>
+  <desc>lat.=35.634748, lon.=138.831889, Alt.=1435.570557m. Speed=2.441056m/h.</desc>
+</trkpt>
+<trkpt lat="35.633433000" lon="138.832263000">
+  <ele>1440.513428</ele>
+  <time>2017-11-19T02:04:30Z</time>
+  <desc>lat.=35.633433, lon.=138.832263, Alt.=1440.513428m. Speed=5.402358m/h.</desc>
+</trkpt>
+<trkpt lat="35.630663000" lon="138.831023000">
+  <ele>1362.770264</ele>
+  <time>2017-11-19T02:06:26Z</time>
+  <desc>lat.=35.630663, lon.=138.831023, Alt.=1362.770264m. Speed=6.700722m/h.</desc>
+</trkpt>
+<trkpt lat="35.630199000" lon="138.830572000">
+  <ele>1353.961914</ele>
+  <time>2017-11-19T02:07:01Z</time>
+  <desc>lat.=35.630199, lon.=138.830572, Alt.=1353.961914m. Speed=3.320522m/h.</desc>
+<name>曲り沢峠 [まがりさわとうげ]</name><type>2,3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4286</link></trkpt>
+<trkpt lat="35.629927000" lon="138.829557000">
+  <ele>1355.051147</ele>
+  <time>2017-11-19T02:07:22Z</time>
+  <desc>lat.=35.629927, lon.=138.829557, Alt.=1355.051147m. Speed=6.926494m/h.</desc>
+</trkpt>
+<trkpt lat="35.629874000" lon="138.825203000">
+  <ele>1318.257935</ele>
+  <time>2017-11-19T02:10:40Z</time>
+  <desc>lat.=35.629874, lon.=138.825203, Alt.=1318.257935m. Speed=1.076586m/h.</desc>
+</trkpt>
+<trkpt lat="35.630038000" lon="138.825758000">
+  <ele>1315.805786</ele>
+  <time>2017-11-19T02:11:33Z</time>
+  <desc>lat.=35.630038, lon.=138.825758, Alt.=1315.805786m. Speed=0.771686m/h.</desc>
+</trkpt>
+<trkpt lat="35.630073000" lon="138.825192000">
+  <ele>1302.250610</ele>
+  <time>2017-11-19T02:12:41Z</time>
+  <desc>lat.=35.630073, lon.=138.825192, Alt.=1302.250610m. Speed=4.375637m/h.</desc>
+<name>大鹿山・景徳院分岐</name><type>3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4285</link></trkpt>
+<trkpt lat="35.631122000" lon="138.824394000">
+  <ele>1297.349121</ele>
+  <time>2017-11-19T02:13:34Z</time>
+  <desc>lat.=35.631122, lon.=138.824394, Alt.=1297.349121m. Speed=1.384698m/h.</desc>
+</trkpt>
+<trkpt lat="35.630490000" lon="138.824787000">
+  <ele>1284.992920</ele>
+  <time>2017-11-19T02:14:37Z</time>
+  <desc>lat.=35.630490, lon.=138.824787, Alt.=1284.992920m. Speed=3.700017m/h.</desc>
+</trkpt>
+<trkpt lat="35.630063000" lon="138.824449000">
+  <ele>1284.006958</ele>
+  <time>2017-11-19T02:15:37Z</time>
+  <desc>lat.=35.630063, lon.=138.824449, Alt.=1284.006958m. Speed=3.387272m/h.</desc>
+</trkpt>
+<trkpt lat="35.630169000" lon="138.823774000">
+  <ele>1285.304077</ele>
+  <time>2017-11-19T02:16:29Z</time>
+  <desc>lat.=35.630169, lon.=138.823774, Alt.=1285.304077m. Speed=6.228930m/h.</desc>
+</trkpt>
+<trkpt lat="35.629949000" lon="138.822621000">
+  <ele>1274.392944</ele>
+  <time>2017-11-19T02:17:30Z</time>
+  <desc>lat.=35.629949, lon.=138.822621, Alt.=1274.392944m. Speed=4.530333m/h.</desc>
+</trkpt>
+<trkpt lat="35.630157000" lon="138.822189000">
+  <ele>1251.266846</ele>
+  <time>2017-11-19T02:19:16Z</time>
+  <desc>lat.=35.630157, lon.=138.822189, Alt.=1251.266846m. Speed=3.390069m/h.</desc>
+</trkpt>
+<trkpt lat="35.630103000" lon="138.824211000">
+  <ele>1284.962891</ele>
+  <time>2017-11-19T02:22:14Z</time>
+  <desc>lat.=35.630103, lon.=138.824211, Alt.=1284.962891m. Speed=4.018626m/h.</desc>
+</trkpt>
+<trkpt lat="35.630249000" lon="138.824520000">
+  <ele>1274.196777</ele>
+  <time>2017-11-19T02:22:26Z</time>
+  <desc>lat.=35.630249, lon.=138.824520, Alt.=1274.196777m. Speed=4.972074m/h.</desc>
+</trkpt>
+<trkpt lat="35.631341000" lon="138.823974000">
+  <ele>1254.862915</ele>
+  <time>2017-11-19T02:23:41Z</time>
+  <desc>lat.=35.631341, lon.=138.823974, Alt.=1254.862915m. Speed=1.541864m/h.</desc>
+</trkpt>
+<trkpt lat="35.632282000" lon="138.823839000">
+  <ele>1230.369873</ele>
+  <time>2017-11-19T02:24:43Z</time>
+  <desc>lat.=35.632282, lon.=138.823839, Alt.=1230.369873m. Speed=4.793985m/h.</desc>
+</trkpt>
+<trkpt lat="35.632392000" lon="138.823271000">
+  <ele>1207.454712</ele>
+  <time>2017-11-19T02:29:46Z</time>
+  <desc>lat.=35.632392, lon.=138.823271, Alt.=1207.454712m. Speed=6.287512m/h.</desc>
+</trkpt>
+<trkpt lat="35.634159000" lon="138.821433000">
+  <ele>1176.893066</ele>
+  <time>2017-11-19T02:31:12Z</time>
+  <desc>lat.=35.634159, lon.=138.821433, Alt.=1176.893066m. Speed=10.498118m/h.</desc>
+</trkpt>
+<trkpt lat="35.634471000" lon="138.820860000">
+  <ele>1153.514526</ele>
+  <time>2017-11-19T02:31:32Z</time>
+  <desc>lat.=35.634471, lon.=138.820860, Alt.=1153.514526m. Speed=9.825384m/h.</desc>
+</trkpt>
+<trkpt lat="35.635443000" lon="138.820042000">
+  <ele>1121.847778</ele>
+  <time>2017-11-19T02:32:11Z</time>
+  <desc>lat.=35.635443, lon.=138.820042, Alt.=1121.847778m. Speed=2.754509m/h.</desc>
+</trkpt>
+<trkpt lat="35.636021000" lon="138.817713000">
+  <ele>1114.971436</ele>
+  <time>2017-11-19T02:33:33Z</time>
+  <desc>lat.=35.636021, lon.=138.817713, Alt.=1114.971436m. Speed=6.918779m/h.</desc>
+</trkpt>
+<trkpt lat="35.635967000" lon="138.817092000">
+  <ele>1111.154663</ele>
+  <time>2017-11-19T02:33:53Z</time>
+  <desc>lat.=35.635967, lon.=138.817092, Alt.=1111.154663m. Speed=3.271645m/h.</desc>
+</trkpt>
+<trkpt lat="35.636584000" lon="138.814361000">
+  <ele>1065.886597</ele>
+  <time>2017-11-19T02:35:34Z</time>
+  <desc>lat.=35.636584, lon.=138.814361, Alt.=1065.886597m. Speed=4.088031m/h.</desc>
+</trkpt>
+<trkpt lat="35.637557000" lon="138.812931000">
+  <ele>1048.989746</ele>
+  <time>2017-11-19T02:36:39Z</time>
+  <desc>lat.=35.637557, lon.=138.812931, Alt.=1048.989746m. Speed=3.419775m/h.</desc>
+</trkpt>
+<trkpt lat="35.638880000" lon="138.812134000">
+  <ele>1023.117249</ele>
+  <time>2017-11-19T02:37:46Z</time>
+  <desc>lat.=35.638880, lon.=138.812134, Alt.=1023.117249m. Speed=10.555160m/h.</desc>
+</trkpt>
+<trkpt lat="35.639879000" lon="138.809214000">
+  <ele>965.669800</ele>
+  <time>2017-11-19T02:39:23Z</time>
+  <desc>lat.=35.639879, lon.=138.809214, Alt.=965.669800m. Speed=11.431201m/h.</desc>
+</trkpt>
+<trkpt lat="35.640494000" lon="138.808354000">
+  <ele>942.578186</ele>
+  <time>2017-11-19T02:39:58Z</time>
+  <desc>lat.=35.640494, lon.=138.808354, Alt.=942.578186m. Speed=8.365935m/h.</desc>
+</trkpt>
+<trkpt lat="35.640780000" lon="138.806690000">
+  <ele>944.142944</ele>
+  <time>2017-11-19T02:41:00Z</time>
+  <desc>lat.=35.640780, lon.=138.806690, Alt.=944.142944m. Speed=7.051416m/h.</desc>
+</trkpt>
+<trkpt lat="35.641347000" lon="138.806155000">
+  <ele>928.338196</ele>
+  <time>2017-11-19T02:41:37Z</time>
+  <desc>lat.=35.641347, lon.=138.806155, Alt.=928.338196m. Speed=4.705951m/h.</desc>
+</trkpt>
+<trkpt lat="35.640853000" lon="138.804569000">
+  <ele>857.471008</ele>
+  <time>2017-11-19T02:43:12Z</time>
+  <desc>lat.=35.640853, lon.=138.804569, Alt.=857.471008m. Speed=13.419652m/h.</desc>
+</trkpt>
+<trkpt lat="35.641224000" lon="138.804155000">
+  <ele>833.932800</ele>
+  <time>2017-11-19T02:43:35Z</time>
+  <desc>lat.=35.641224, lon.=138.804155, Alt.=833.932800m. Speed=8.325714m/h.</desc>
+</trkpt>
+<trkpt lat="35.642143000" lon="138.804671000">
+  <ele>818.160950</ele>
+  <time>2017-11-19T02:44:11Z</time>
+  <desc>lat.=35.642143, lon.=138.804671, Alt.=818.160950m. Speed=8.710304m/h.</desc>
+</trkpt>
+<trkpt lat="35.642303000" lon="138.804983000">
+  <ele>805.201294</ele>
+  <time>2017-11-19T02:44:20Z</time>
+  <desc>lat.=35.642303, lon.=138.804983, Alt.=805.201294m. Speed=9.828249m/h.</desc>
+</trkpt>
+<trkpt lat="35.644096000" lon="138.805734000">
+  <ele>865.960632</ele>
+  <time>2017-11-19T02:45:36Z</time>
+  <desc>lat.=35.644096, lon.=138.805734, Alt.=865.960632m. Speed=6.057312m/h.</desc>
+</trkpt>
+<trkpt lat="35.644736000" lon="138.807597000">
+  <ele>918.594849</ele>
+  <time>2017-11-19T02:47:20Z</time>
+  <desc>lat.=35.644736, lon.=138.807597, Alt.=918.594849m. Speed=4.668775m/h.</desc>
+</trkpt>
+<trkpt lat="35.645177000" lon="138.807301000">
+  <ele>938.033997</ele>
+  <time>2017-11-19T02:48:01Z</time>
+  <desc>lat.=35.645177, lon.=138.807301, Alt.=938.033997m. Speed=5.599640m/h.</desc>
+</trkpt>
+<trkpt lat="35.645446000" lon="138.807674000">
+  <ele>957.823059</ele>
+  <time>2017-11-19T02:48:23Z</time>
+  <desc>lat.=35.645446, lon.=138.807674, Alt.=957.823059m. Speed=10.243872m/h.</desc>
+</trkpt>
+<trkpt lat="35.645638000" lon="138.808981000">
+  <ele>986.035278</ele>
+  <time>2017-11-19T02:48:57Z</time>
+  <desc>lat.=35.645638, lon.=138.808981, Alt.=986.035278m. Speed=11.423703m/h.</desc>
+</trkpt>
+<trkpt lat="35.646095000" lon="138.809657000">
+  <ele>994.211243</ele>
+  <time>2017-11-19T02:49:18Z</time>
+  <desc>lat.=35.646095, lon.=138.809657, Alt.=994.211243m. Speed=7.138785m/h.</desc>
+</trkpt>
+<trkpt lat="35.646401000" lon="138.809584000">
+  <ele>998.992737</ele>
+  <time>2017-11-19T02:49:29Z</time>
+  <desc>lat.=35.646401, lon.=138.809584, Alt.=998.992737m. Speed=6.330302m/h.</desc>
+</trkpt>
+<trkpt lat="35.647125000" lon="138.810220000">
+  <ele>1027.458740</ele>
+  <time>2017-11-19T02:50:15Z</time>
+  <desc>lat.=35.647125, lon.=138.810220, Alt.=1027.458740m. Speed=5.802043m/h.</desc>
+</trkpt>
+<trkpt lat="35.647332000" lon="138.809949000">
+  <ele>1028.092529</ele>
+  <time>2017-11-19T02:50:20Z</time>
+  <desc>lat.=35.647332, lon.=138.809949, Alt.=1028.092529m. Speed=3.858542m/h.</desc>
+</trkpt>
+<trkpt lat="35.647786000" lon="138.810965000">
+  <ele>1029.672852</ele>
+  <time>2017-11-19T02:52:54Z</time>
+  <desc>lat.=35.647786, lon.=138.810965, Alt.=1029.672852m. Speed=5.891465m/h.</desc>
+</trkpt>
+<trkpt lat="35.648080000" lon="138.811103000">
+  <ele>1032.914795</ele>
+  <time>2017-11-19T02:53:05Z</time>
+  <desc>lat.=35.648080, lon.=138.811103, Alt.=1032.914795m. Speed=5.590645m/h.</desc>
+</trkpt>
+<trkpt lat="35.648150000" lon="138.810882000">
+  <ele>1023.721069</ele>
+  <time>2017-11-19T02:53:37Z</time>
+  <desc>lat.=35.648150, lon.=138.810882, Alt.=1023.721069m. Speed=5.454066m/h.</desc>
+</trkpt>
+<trkpt lat="35.647974000" lon="138.810830000">
+  <ele>1019.318176</ele>
+  <time>2017-11-19T02:53:51Z</time>
+  <desc>lat.=35.647974, lon.=138.810830, Alt.=1019.318176m. Speed=4.403598m/h.</desc>
+</trkpt>
+<trkpt lat="35.648157000" lon="138.810720000">
+  <ele>1019.946472</ele>
+  <time>2017-11-19T02:54:00Z</time>
+  <desc>lat.=35.648157, lon.=138.810720, Alt.=1019.946472m. Speed=6.276883m/h.</desc>
+</trkpt>
+<trkpt lat="35.648152000" lon="138.809528000">
+  <ele>971.397400</ele>
+  <time>2017-11-19T02:55:15Z</time>
+  <desc>lat.=35.648152, lon.=138.809528, Alt.=971.397400m. Speed=6.379375m/h.</desc>
+</trkpt>
+<trkpt lat="35.647800000" lon="138.809279000">
+  <ele>946.953491</ele>
+  <time>2017-11-19T02:55:35Z</time>
+  <desc>lat.=35.647800, lon.=138.809279, Alt.=946.953491m. Speed=3.202128m/h.</desc>
+</trkpt>
+<trkpt lat="35.647282000" lon="138.808090000">
+  <ele>932.624756</ele>
+  <time>2017-11-19T02:56:29Z</time>
+  <desc>lat.=35.647282, lon.=138.808090, Alt.=932.624756m. Speed=6.536621m/h.</desc>
+</trkpt>
+<trkpt lat="35.647371000" lon="138.807909000">
+  <ele>935.505249</ele>
+  <time>2017-11-19T02:56:40Z</time>
+  <desc>lat.=35.647371, lon.=138.807909, Alt.=935.505249m. Speed=5.389813m/h.</desc>
+</trkpt>
+<trkpt lat="35.647518000" lon="138.808423000">
+  <ele>953.772095</ele>
+  <time>2017-11-19T02:57:24Z</time>
+  <desc>lat.=35.647518, lon.=138.808423, Alt.=953.772095m. Speed=6.083973m/h.</desc>
+</trkpt>
+<trkpt lat="35.647976000" lon="138.808742000">
+  <ele>967.598877</ele>
+  <time>2017-11-19T02:58:03Z</time>
+  <desc>lat.=35.647976, lon.=138.808742, Alt.=967.598877m. Speed=1.805241m/h.</desc>
+</trkpt>
+<trkpt lat="35.648891000" lon="138.808408000">
+  <ele>973.101746</ele>
+  <time>2017-11-19T02:58:58Z</time>
+  <desc>lat.=35.648891, lon.=138.808408, Alt.=973.101746m. Speed=4.496736m/h.</desc>
+</trkpt>
+<trkpt lat="35.648772000" lon="138.808905000">
+  <ele>976.194092</ele>
+  <time>2017-11-19T02:59:23Z</time>
+  <desc>lat.=35.648772, lon.=138.808905, Alt.=976.194092m. Speed=6.733712m/h.</desc>
+</trkpt>
+<trkpt lat="35.649058000" lon="138.809443000">
+  <ele>973.153015</ele>
+  <time>2017-11-19T02:59:57Z</time>
+  <desc>lat.=35.649058, lon.=138.809443, Alt.=973.153015m. Speed=2.667478m/h.</desc>
+</trkpt>
+<trkpt lat="35.650223000" lon="138.807304000">
+  <ele>975.139160</ele>
+  <time>2017-11-19T03:02:27Z</time>
+  <desc>lat.=35.650223, lon.=138.807304, Alt.=975.139160m. Speed=5.174678m/h.</desc>
+</trkpt>
+<trkpt lat="35.648689000" lon="138.807974000">
+  <ele>1014.430908</ele>
+  <time>2017-11-19T03:03:59Z</time>
+  <desc>lat.=35.648689, lon.=138.807974, Alt.=1014.430908m. Speed=5.449289m/h.</desc>
+</trkpt>
+<trkpt lat="35.648413000" lon="138.807481000">
+  <ele>1013.542297</ele>
+  <time>2017-11-19T03:04:22Z</time>
+  <desc>lat.=35.648413, lon.=138.807481, Alt.=1013.542297m. Speed=5.128712m/h.</desc>
+</trkpt>
+<trkpt lat="35.648799000" lon="138.805760000">
+  <ele>1062.536743</ele>
+  <time>2017-11-19T03:05:52Z</time>
+  <desc>lat.=35.648799, lon.=138.805760, Alt.=1062.536743m. Speed=5.025583m/h.</desc>
+</trkpt>
+<trkpt lat="35.648376000" lon="138.805530000">
+  <ele>1074.906738</ele>
+  <time>2017-11-19T03:06:17Z</time>
+  <desc>lat.=35.648376, lon.=138.805530, Alt.=1074.906738m. Speed=4.190945m/h.</desc>
+</trkpt>
+<trkpt lat="35.648380000" lon="138.804691000">
+  <ele>1085.919800</ele>
+  <time>2017-11-19T03:07:56Z</time>
+  <desc>lat.=35.648380, lon.=138.804691, Alt.=1085.919800m. Speed=1.951264m/h.</desc>
+</trkpt>
+<trkpt lat="35.649527000" lon="138.804618000">
+  <ele>1083.932373</ele>
+  <time>2017-11-19T03:11:57Z</time>
+  <desc>lat.=35.649527, lon.=138.804618, Alt.=1083.932373m. Speed=3.046362m/h.</desc>
+</trkpt>
+<trkpt lat="35.649714000" lon="138.804889000">
+  <ele>1098.634766</ele>
+  <time>2017-11-19T03:13:07Z</time>
+  <desc>lat.=35.649714, lon.=138.804889, Alt.=1098.634766m. Speed=4.397439m/h.</desc>
+</trkpt>
+<trkpt lat="35.650690000" lon="138.804206000">
+  <ele>1132.437622</ele>
+  <time>2017-11-19T03:14:43Z</time>
+  <desc>lat.=35.650690, lon.=138.804206, Alt.=1132.437622m. Speed=6.505956m/h.</desc>
+</trkpt>
+<trkpt lat="35.653386000" lon="138.804422000">
+  <ele>1173.749634</ele>
+  <time>2017-11-19T03:18:27Z</time>
+  <desc>lat.=35.653386, lon.=138.804422, Alt.=1173.749634m. Speed=5.299342m/h.</desc>
+</trkpt>
+<trkpt lat="35.654405000" lon="138.803751000">
+  <ele>1210.028442</ele>
+  <time>2017-11-19T03:21:02Z</time>
+  <desc>lat.=35.654405, lon.=138.803751, Alt.=1210.028442m. Speed=6.145710m/h.</desc>
+</trkpt>
+<trkpt lat="35.654700000" lon="138.802825000">
+  <ele>1235.109985</ele>
+  <time>2017-11-19T03:22:22Z</time>
+  <desc>lat.=35.654700, lon.=138.802825, Alt.=1235.109985m. Speed=1.557834m/h.</desc>
+</trkpt>
+<trkpt lat="35.657297000" lon="138.801276000">
+  <ele>1308.792358</ele>
+  <time>2017-11-19T03:31:30Z</time>
+  <desc>lat.=35.657297, lon.=138.801276, Alt.=1308.792358m. Speed=1.309888m/h.</desc>
+</trkpt>
+<trkpt lat="35.659471000" lon="138.800803000">
+  <ele>1299.020142</ele>
+  <time>2017-11-19T03:33:52Z</time>
+  <desc>lat.=35.659471, lon.=138.800803, Alt.=1299.020142m. Speed=12.982061m/h.</desc>
+</trkpt>
+<trkpt lat="35.661089000" lon="138.800885000">
+  <ele>1324.495239</ele>
+  <time>2017-11-19T03:35:55Z</time>
+  <desc>lat.=35.661089, lon.=138.800885, Alt.=1324.495239m. Speed=5.044111m/h.</desc>
+</trkpt>
+<trkpt lat="35.661535000" lon="138.800595000">
+  <ele>1324.729980</ele>
+  <time>2017-11-19T03:36:28Z</time>
+  <desc>lat.=35.661535, lon.=138.800595, Alt.=1324.729980m. Speed=4.840515m/h.</desc>
+</trkpt>
+<trkpt lat="35.662016000" lon="138.799530000">
+  <ele>1339.960449</ele>
+  <time>2017-11-19T03:39:00Z</time>
+  <desc>lat.=35.662016, lon.=138.799530, Alt.=1339.960449m. Speed=1.417095m/h.</desc>
+</trkpt>
+<trkpt lat="35.662650000" lon="138.799281000">
+  <ele>1353.122437</ele>
+  <time>2017-11-19T03:40:03Z</time>
+  <desc>lat.=35.662650, lon.=138.799281, Alt.=1353.122437m. Speed=9.044855m/h.</desc>
+</trkpt>
+<trkpt lat="35.663403000" lon="138.798277000">
+  <ele>1372.772095</ele>
+  <time>2017-11-19T03:41:37Z</time>
+  <desc>lat.=35.663403, lon.=138.798277, Alt.=1372.772095m. Speed=6.485352m/h.</desc>
+<name>古部山 [こぶやま]</name><type>1,3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=33930</link></trkpt>
+<trkpt lat="35.664692000" lon="138.798149000">
+  <ele>1378.052124</ele>
+  <time>2017-11-19T03:43:25Z</time>
+  <desc>lat.=35.664692, lon.=138.798149, Alt.=1378.052124m. Speed=2.412995m/h.</desc>
+</trkpt>
+<trkpt lat="35.666274000" lon="138.799274000">
+  <ele>1426.970459</ele>
+  <time>2017-11-19T03:46:52Z</time>
+  <desc>lat.=35.666274, lon.=138.799274, Alt.=1426.970459m. Speed=1.830511m/h.</desc>
+</trkpt>
+<trkpt lat="35.667965000" lon="138.799444000">
+  <ele>1451.093994</ele>
+  <time>2017-11-19T03:48:54Z</time>
+  <desc>lat.=35.667965, lon.=138.799444, Alt.=1451.093994m. Speed=4.434569m/h.</desc>
+</trkpt>
+<trkpt lat="35.668781000" lon="138.799945000">
+  <ele>1457.547607</ele>
+  <time>2017-11-19T03:50:09Z</time>
+  <desc>lat.=35.668781, lon.=138.799945, Alt.=1457.547607m. Speed=1.852455m/h.</desc>
+</trkpt>
+<trkpt lat="35.669405000" lon="138.799134000">
+  <ele>1476.092163</ele>
+  <time>2017-11-19T03:51:49Z</time>
+  <desc>lat.=35.669405, lon.=138.799134, Alt.=1476.092163m. Speed=1.312395m/h.</desc>
+</trkpt>
+<trkpt lat="35.669280000" lon="138.797610000">
+  <ele>1489.004395</ele>
+  <time>2017-11-19T03:53:19Z</time>
+  <desc>lat.=35.669280, lon.=138.797610, Alt.=1489.004395m. Speed=1.890942m/h.</desc>
+</trkpt>
+<trkpt lat="35.670019000" lon="138.797453000">
+  <ele>1491.688965</ele>
+  <time>2017-11-19T03:54:00Z</time>
+  <desc>lat.=35.670019, lon.=138.797453, Alt.=1491.688965m. Speed=5.977369m/h.</desc>
+</trkpt>
+<trkpt lat="35.671173000" lon="138.798026000">
+  <ele>1451.111450</ele>
+  <time>2017-11-19T03:54:56Z</time>
+  <desc>lat.=35.671173, lon.=138.798026, Alt.=1451.111450m. Speed=6.732182m/h.</desc>
+</trkpt>
+<trkpt lat="35.674856000" lon="138.798112000">
+  <ele>1467.773071</ele>
+  <time>2017-11-19T03:59:47Z</time>
+  <desc>lat.=35.674856, lon.=138.798112, Alt.=1467.773071m. Speed=7.563051m/h.</desc>
+</trkpt>
+<trkpt lat="35.675982000" lon="138.797905000">
+  <ele>1474.426758</ele>
+  <time>2017-11-19T04:01:06Z</time>
+  <desc>lat.=35.675982, lon.=138.797905, Alt.=1474.426758m. Speed=1.789509m/h.</desc>
+</trkpt>
+<trkpt lat="35.676101000" lon="138.797589000">
+  <ele>1481.878662</ele>
+  <time>2017-11-19T04:01:43Z</time>
+  <desc>lat.=35.676101, lon.=138.797589, Alt.=1481.878662m. Speed=2.386826m/h.</desc>
+</trkpt>
+<trkpt lat="35.676833000" lon="138.797511000">
+  <ele>1490.882813</ele>
+  <time>2017-11-19T04:02:47Z</time>
+  <desc>lat.=35.676833, lon.=138.797511, Alt.=1490.882813m. Speed=7.313445m/h.</desc>
+</trkpt>
+<trkpt lat="35.677968000" lon="138.796536000">
+  <ele>1491.581177</ele>
+  <time>2017-11-19T04:04:36Z</time>
+  <desc>lat.=35.677968, lon.=138.796536, Alt.=1491.581177m. Speed=1.515283m/h.</desc>
+</trkpt>
+<trkpt lat="35.678764000" lon="138.795282000">
+  <ele>1517.232422</ele>
+  <time>2017-11-19T04:07:23Z</time>
+  <desc>lat.=35.678764, lon.=138.795282, Alt.=1517.232422m. Speed=6.272289m/h.</desc>
+</trkpt>
+<trkpt lat="35.679307000" lon="138.796357000">
+  <ele>1501.058960</ele>
+  <time>2017-11-19T04:08:26Z</time>
+  <desc>lat.=35.679307, lon.=138.796357, Alt.=1501.058960m. Speed=8.554661m/h.</desc>
+</trkpt>
+<trkpt lat="35.680211000" lon="138.797228000">
+  <ele>1501.768677</ele>
+  <time>2017-11-19T04:09:47Z</time>
+  <desc>lat.=35.680211, lon.=138.797228, Alt.=1501.768677m. Speed=2.766787m/h.</desc>
+</trkpt>
+<trkpt lat="35.682836000" lon="138.797583000">
+  <ele>1517.244263</ele>
+  <time>2017-11-19T04:12:58Z</time>
+  <desc>lat.=35.682836, lon.=138.797583, Alt.=1517.244263m. Speed=4.944332m/h.</desc>
+</trkpt>
+<trkpt lat="35.682866000" lon="138.798561000">
+  <ele>1509.849854</ele>
+  <time>2017-11-19T04:14:17Z</time>
+  <desc>lat.=35.682866, lon.=138.798561, Alt.=1509.849854m. Speed=13.957347m/h.</desc>
+</trkpt>
+<trkpt lat="35.683456000" lon="138.799400000">
+  <ele>1506.501343</ele>
+  <time>2017-11-19T04:15:22Z</time>
+  <desc>lat.=35.683456, lon.=138.799400, Alt.=1506.501343m. Speed=3.984823m/h.</desc>
+</trkpt>
+<trkpt lat="35.684819000" lon="138.799676000">
+  <ele>1492.028198</ele>
+  <time>2017-11-19T04:16:46Z</time>
+  <desc>lat.=35.684819, lon.=138.799676, Alt.=1492.028198m. Speed=1.738947m/h.</desc>
+</trkpt>
+<trkpt lat="35.685417000" lon="138.800845000">
+  <ele>1482.885498</ele>
+  <time>2017-11-19T04:18:11Z</time>
+  <desc>lat.=35.685417, lon.=138.800845, Alt.=1482.885498m. Speed=7.875053m/h.</desc>
+</trkpt>
+<trkpt lat="35.685812000" lon="138.800906000">
+  <ele>1483.779541</ele>
+  <time>2017-11-19T04:18:31Z</time>
+  <desc>lat.=35.685812, lon.=138.800906, Alt.=1483.779541m. Speed=7.949538m/h.</desc>
+</trkpt>
+<trkpt lat="35.686838000" lon="138.801974000">
+  <ele>1483.803345</ele>
+  <time>2017-11-19T04:19:24Z</time>
+  <desc>lat.=35.686838, lon.=138.801974, Alt.=1483.803345m. Speed=9.200719m/h.</desc>
+</trkpt>
+<trkpt lat="35.687314000" lon="138.801831000">
+  <ele>1488.776855</ele>
+  <time>2017-11-19T04:19:48Z</time>
+  <desc>lat.=35.687314, lon.=138.801831, Alt.=1488.776855m. Speed=2.611156m/h.</desc>
+<name>杣坂峠(源次郎岳方面分岐点)</name><type>2,3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=14431</link></trkpt>
+<trkpt lat="35.688473000" lon="138.802347000">
+  <ele>1507.204346</ele>
+  <time>2017-11-19T04:21:06Z</time>
+  <desc>lat.=35.688473, lon.=138.802347, Alt.=1507.204346m. Speed=3.354515m/h.</desc>
+</trkpt>
+<trkpt lat="35.688838000" lon="138.803330000">
+  <ele>1528.447388</ele>
+  <time>2017-11-19T04:22:20Z</time>
+  <desc>lat.=35.688838, lon.=138.803330, Alt.=1528.447388m. Speed=3.649257m/h.</desc>
+</trkpt>
+<trkpt lat="35.690568000" lon="138.803738000">
+  <ele>1542.598999</ele>
+  <time>2017-11-19T04:24:34Z</time>
+  <desc>lat.=35.690568, lon.=138.803738, Alt.=1542.598999m. Speed=11.779059m/h.</desc>
+</trkpt>
+<trkpt lat="35.691099000" lon="138.804488000">
+  <ele>1532.593628</ele>
+  <time>2017-11-19T04:25:09Z</time>
+  <desc>lat.=35.691099, lon.=138.804488, Alt.=1532.593628m. Speed=8.232802m/h.</desc>
+</trkpt>
+<trkpt lat="35.691935000" lon="138.804146000">
+  <ele>1544.341675</ele>
+  <time>2017-11-19T04:25:54Z</time>
+  <desc>lat.=35.691935, lon.=138.804146, Alt.=1544.341675m. Speed=2.062748m/h.</desc>
+</trkpt>
+<trkpt lat="35.694038000" lon="138.805195000">
+  <ele>1558.779907</ele>
+  <time>2017-11-19T04:28:39Z</time>
+  <desc>lat.=35.694038, lon.=138.805195, Alt.=1558.779907m. Speed=8.508847m/h.</desc>
+</trkpt>
+<trkpt lat="35.694780000" lon="138.804951000">
+  <ele>1587.542847</ele>
+  <time>2017-11-19T04:30:29Z</time>
+  <desc>lat.=35.694780, lon.=138.804951, Alt.=1587.542847m. Speed=1.689610m/h.</desc>
+</trkpt>
+<trkpt lat="35.695428000" lon="138.804359000">
+  <ele>1604.692505</ele>
+  <time>2017-11-19T04:31:45Z</time>
+  <desc>lat.=35.695428, lon.=138.804359, Alt.=1604.692505m. Speed=0.838195m/h.</desc>
+<name>源次郎岳・下日川峠・嵯峨塩温泉分岐点</name><type>3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=14308</link></trkpt>
+<trkpt lat="35.696323000" lon="138.802832000">
+  <ele>1571.851929</ele>
+  <time>2017-11-19T04:34:00Z</time>
+  <desc>lat.=35.696323, lon.=138.802832, Alt.=1571.851929m. Speed=7.320872m/h.</desc>
+</trkpt>
+<trkpt lat="35.696411000" lon="138.801365000">
+  <ele>1532.690674</ele>
+  <time>2017-11-19T04:36:09Z</time>
+  <desc>lat.=35.696411, lon.=138.801365, Alt.=1532.690674m. Speed=3.432439m/h.</desc>
+</trkpt>
+<trkpt lat="35.696089000" lon="138.800636000">
+  <ele>1532.119141</ele>
+  <time>2017-11-19T04:37:02Z</time>
+  <desc>lat.=35.696089, lon.=138.800636, Alt.=1532.119141m. Speed=2.201016m/h.</desc>
+</trkpt>
+<trkpt lat="35.696171000" lon="138.800052000">
+  <ele>1530.419556</ele>
+  <time>2017-11-19T04:37:45Z</time>
+  <desc>lat.=35.696171, lon.=138.800052, Alt.=1530.419556m. Speed=2.819854m/h.</desc>
+</trkpt>
+<trkpt lat="35.697281000" lon="138.798065000">
+  <ele>1462.967773</ele>
+  <time>2017-11-19T04:40:46Z</time>
+  <desc>lat.=35.697281, lon.=138.798065, Alt.=1462.967773m. Speed=1.253607m/h.</desc>
+</trkpt>
+<trkpt lat="35.697190000" lon="138.797199000">
+  <ele>1424.705566</ele>
+  <time>2017-11-19T04:42:14Z</time>
+  <desc>lat.=35.697190, lon.=138.797199, Alt.=1424.705566m. Speed=1.357280m/h.</desc>
+</trkpt>
+<trkpt lat="35.697680000" lon="138.796995000">
+  <ele>1415.364746</ele>
+  <time>2017-11-19T04:43:03Z</time>
+  <desc>lat.=35.697680, lon.=138.796995, Alt.=1415.364746m. Speed=2.333799m/h.</desc>
+</trkpt>
+<trkpt lat="35.697831000" lon="138.796030000">
+  <ele>1371.516479</ele>
+  <time>2017-11-19T04:44:10Z</time>
+  <desc>lat.=35.697831, lon.=138.796030, Alt.=1371.516479m. Speed=5.824447m/h.</desc>
+</trkpt>
+<trkpt lat="35.697223000" lon="138.794969000">
+  <ele>1365.555054</ele>
+  <time>2017-11-19T04:45:10Z</time>
+  <desc>lat.=35.697223, lon.=138.794969, Alt.=1365.555054m. Speed=2.854891m/h.</desc>
+</trkpt>
+<trkpt lat="35.697474000" lon="138.793548000">
+  <ele>1330.398438</ele>
+  <time>2017-11-19T04:46:43Z</time>
+  <desc>lat.=35.697474, lon.=138.793548, Alt.=1330.398438m. Speed=2.400431m/h.</desc>
+</trkpt>
+<trkpt lat="35.699107000" lon="138.790986000">
+  <ele>1317.462891</ele>
+  <time>2017-11-19T04:49:22Z</time>
+  <desc>lat.=35.699107, lon.=138.790986, Alt.=1317.462891m. Speed=6.130315m/h.</desc>
+</trkpt>
+<trkpt lat="35.700154000" lon="138.788885000">
+  <ele>1296.986328</ele>
+  <time>2017-11-19T04:51:09Z</time>
+  <desc>lat.=35.700154, lon.=138.788885, Alt.=1296.986328m. Speed=2.503150m/h.</desc>
+</trkpt>
+<trkpt lat="35.700476000" lon="138.788680000">
+  <ele>1285.737671</ele>
+  <time>2017-11-19T04:51:42Z</time>
+  <desc>lat.=35.700476, lon.=138.788680, Alt.=1285.737671m. Speed=4.139494m/h.</desc>
+</trkpt>
+<trkpt lat="35.700827000" lon="138.787787000">
+  <ele>1282.845581</ele>
+  <time>2017-11-19T04:52:27Z</time>
+  <desc>lat.=35.700827, lon.=138.787787, Alt.=1282.845581m. Speed=2.401841m/h.</desc>
+</trkpt>
+<trkpt lat="35.701513000" lon="138.787200000">
+  <ele>1257.240479</ele>
+  <time>2017-11-19T04:54:02Z</time>
+  <desc>lat.=35.701513, lon.=138.787200, Alt.=1257.240479m. Speed=1.895169m/h.</desc>
+</trkpt>
+<trkpt lat="35.702051000" lon="138.785780000">
+  <ele>1259.178711</ele>
+  <time>2017-11-19T04:55:49Z</time>
+  <desc>lat.=35.702051, lon.=138.785780, Alt.=1259.178711m. Speed=6.255843m/h.</desc>
+</trkpt>
+<trkpt lat="35.701656000" lon="138.784421000">
+  <ele>1253.150513</ele>
+  <time>2017-11-19T04:56:48Z</time>
+  <desc>lat.=35.701656, lon.=138.784421, Alt.=1253.150513m. Speed=4.568704m/h.</desc>
+</trkpt>
+<trkpt lat="35.701698000" lon="138.783733000">
+  <ele>1234.288940</ele>
+  <time>2017-11-19T04:57:13Z</time>
+  <desc>lat.=35.701698, lon.=138.783733, Alt.=1234.288940m. Speed=2.748970m/h.</desc>
+</trkpt>
+<trkpt lat="35.703307000" lon="138.781642000">
+  <ele>1251.125854</ele>
+  <time>2017-11-19T04:58:58Z</time>
+  <desc>lat.=35.703307, lon.=138.781642, Alt.=1251.125854m. Speed=6.680508m/h.</desc>
+</trkpt>
+<trkpt lat="35.703582000" lon="138.780874000">
+  <ele>1254.570923</ele>
+  <time>2017-11-19T04:59:37Z</time>
+  <desc>lat.=35.703582, lon.=138.780874, Alt.=1254.570923m. Speed=4.836874m/h.</desc>
+</trkpt>
+<trkpt lat="35.703104000" lon="138.779426000">
+  <ele>1213.454224</ele>
+  <time>2017-11-19T05:00:52Z</time>
+  <desc>lat.=35.703104, lon.=138.779426, Alt.=1213.454224m. Speed=1.901274m/h.</desc>
+</trkpt>
+<trkpt lat="35.704503000" lon="138.777431000">
+  <ele>1176.965698</ele>
+  <time>2017-11-19T05:02:47Z</time>
+  <desc>lat.=35.704503, lon.=138.777431, Alt.=1176.965698m. Speed=4.817003m/h.</desc>
+</trkpt>
+<trkpt lat="35.704476000" lon="138.777101000">
+  <ele>1174.779419</ele>
+  <time>2017-11-19T05:03:03Z</time>
+  <desc>lat.=35.704476, lon.=138.777101, Alt.=1174.779419m. Speed=3.005497m/h.</desc>
+</trkpt>
+<trkpt lat="35.704990000" lon="138.776184000">
+  <ele>1149.415771</ele>
+  <time>2017-11-19T05:03:51Z</time>
+  <desc>lat.=35.704990, lon.=138.776184, Alt.=1149.415771m. Speed=3.230935m/h.</desc>
+</trkpt>
+<trkpt lat="35.704797000" lon="138.774694000">
+  <ele>1121.343994</ele>
+  <time>2017-11-19T05:05:00Z</time>
+  <desc>lat.=35.704797, lon.=138.774694, Alt.=1121.343994m. Speed=1.383648m/h.</desc>
+</trkpt>
+<trkpt lat="35.704897000" lon="138.773725000">
+  <ele>1115.932739</ele>
+  <time>2017-11-19T05:05:55Z</time>
+  <desc>lat.=35.704897, lon.=138.773725, Alt.=1115.932739m. Speed=1.856950m/h.</desc>
+</trkpt>
+<trkpt lat="35.705841000" lon="138.772505000">
+  <ele>1117.536865</ele>
+  <time>2017-11-19T05:06:58Z</time>
+  <desc>lat.=35.705841, lon.=138.772505, Alt.=1117.536865m. Speed=2.130633m/h.</desc>
+</trkpt>
+<trkpt lat="35.706073000" lon="138.771843000">
+  <ele>1113.738037</ele>
+  <time>2017-11-19T05:07:31Z</time>
+  <desc>lat.=35.706073, lon.=138.771843, Alt.=1113.738037m. Speed=4.046857m/h.</desc>
+</trkpt>
+<trkpt lat="35.706615000" lon="138.771258000">
+  <ele>1097.685913</ele>
+  <time>2017-11-19T05:08:06Z</time>
+  <desc>lat.=35.706615, lon.=138.771258, Alt.=1097.685913m. Speed=5.929902m/h.</desc>
+</trkpt>
+<trkpt lat="35.706158000" lon="138.770229000">
+  <ele>1083.394653</ele>
+  <time>2017-11-19T05:08:58Z</time>
+  <desc>lat.=35.706158, lon.=138.770229, Alt.=1083.394653m. Speed=5.712677m/h.</desc>
+</trkpt>
+<trkpt lat="35.706740000" lon="138.768582000">
+  <ele>1071.829956</ele>
+  <time>2017-11-19T05:10:11Z</time>
+  <desc>lat.=35.706740, lon.=138.768582, Alt.=1071.829956m. Speed=9.401475m/h.</desc>
+</trkpt>
+<trkpt lat="35.707284000" lon="138.767996000">
+  <ele>1070.797607</ele>
+  <time>2017-11-19T05:10:40Z</time>
+  <desc>lat.=35.707284, lon.=138.767996, Alt.=1070.797607m. Speed=3.282124m/h.</desc>
+</trkpt>
+<trkpt lat="35.707873000" lon="138.766552000">
+  <ele>1082.756958</ele>
+  <time>2017-11-19T05:11:46Z</time>
+  <desc>lat.=35.707873, lon.=138.766552, Alt.=1082.756958m. Speed=4.024158m/h.</desc>
+</trkpt>
+<trkpt lat="35.707624000" lon="138.765902000">
+  <ele>1078.137817</ele>
+  <time>2017-11-19T05:12:26Z</time>
+  <desc>lat.=35.707624, lon.=138.765902, Alt.=1078.137817m. Speed=2.809215m/h.</desc>
+</trkpt>
+<trkpt lat="35.707428000" lon="138.763545000">
+  <ele>1072.294922</ele>
+  <time>2017-11-19T05:14:23Z</time>
+  <desc>lat.=35.707428, lon.=138.763545, Alt.=1072.294922m. Speed=2.125553m/h.</desc>
+</trkpt>
+<trkpt lat="35.705552000" lon="138.761444000">
+  <ele>1067.312012</ele>
+  <time>2017-11-19T05:17:13Z</time>
+  <desc>lat.=35.705552, lon.=138.761444, Alt.=1067.312012m. Speed=4.625716m/h.</desc>
+</trkpt>
+<trkpt lat="35.704639000" lon="138.760999000">
+  <ele>1066.573975</ele>
+  <time>2017-11-19T05:18:11Z</time>
+  <desc>lat.=35.704639, lon.=138.760999, Alt.=1066.573975m. Speed=3.652086m/h.</desc>
+</trkpt>
+<trkpt lat="35.704876000" lon="138.760466000">
+  <ele>1070.502808</ele>
+  <time>2017-11-19T05:18:41Z</time>
+  <desc>lat.=35.704876, lon.=138.760466, Alt.=1070.502808m. Speed=5.554658m/h.</desc>
+</trkpt>
+<trkpt lat="35.705361000" lon="138.757427000">
+  <ele>1102.322144</ele>
+  <time>2017-11-19T05:20:22Z</time>
+  <desc>lat.=35.705361, lon.=138.757427, Alt.=1102.322144m. Speed=8.645048m/h.</desc>
+</trkpt>
+<trkpt lat="35.704607000" lon="138.754904000">
+  <ele>1112.593872</ele>
+  <time>2017-11-19T05:21:37Z</time>
+  <desc>lat.=35.704607, lon.=138.754904, Alt.=1112.593872m. Speed=7.540204m/h.</desc>
+</trkpt>
+<trkpt lat="35.704261000" lon="138.754389000">
+  <ele>1079.013672</ele>
+  <time>2017-11-19T05:25:22Z</time>
+  <desc>lat.=35.704261, lon.=138.754389, Alt.=1079.013672m. Speed=6.296562m/h.</desc>
+</trkpt>
+<trkpt lat="35.703824000" lon="138.752605000">
+  <ele>1077.837036</ele>
+  <time>2017-11-19T05:26:13Z</time>
+  <desc>lat.=35.703824, lon.=138.752605, Alt.=1077.837036m. Speed=4.093711m/h.</desc>
+</trkpt>
+<trkpt lat="35.703377000" lon="138.752820000">
+  <ele>1077.859253</ele>
+  <time>2017-11-19T05:26:29Z</time>
+  <desc>lat.=35.703377, lon.=138.752820, Alt.=1077.859253m. Speed=4.916608m/h.</desc>
+</trkpt>
+<trkpt lat="35.703281000" lon="138.751214000">
+  <ele>1086.351318</ele>
+  <time>2017-11-19T05:27:19Z</time>
+  <desc>lat.=35.703281, lon.=138.751214, Alt.=1086.351318m. Speed=13.859934m/h.</desc>
+</trkpt>
+<trkpt lat="35.703027000" lon="138.751009000">
+  <ele>1094.004150</ele>
+  <time>2017-11-19T05:27:40Z</time>
+  <desc>lat.=35.703027, lon.=138.751009, Alt.=1094.004150m. Speed=13.765171m/h.</desc>
+</trkpt>
+<trkpt lat="35.702008000" lon="138.748037000">
+  <ele>1192.289795</ele>
+  <time>2017-11-19T05:32:15Z</time>
+  <desc>lat.=35.702008, lon.=138.748037, Alt.=1192.289795m. Speed=9.518169m/h.</desc>
+</trkpt>
+<trkpt lat="35.702719000" lon="138.748033000">
+  <ele>1174.879639</ele>
+  <time>2017-11-19T05:32:39Z</time>
+  <desc>lat.=35.702719, lon.=138.748033, Alt.=1174.879639m. Speed=9.497346m/h.</desc>
+</trkpt>
+<trkpt lat="35.702644000" lon="138.748233000">
+  <ele>1169.124146</ele>
+  <time>2017-11-19T05:32:42Z</time>
+  <desc>lat.=35.702644, lon.=138.748233, Alt.=1169.124146m. Speed=9.746561m/h.</desc>
+</trkpt>
+<trkpt lat="35.704059000" lon="138.748062000">
+  <ele>1143.135498</ele>
+  <time>2017-11-19T05:33:29Z</time>
+  <desc>lat.=35.704059, lon.=138.748062, Alt.=1143.135498m. Speed=10.155260m/h.</desc>
+</trkpt>
+<trkpt lat="35.708123000" lon="138.749037000">
+  <ele>819.563965</ele>
+  <time>2017-11-19T05:34:17Z</time>
+  <desc>lat.=35.708123, lon.=138.749037, Alt.=819.563965m. Speed=11.247623m/h.</desc>
+</trkpt>
+<trkpt lat="35.710220000" lon="138.748192000">
+  <ele>520.901123</ele>
+  <time>2017-11-19T05:36:05Z</time>
+  <desc>lat.=35.710220, lon.=138.748192, Alt.=520.901123m. Speed=10.003711m/h.</desc>
+</trkpt>
+<trkpt lat="35.712918000" lon="138.745438000">
+  <ele>514.472534</ele>
+  <time>2017-11-19T05:38:14Z</time>
+  <desc>lat.=35.712918, lon.=138.745438, Alt.=514.472534m. Speed=10.252902m/h.</desc>
+</trkpt>
+<trkpt lat="35.713851000" lon="138.743366000">
+  <ele>502.211578</ele>
+  <time>2017-11-19T05:39:24Z</time>
+  <desc>lat.=35.713851, lon.=138.743366, Alt.=502.211578m. Speed=10.671149m/h.</desc>
+</trkpt>
+<trkpt lat="35.715914000" lon="138.741131000">
+  <ele>494.764069</ele>
+  <time>2017-11-19T05:41:02Z</time>
+  <desc>lat.=35.715914, lon.=138.741131, Alt.=494.764069m. Speed=9.354348m/h.</desc>
+</trkpt>
+<trkpt lat="35.718142000" lon="138.739937000">
+  <ele>493.919403</ele>
+  <time>2017-11-19T05:42:45Z</time>
+  <desc>lat.=35.718142, lon.=138.739937, Alt.=493.919403m. Speed=12.158314m/h.</desc>
+</trkpt>
+<trkpt lat="35.718519000" lon="138.738944000">
+  <ele>497.738342</ele>
+  <time>2017-11-19T05:43:22Z</time>
+  <desc>lat.=35.718519, lon.=138.738944, Alt.=497.738342m. Speed=2.200607m/h.</desc>
+</trkpt>
+<trkpt lat="35.719631000" lon="138.737812000">
+  <ele>495.377045</ele>
+  <time>2017-11-19T05:44:20Z</time>
+  <desc>lat.=35.719631, lon.=138.737812, Alt.=495.377045m. Speed=11.142844m/h.</desc>
+</trkpt>
+<trkpt lat="35.719898000" lon="138.737014000">
+  <ele>493.455719</ele>
+  <time>2017-11-19T05:44:49Z</time>
+  <desc>lat.=35.719898, lon.=138.737014, Alt.=493.455719m. Speed=10.242683m/h.</desc>
+</trkpt>
+<trkpt lat="35.720987000" lon="138.736071000">
+  <ele>492.649780</ele>
+  <time>2017-11-19T05:45:41Z</time>
+  <desc>lat.=35.720987, lon.=138.736071, Alt.=492.649780m. Speed=8.512609m/h.</desc>
+</trkpt>
+<trkpt lat="35.722192000" lon="138.733669000">
+  <ele>496.406708</ele>
+  <time>2017-11-19T05:47:11Z</time>
+  <desc>lat.=35.722192, lon.=138.733669, Alt.=496.406708m. Speed=9.743807m/h.</desc>
+</trkpt>
+<trkpt lat="35.723689000" lon="138.733034000">
+  <ele>500.864380</ele>
+  <time>2017-11-19T05:48:17Z</time>
+  <desc>lat.=35.723689, lon.=138.733034, Alt.=500.864380m. Speed=9.146792m/h.</desc>
+</trkpt>
+<trkpt lat="35.724312000" lon="138.731733000">
+  <ele>499.698029</ele>
+  <time>2017-11-19T05:49:05Z</time>
+  <desc>lat.=35.724312, lon.=138.731733, Alt.=499.698029m. Speed=9.657845m/h.</desc>
+</trkpt>
+<trkpt lat="35.724831000" lon="138.731157000">
+  <ele>504.504089</ele>
+  <time>2017-11-19T05:49:35Z</time>
+  <desc>lat.=35.724831, lon.=138.731157, Alt.=504.504089m. Speed=10.595818m/h.</desc>
+</trkpt>
+<trkpt lat="35.726093000" lon="138.730429000">
+  <ele>519.047974</ele>
+  <time>2017-11-19T05:50:36Z</time>
+  <desc>lat.=35.726093, lon.=138.730429, Alt.=519.047974m. Speed=9.027923m/h.</desc>
+</trkpt>
+<trkpt lat="35.726959000" lon="138.729598000">
+  <ele>523.335327</ele>
+  <time>2017-11-19T05:51:27Z</time>
+  <desc>lat.=35.726959, lon.=138.729598, Alt.=523.335327m. Speed=6.583515m/h.</desc>
+</trkpt>
+<trkpt lat="35.727026000" lon="138.729790000">
+  <ele>530.389160</ele>
+  <time>2017-11-19T05:51:41Z</time>
+  <desc>lat.=35.727026, lon.=138.729790, Alt.=530.389160m. Speed=5.893243m/h.</desc>
+</trkpt>
+<trkpt lat="35.727597000" lon="138.729239000">
+  <ele>526.823792</ele>
+  <time>2017-11-19T05:52:30Z</time>
+  <desc>lat.=35.727597, lon.=138.729239, Alt.=526.823792m. Speed=6.129236m/h.</desc>
+</trkpt>
+<trkpt lat="35.727400000" lon="138.728704000">
+  <ele>535.443909</ele>
+  <time>2017-11-19T05:53:04Z</time>
+  <desc>lat.=35.727400, lon.=138.728704, Alt.=535.443909m. Speed=10.091877m/h.</desc>
+</trkpt>
+<trkpt lat="35.727780000" lon="138.728140000">
+  <ele>525.187805</ele>
+  <time>2017-11-19T05:53:28Z</time>
+  <desc>lat.=35.727780, lon.=138.728140, Alt.=525.187805m. Speed=2.288442m/h.</desc>
+</trkpt>
+<trkpt lat="35.727571000" lon="138.728410000">
+  <ele>527.265869</ele>
+  <time>2017-11-19T05:53:40Z</time>
+  <desc>lat.=35.727571, lon.=138.728410, Alt.=527.265869m. Speed=10.037226m/h.</desc>
+</trkpt>
+<trkpt lat="35.727443000" lon="138.728024000">
+  <ele>524.163696</ele>
+  <time>2017-11-19T05:53:55Z</time>
+  <desc>lat.=35.727443, lon.=138.728024, Alt.=524.163696m. Speed=14.861318m/h.</desc>
+</trkpt>
+<trkpt lat="35.727164000" lon="138.728235000">
+  <ele>526.328125</ele>
+  <time>2017-11-19T05:54:15Z</time>
+  <desc>lat.=35.727164, lon.=138.728235, Alt.=526.328125m. Speed=10.661779m/h.</desc>
+</trkpt>
+<trkpt lat="35.726921000" lon="138.727398000">
+  <ele>538.814026</ele>
+  <time>2017-11-19T05:54:46Z</time>
+  <desc>lat.=35.726921, lon.=138.727398, Alt.=538.814026m. Speed=11.148571m/h.</desc>
+</trkpt>
+<trkpt lat="35.726999000" lon="138.727871000">
+  <ele>541.534241</ele>
+  <time>2017-11-19T05:55:03Z</time>
+  <desc>lat.=35.726999, lon.=138.727871, Alt.=541.534241m. Speed=8.308617m/h.</desc>
+</trkpt>
+<trkpt lat="35.726725000" lon="138.728073000">
+  <ele>529.709656</ele>
+  <time>2017-11-19T05:57:16Z</time>
+  <desc>lat.=35.726725, lon.=138.728073, Alt.=529.709656m. Speed=3.527347m/h.</desc>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

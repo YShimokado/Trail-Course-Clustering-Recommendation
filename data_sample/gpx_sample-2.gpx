@@ -1,0 +1,3637 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Movescount - http://www.movescount.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <trk>
+    <name>Move</name>
+    <trkseg>
+      <trkpt lat="35.404679" lon="139.168731">
+        <ele>300</ele>
+        <time>2017-11-11T22:08:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>99</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>72</gpxdata:cadence>
+          <gpxdata:distance>5.0310848</gpxdata:distance>
+          <gpxdata:altitude>300</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.180000007152557</gpxdata:verticalSpeed>
+        </extensions>
+      <name>大倉バス停 [おおくらばすてい]</name><type>4,8,12,13,14,15</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=33761</link></trkpt>
+      <trkpt lat="35.404694" lon="139.168657">
+        <ele>300</ele>
+        <time>2017-11-11T22:09:01.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>101</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>74</gpxdata:cadence>
+          <gpxdata:distance>14.5310848</gpxdata:distance>
+          <gpxdata:altitude>300</gpxdata:altitude>
+          <gpxdata:energy>2.57939407176219</gpxdata:energy>
+          <gpxdata:speed>1.3918586334298</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.504682843391632</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.405833" lon="139.167903">
+        <ele>299.9068992</ele>
+        <time>2017-11-11T22:10:04.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>133</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>153.8586816</gpxdata:distance>
+          <gpxdata:altitude>299.9068992</gpxdata:altitude>
+          <gpxdata:energy>8.7720699329773</gpxdata:energy>
+          <gpxdata:speed>2.40000009536743</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.028137983371067</gpxdata:verticalSpeed>
+        </extensions>
+      <name>どんぐり山荘 [どんぐりさんそう]</name><type>6</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=1999</link></trkpt>
+      <trkpt lat="35.405769" lon="139.166391">
+        <ele>312.013784619791</ele>
+        <time>2017-11-11T22:11:05.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>149</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>81</gpxdata:cadence>
+          <gpxdata:distance>299.1585231276</gpxdata:distance>
+          <gpxdata:altitude>312.013784619791</gpxdata:altitude>
+          <gpxdata:energy>10.8013786513994</gpxdata:energy>
+          <gpxdata:speed>2.29931072198402</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.230344619646567</gpxdata:verticalSpeed>
+        </extensions>
+      <name>大倉山の家 [おおくらやまのいえ]</name><type>6</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2000</link></trkpt>
+      <trkpt lat="35.406722" lon="139.165619">
+        <ele>322.2068992</ele>
+        <time>2017-11-11T22:12:07.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>431.5517824</gpxdata:distance>
+          <gpxdata:altitude>322.2068992</gpxdata:altitude>
+          <gpxdata:energy>11.6413801820068</gpxdata:energy>
+          <gpxdata:speed>2.29999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.170689924727249</gpxdata:verticalSpeed>
+        </extensions>
+      <name>丹沢クリステル [たんざわくりすてる]</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=37059</link></trkpt>
+      <trkpt lat="35.407771" lon="139.164922">
+        <ele>333.9206976</ele>
+        <time>2017-11-11T22:13:08.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>563.9793792</gpxdata:distance>
+          <gpxdata:altitude>333.9206976</gpxdata:altitude>
+          <gpxdata:energy>12.9613796926758</gpxdata:energy>
+          <gpxdata:speed>2.26137990231781</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.223862016879654</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.408588" lon="139.16408">
+        <ele>361.5482944</ele>
+        <time>2017-11-11T22:14:10.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>167</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>704.1655808</gpxdata:distance>
+          <gpxdata:altitude>361.5482944</gpxdata:altitude>
+          <gpxdata:energy>13.3999996185303</gpxdata:energy>
+          <gpxdata:speed>2.05068987165833</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.430275960193825</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.409715" lon="139.16367">
+        <ele>380.2827904</ele>
+        <time>2017-11-11T22:15:11.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>171</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>848.4552704</gpxdata:distance>
+          <gpxdata:altitude>380.2827904</gpxdata:altitude>
+          <gpxdata:energy>14.8213795335083</gpxdata:energy>
+          <gpxdata:speed>2.62137986893921</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.242069768154573</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.410269" lon="139.163242">
+        <ele>397.2931008</ele>
+        <time>2017-11-11T22:16:12.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>76</gpxdata:cadence>
+          <gpxdata:distance>927.7758912</gpxdata:distance>
+          <gpxdata:altitude>397.2931008</gpxdata:altitude>
+          <gpxdata:energy>13.8999996185303</gpxdata:energy>
+          <gpxdata:speed>1.27068990026855</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.258965895378685</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.410853" lon="139.1625">
+        <ele>405.2068992</ele>
+        <time>2017-11-11T22:17:17.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>170</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>81</gpxdata:cadence>
+          <gpxdata:distance>1018.7586816</gpxdata:distance>
+          <gpxdata:altitude>405.2068992</gpxdata:altitude>
+          <gpxdata:energy>14.341379991272</gpxdata:energy>
+          <gpxdata:speed>1.39999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.195862019843483</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.411419" lon="139.161907">
+        <ele>418.7206976</ele>
+        <time>2017-11-11T22:18:24.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>69</gpxdata:cadence>
+          <gpxdata:distance>1106.8827904</gpxdata:distance>
+          <gpxdata:altitude>418.7206976</gpxdata:altitude>
+          <gpxdata:energy>13.6372406659546</gpxdata:energy>
+          <gpxdata:speed>1.20931011880493</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.200000002980232</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.411848" lon="139.161943">
+        <ele>444.4137984</ele>
+        <time>2017-11-11T22:19:27.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>86</gpxdata:cadence>
+          <gpxdata:distance>1160.3793792</gpxdata:distance>
+          <gpxdata:altitude>444.4137984</gpxdata:altitude>
+          <gpxdata:energy>11.6620699836182</gpxdata:energy>
+          <gpxdata:speed>2.02068990026855</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.545862019535065</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.412683" lon="139.161729">
+        <ele>449.8068992</ele>
+        <time>2017-11-11T22:20:33.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>167</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>60</gpxdata:cadence>
+          <gpxdata:distance>1274.4896896</gpxdata:distance>
+          <gpxdata:altitude>449.8068992</gpxdata:altitude>
+          <gpxdata:energy>13.0806902278076</gpxdata:energy>
+          <gpxdata:speed>1.5</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0500000007450581</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.413239" lon="139.161921">
+        <ele>467.6137984</ele>
+        <time>2017-11-11T22:21:33.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>57</gpxdata:cadence>
+          <gpxdata:distance>1344.8758912</gpxdata:distance>
+          <gpxdata:altitude>467.6137984</gpxdata:altitude>
+          <gpxdata:energy>11.2772402397583</gpxdata:energy>
+          <gpxdata:speed>1.20000004768372</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.321241096928406</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.414502" lon="139.162212">
+        <ele>490</ele>
+        <time>2017-11-11T22:23:17.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>71</gpxdata:cadence>
+          <gpxdata:distance>1448.8277504</gpxdata:distance>
+          <gpxdata:altitude>490</gpxdata:altitude>
+          <gpxdata:energy>15</gpxdata:energy>
+          <gpxdata:speed>1.47931007506714</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.390344957698059</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.41496" lon="139.162583">
+        <ele>514.7068992</ele>
+        <time>2017-11-11T22:24:02.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>58</gpxdata:cadence>
+          <gpxdata:distance>1541.1208512</gpxdata:distance>
+          <gpxdata:altitude>514.7068992</gpxdata:altitude>
+          <gpxdata:energy>15</gpxdata:energy>
+          <gpxdata:speed>1.39999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.774485214117718</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.414765" lon="139.162064">
+        <ele>525.479213739609</ele>
+        <time>2017-11-11T22:24:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>62</gpxdata:cadence>
+          <gpxdata:distance>1600.91685495844</gpxdata:distance>
+          <gpxdata:altitude>525.479213739609</gpxdata:altitude>
+          <gpxdata:energy>13.0969533177074</gpxdata:energy>
+          <gpxdata:speed>1.39999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.4152" lon="139.162936">
+        <ele>561.8897664</ele>
+        <time>2017-11-11T22:25:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>176</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>86</gpxdata:cadence>
+          <gpxdata:distance>1685.2347264</gpxdata:distance>
+          <gpxdata:altitude>561.8897664</gpxdata:altitude>
+          <gpxdata:energy>15.1613796860962</gpxdata:energy>
+          <gpxdata:speed>1.16137987847595</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.169448826709557</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.415845" lon="139.162678">
+        <ele>550.9551168</ele>
+        <time>2017-11-11T22:26:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>175</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>68</gpxdata:cadence>
+          <gpxdata:distance>1771.9243392</gpxdata:distance>
+          <gpxdata:altitude>550.9551168</gpxdata:altitude>
+          <gpxdata:energy>15.4093097340454</gpxdata:energy>
+          <gpxdata:speed>1.5</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.416358" lon="139.162592">
+        <ele>557.8758912</ele>
+        <time>2017-11-11T22:27:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>54</gpxdata:cadence>
+          <gpxdata:distance>1825.8001536</gpxdata:distance>
+          <gpxdata:altitude>557.8758912</gpxdata:altitude>
+          <gpxdata:energy>15.1386205046387</gpxdata:energy>
+          <gpxdata:speed>1.20000004768372</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0403449606011868</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.416986" lon="139.162612">
+        <ele>574.137984</ele>
+        <time>2017-11-11T22:28:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>174</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>75</gpxdata:cadence>
+          <gpxdata:distance>1885.7760448</gpxdata:distance>
+          <gpxdata:altitude>574.137984</gpxdata:altitude>
+          <gpxdata:energy>15.1000003814697</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.417506" lon="139.162339">
+        <ele>604.499395729487</ele>
+        <time>2017-11-11T22:29:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>86</gpxdata:cadence>
+          <gpxdata:distance>1955.78909454702</gpxdata:distance>
+          <gpxdata:altitude>604.499395729487</gpxdata:altitude>
+          <gpxdata:energy>13.6629092950693</gpxdata:energy>
+          <gpxdata:speed>1.12096972003662</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.118545467917771</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.418539" lon="139.162118">
+        <ele>607</ele>
+        <time>2017-11-11T22:30:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>2086</gpxdata:distance>
+          <gpxdata:altitude>607</gpxdata:altitude>
+          <gpxdata:energy>14.6320347384465</gpxdata:energy>
+          <gpxdata:speed>1.01601719758239</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.419651" lon="139.162012">
+        <ele>612.6482944</ele>
+        <time>2017-11-11T22:31:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>68</gpxdata:cadence>
+          <gpxdata:distance>2186.0555008</gpxdata:distance>
+          <gpxdata:altitude>612.6482944</gpxdata:altitude>
+          <gpxdata:energy>13.6806898397583</gpxdata:energy>
+          <gpxdata:speed>1.78068989073181</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00806899181964397</gpxdata:verticalSpeed>
+        </extensions>
+      <name>見晴茶屋 [みはらしぢゃや]</name><type>6,14</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=1773</link></trkpt>
+      <trkpt lat="35.420109" lon="139.162237">
+        <ele>630.958541594862</ele>
+        <time>2017-11-11T22:32:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>63</gpxdata:cadence>
+          <gpxdata:distance>2248.86332448822</gpxdata:distance>
+          <gpxdata:altitude>630.958541594862</gpxdata:altitude>
+          <gpxdata:energy>12.9706604780576</gpxdata:energy>
+          <gpxdata:speed>1.92933939317461</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.420449" lon="139.162263">
+        <ele>640.8275968</ele>
+        <time>2017-11-11T22:33:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>54</gpxdata:cadence>
+          <gpxdata:distance>2291.8621696</gpxdata:distance>
+          <gpxdata:altitude>640.8275968</gpxdata:altitude>
+          <gpxdata:energy>14.7413800866394</gpxdata:energy>
+          <gpxdata:speed>0.746550423841858</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00706899184199572</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.420932" lon="139.162378">
+        <ele>658.2586816</ele>
+        <time>2017-11-11T22:34:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>46</gpxdata:cadence>
+          <gpxdata:distance>2341.879456</gpxdata:distance>
+          <gpxdata:altitude>658.2586816</gpxdata:altitude>
+          <gpxdata:energy>14.9293098103394</gpxdata:energy>
+          <gpxdata:speed>0.812069750134277</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.421127" lon="139.162653">
+        <ele>680.4172864</ele>
+        <time>2017-11-11T22:35:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>58</gpxdata:cadence>
+          <gpxdata:distance>2387.9276736</gpxdata:distance>
+          <gpxdata:altitude>680.4172864</gpxdata:altitude>
+          <gpxdata:energy>13.3186203329773</gpxdata:energy>
+          <gpxdata:speed>0.899999976158142</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0725519343783379</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.421535" lon="139.163051">
+        <ele>686.9482944</ele>
+        <time>2017-11-11T22:36:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>59</gpxdata:cadence>
+          <gpxdata:distance>2432.0001536</gpxdata:distance>
+          <gpxdata:altitude>686.9482944</gpxdata:altitude>
+          <gpxdata:energy>13.0706901896606</gpxdata:energy>
+          <gpxdata:speed>0.8534496</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.422105" lon="139.16354">
+        <ele>702.4310848</ele>
+        <time>2017-11-11T22:37:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>2503.4312384</gpxdata:distance>
+          <gpxdata:altitude>702.4310848</gpxdata:altitude>
+          <gpxdata:energy>13.1948291144348</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0706899210533619</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.422411" lon="139.164116">
+        <ele>729.206976</ele>
+        <time>2017-11-11T22:38:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>175</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>60</gpxdata:cadence>
+          <gpxdata:distance>2570.5346496</gpxdata:distance>
+          <gpxdata:altitude>729.206976</gpxdata:altitude>
+          <gpxdata:energy>15.3413795144348</gpxdata:energy>
+          <gpxdata:speed>1.22931009973145</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.422755" lon="139.16446">
+        <ele>734.77640192</ele>
+        <time>2017-11-11T22:39:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>170</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>55</gpxdata:cadence>
+          <gpxdata:distance>2628.48907648</gpxdata:distance>
+          <gpxdata:altitude>734.77640192</gpxdata:altitude>
+          <gpxdata:energy>14.0194101220435</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00805899501986742</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.423029" lon="139.164855">
+        <ele>749.7138752</ele>
+        <time>2017-11-11T22:40:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>58</gpxdata:cadence>
+          <gpxdata:distance>2661.8242624</gpxdata:distance>
+          <gpxdata:altitude>749.7138752</gpxdata:altitude>
+          <gpxdata:energy>13</gpxdata:energy>
+          <gpxdata:speed>0.899999976158142</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.410588353208542</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.423392" lon="139.165166">
+        <ele>774.6827904</ele>
+        <time>2017-11-11T22:41:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>170</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>80</gpxdata:cadence>
+          <gpxdata:distance>2724.5380608</gpxdata:distance>
+          <gpxdata:altitude>774.6827904</gpxdata:altitude>
+          <gpxdata:energy>13.2613800675659</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0403449606011868</gpxdata:verticalSpeed>
+        </extensions>
+      <name>一本松 [いっぽんまつ]</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=37065</link></trkpt>
+      <trkpt lat="35.423916" lon="139.165554">
+        <ele>781.2413952</ele>
+        <time>2017-11-11T22:42:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>170</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>80</gpxdata:cadence>
+          <gpxdata:distance>2782.7760448</gpxdata:distance>
+          <gpxdata:altitude>781.2413952</gpxdata:altitude>
+          <gpxdata:energy>13.5293101918091</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.424802" lon="139.166178">
+        <ele>789.0827904</ele>
+        <time>2017-11-11T22:43:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>2860.2796096</gpxdata:distance>
+          <gpxdata:altitude>789.0827904</gpxdata:altitude>
+          <gpxdata:energy>13.3479301433167</gpxdata:energy>
+          <gpxdata:speed>1.05068993208542</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0253449603776693</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.426073" lon="139.166669">
+        <ele>812</ele>
+        <time>2017-11-11T22:44:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>174</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>3065</gpxdata:distance>
+          <gpxdata:altitude>812</gpxdata:altitude>
+          <gpxdata:energy>15.3589301479945</gpxdata:energy>
+          <gpxdata:speed>2</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.426842" lon="139.166807">
+        <ele>810.1862016</ele>
+        <time>2017-11-11T22:45:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>58</gpxdata:cadence>
+          <gpxdata:distance>3142.9933312</gpxdata:distance>
+          <gpxdata:altitude>810.1862016</gpxdata:altitude>
+          <gpxdata:energy>13.2372401825378</gpxdata:energy>
+          <gpxdata:speed>2.29999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.427516" lon="139.16671">
+        <ele>844.6966656</ele>
+        <time>2017-11-11T22:46:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>175</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>79</gpxdata:cadence>
+          <gpxdata:distance>3212.3243392</gpxdata:distance>
+          <gpxdata:altitude>844.6966656</gpxdata:altitude>
+          <gpxdata:energy>15.1227595629272</gpxdata:energy>
+          <gpxdata:speed>1.39999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.427879" lon="139.1665">
+        <ele>853</ele>
+        <time>2017-11-11T22:47:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>42</gpxdata:cadence>
+          <gpxdata:distance>3266.9035648</gpxdata:distance>
+          <gpxdata:altitude>853</gpxdata:altitude>
+          <gpxdata:energy>15.109310408197</gpxdata:energy>
+          <gpxdata:speed>1.29999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.428134" lon="139.16621">
+        <ele>867.5103872</ele>
+        <time>2017-11-11T22:48:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>171</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>42</gpxdata:cadence>
+          <gpxdata:distance>3306.3690688</gpxdata:distance>
+          <gpxdata:altitude>867.5103872</gpxdata:altitude>
+          <gpxdata:energy>14.0186201422424</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.428332" lon="139.165816">
+        <ele>894.8207744</ele>
+        <time>2017-11-11T22:49:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>52</gpxdata:cadence>
+          <gpxdata:distance>3343.8897664</gpxdata:distance>
+          <gpxdata:altitude>894.8207744</gpxdata:altitude>
+          <gpxdata:energy>12.8386203139038</gpxdata:energy>
+          <gpxdata:speed>0.680689914984894</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.121034884809494</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.42857" lon="139.165482">
+        <ele>900.2931008</ele>
+        <time>2017-11-11T22:50:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>167</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>66</gpxdata:cadence>
+          <gpxdata:distance>3380.275968</gpxdata:distance>
+          <gpxdata:altitude>900.2931008</gpxdata:altitude>
+          <gpxdata:energy>12.3000001907349</gpxdata:energy>
+          <gpxdata:speed>0.699999988079071</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>駒止茶屋 [こまどめちゃや]</name><type>6</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=1772</link></trkpt>
+      <trkpt lat="35.429408" lon="139.164876">
+        <ele>908.068992</ele>
+        <time>2017-11-11T22:51:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>171</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>80</gpxdata:cadence>
+          <gpxdata:distance>3479.9520128</gpxdata:distance>
+          <gpxdata:altitude>908.068992</gpxdata:altitude>
+          <gpxdata:energy>13.1648296675659</gpxdata:energy>
+          <gpxdata:speed>0.780689927317047</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0403449606011868</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.430275" lon="139.164278">
+        <ele>928.5586816</ele>
+        <time>2017-11-11T22:52:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>81</gpxdata:cadence>
+          <gpxdata:distance>3589.758912</gpxdata:distance>
+          <gpxdata:altitude>928.5586816</gpxdata:altitude>
+          <gpxdata:energy>13.0579302768311</gpxdata:energy>
+          <gpxdata:speed>1.79999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.431137" lon="139.163735">
+        <ele>930.8793024</ele>
+        <time>2017-11-11T22:53:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>83</gpxdata:cadence>
+          <gpxdata:distance>3687.3451136</gpxdata:distance>
+          <gpxdata:altitude>930.8793024</gpxdata:altitude>
+          <gpxdata:energy>14.4758605030212</gpxdata:energy>
+          <gpxdata:speed>1.89999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.432604" lon="139.164031">
+        <ele>939.6827904</ele>
+        <time>2017-11-11T22:54:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>3852.9452672</gpxdata:distance>
+          <gpxdata:altitude>939.6827904</gpxdata:altitude>
+          <gpxdata:energy>13.9875890397583</gpxdata:energy>
+          <gpxdata:speed>2.04206967384033</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>堀山 [ほりやま]</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4090</link></trkpt>
+      <trkpt lat="35.433953" lon="139.163608">
+        <ele>937</ele>
+        <time>2017-11-11T22:55:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>86</gpxdata:cadence>
+          <gpxdata:distance>4040</gpxdata:distance>
+          <gpxdata:altitude>937</gpxdata:altitude>
+          <gpxdata:energy>12.8966908788094</gpxdata:energy>
+          <gpxdata:speed>2.70000004768372</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00344363510664483</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.435609" lon="139.163495">
+        <ele>920.862016</ele>
+        <time>2017-11-11T22:56:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>4188.4694528</gpxdata:distance>
+          <gpxdata:altitude>920.862016</gpxdata:altitude>
+          <gpxdata:energy>15.0193101536621</gpxdata:energy>
+          <gpxdata:speed>2.74206972152405</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.436234" lon="139.162915">
+        <ele>929.103488</ele>
+        <time>2017-11-11T22:57:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>64</gpxdata:cadence>
+          <gpxdata:distance>4294.2002304</gpxdata:distance>
+          <gpxdata:altitude>929.103488</gpxdata:altitude>
+          <gpxdata:energy>14.2193099629272</gpxdata:energy>
+          <gpxdata:speed>2.77724034006042</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0484139509178638</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.436134" lon="139.162385">
+        <ele>945.4310848</ele>
+        <time>2017-11-11T22:58:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>60</gpxdata:cadence>
+          <gpxdata:distance>4346.34496</gpxdata:distance>
+          <gpxdata:altitude>945.4310848</gpxdata:altitude>
+          <gpxdata:energy>12.8293101030212</gpxdata:energy>
+          <gpxdata:speed>1.35862012629242</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.436379" lon="139.162299">
+        <ele>960.1896896</ele>
+        <time>2017-11-11T22:59:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>83</gpxdata:cadence>
+          <gpxdata:distance>4380.7931776</gpxdata:distance>
+          <gpxdata:altitude>960.1896896</gpxdata:altitude>
+          <gpxdata:energy>9.68275970302124</gpxdata:energy>
+          <gpxdata:speed>0.658620180347824</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0424139510519743</gpxdata:verticalSpeed>
+        </extensions>
+      <name>堀山の家 [ほりやまのいえ]</name><type>3,6</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=1771</link></trkpt>
+      <trkpt lat="35.436841" lon="139.162278">
+        <ele>969.6482944</ele>
+        <time>2017-11-11T23:00:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>78</gpxdata:cadence>
+          <gpxdata:distance>4430.9587584</gpxdata:distance>
+          <gpxdata:altitude>969.6482944</gpxdata:altitude>
+          <gpxdata:energy>11.8000001907349</gpxdata:energy>
+          <gpxdata:speed>0.580689939237976</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.437037" lon="139.162303">
+        <ele>997.1552704</ele>
+        <time>2017-11-11T23:01:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>163</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>46</gpxdata:cadence>
+          <gpxdata:distance>4456.5517824</gpxdata:distance>
+          <gpxdata:altitude>997.1552704</gpxdata:altitude>
+          <gpxdata:energy>11.1879303978516</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.127241861056137</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.43738" lon="139.162215">
+        <ele>998.8103104</ele>
+        <time>2017-11-11T23:02:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>164</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>65</gpxdata:cadence>
+          <gpxdata:distance>4490.5690688</gpxdata:distance>
+          <gpxdata:altitude>998.8103104</gpxdata:altitude>
+          <gpxdata:energy>10.9827598937561</gpxdata:energy>
+          <gpxdata:speed>0.400000005960464</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.437834" lon="139.162304">
+        <ele>1013.3793792</ele>
+        <time>2017-11-11T23:03:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>170</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>78</gpxdata:cadence>
+          <gpxdata:distance>4538.0518592</gpxdata:distance>
+          <gpxdata:altitude>1013.3793792</gpxdata:altitude>
+          <gpxdata:energy>13.0293101918091</gpxdata:energy>
+          <gpxdata:speed>0.670689918561173</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0918968926292419</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.438353" lon="139.16255">
+        <ele>1034.7172864</ele>
+        <time>2017-11-11T23:04:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>174</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>81</gpxdata:cadence>
+          <gpxdata:distance>4603.0277504</gpxdata:distance>
+          <gpxdata:altitude>1034.7172864</gpxdata:altitude>
+          <gpxdata:energy>14.3296591509766</gpxdata:energy>
+          <gpxdata:speed>0.880689903063965</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.438708" lon="139.162965">
+        <ele>1070.6483712</ele>
+        <time>2017-11-11T23:05:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>179</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>54</gpxdata:cadence>
+          <gpxdata:distance>4663.9725568</gpxdata:distance>
+          <gpxdata:altitude>1070.6483712</gpxdata:altitude>
+          <gpxdata:energy>16.2000007629395</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.163241862486649</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.439" lon="139.163035">
+        <ele>1078.9482944</ele>
+        <time>2017-11-11T23:06:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>174</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>51</gpxdata:cadence>
+          <gpxdata:distance>4692.3276736</gpxdata:distance>
+          <gpxdata:altitude>1078.9482944</gpxdata:altitude>
+          <gpxdata:energy>15.2293100010742</gpxdata:energy>
+          <gpxdata:speed>0.687930249865723</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.439364" lon="139.163235">
+        <ele>1081</ele>
+        <time>2017-11-11T23:07:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>45</gpxdata:cadence>
+          <gpxdata:distance>4724.78768360845</gpxdata:distance>
+          <gpxdata:altitude>1081</gpxdata:altitude>
+          <gpxdata:energy>13.9012786879634</gpxdata:energy>
+          <gpxdata:speed>0.701278611620518</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.439724" lon="139.163319">
+        <ele>1100.0448832</ele>
+        <time>2017-11-11T23:08:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>46</gpxdata:cadence>
+          <gpxdata:distance>4784.1828672</gpxdata:distance>
+          <gpxdata:altitude>1100.0448832</gpxdata:altitude>
+          <gpxdata:energy>12.5186201422424</gpxdata:energy>
+          <gpxdata:speed>0.709310070298767</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.440195" lon="139.163122">
+        <ele>1111.6827904</ele>
+        <time>2017-11-11T23:09:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>171</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>58</gpxdata:cadence>
+          <gpxdata:distance>4832.379456</gpxdata:distance>
+          <gpxdata:altitude>1111.6827904</gpxdata:altitude>
+          <gpxdata:energy>13.0227599509766</gpxdata:energy>
+          <gpxdata:speed>0.842069745365906</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0403449606011868</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.440733" lon="139.162585">
+        <ele>1132.5586816</ele>
+        <time>2017-11-11T23:10:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>164</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>86</gpxdata:cadence>
+          <gpxdata:distance>4905.1312384</gpxdata:distance>
+          <gpxdata:altitude>1132.5586816</gpxdata:altitude>
+          <gpxdata:energy>11.3772404370728</gpxdata:energy>
+          <gpxdata:speed>0.980689915396118</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>天神尾根分岐 [てんじんおねぶんき]</name><type>2,3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4086</link></trkpt>
+      <trkpt lat="35.441726" lon="139.162264">
+        <ele>1127</ele>
+        <time>2017-11-11T23:11:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>163</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>70</gpxdata:cadence>
+          <gpxdata:distance>5034</gpxdata:distance>
+          <gpxdata:altitude>1127</gpxdata:altitude>
+          <gpxdata:energy>10.8000001907349</gpxdata:energy>
+          <gpxdata:speed>1.29999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00606194746927158</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.4422" lon="139.162245">
+        <ele>1143.2586816</ele>
+        <time>2017-11-11T23:12:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>49</gpxdata:cadence>
+          <gpxdata:distance>5071.4656576</gpxdata:distance>
+          <gpxdata:altitude>1143.2586816</gpxdata:altitude>
+          <gpxdata:energy>10.5293101918091</gpxdata:energy>
+          <gpxdata:speed>1.75862018671951</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.442668" lon="139.16248">
+        <ele>1159.8965888</ele>
+        <time>2017-11-11T23:13:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>47</gpxdata:cadence>
+          <gpxdata:distance>5126.5863552</gpxdata:distance>
+          <gpxdata:altitude>1159.8965888</gpxdata:altitude>
+          <gpxdata:energy>9.38793048663941</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0424139510519743</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.44299" lon="139.162572">
+        <ele>1176.0172864</ele>
+        <time>2017-11-11T23:14:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>46</gpxdata:cadence>
+          <gpxdata:distance>5169.1552704</gpxdata:distance>
+          <gpxdata:altitude>1176.0172864</gpxdata:altitude>
+          <gpxdata:energy>9.97068980819092</gpxdata:energy>
+          <gpxdata:speed>0.71724033685379</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443398" lon="139.162494">
+        <ele>1191.4896896</ele>
+        <time>2017-11-11T23:15:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>51</gpxdata:cadence>
+          <gpxdata:distance>5217.1173632</gpxdata:distance>
+          <gpxdata:altitude>1191.4896896</gpxdata:altitude>
+          <gpxdata:energy>11.8455193231689</gpxdata:energy>
+          <gpxdata:speed>0.680689914984894</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0484139509178638</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443683" lon="139.162478">
+        <ele>1201.2620928</ele>
+        <time>2017-11-11T23:16:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>50</gpxdata:cadence>
+          <gpxdata:distance>5251.8207744</gpxdata:distance>
+          <gpxdata:altitude>1201.2620928</gpxdata:altitude>
+          <gpxdata:energy>11.8579304675659</gpxdata:energy>
+          <gpxdata:speed>0.619310096936035</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443949" lon="139.162602">
+        <ele>1207.56300288</ele>
+        <time>2017-11-11T23:17:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>167</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>46</gpxdata:cadence>
+          <gpxdata:distance>5274.22401024</gpxdata:distance>
+          <gpxdata:altitude>1207.56300288</gpxdata:altitude>
+          <gpxdata:energy>11.7014003487671</gpxdata:energy>
+          <gpxdata:speed>0.55070004408783</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0152100092600298</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444207" lon="139.162619">
+        <ele>1220.11118491698</ele>
+        <time>2017-11-11T23:18:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>46</gpxdata:cadence>
+          <gpxdata:distance>5304.19457360472</gpxdata:distance>
+          <gpxdata:altitude>1220.11118491698</gpxdata:altitude>
+          <gpxdata:energy>11.3999996185303</gpxdata:energy>
+          <gpxdata:speed>0.549305106024118</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.202779625946182</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444568" lon="139.162762">
+        <ele>1236.6172864</ele>
+        <time>2017-11-11T23:19:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>47</gpxdata:cadence>
+          <gpxdata:distance>5339.7966656</gpxdata:distance>
+          <gpxdata:altitude>1236.6172864</gpxdata:altitude>
+          <gpxdata:energy>12.3999996185303</gpxdata:energy>
+          <gpxdata:speed>0.601379833957291</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0405519350935936</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444944" lon="139.162811">
+        <ele>1255.137984</ele>
+        <time>2017-11-11T23:20:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>48</gpxdata:cadence>
+          <gpxdata:distance>5382.2897664</gpxdata:distance>
+          <gpxdata:altitude>1255.137984</gpxdata:altitude>
+          <gpxdata:energy>12.8986202566833</gpxdata:energy>
+          <gpxdata:speed>0.699999988079071</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.2534496</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445289" lon="139.162702">
+        <ele>1285.9793792</ele>
+        <time>2017-11-11T23:21:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>171</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>48</gpxdata:cadence>
+          <gpxdata:distance>5434.4690688</gpxdata:distance>
+          <gpxdata:altitude>1285.9793792</gpxdata:altitude>
+          <gpxdata:energy>13.3999996185303</gpxdata:energy>
+          <gpxdata:speed>0.619310096936035</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.104896892152405</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445594" lon="139.162585">
+        <ele>1298.603488</ele>
+        <time>2017-11-11T23:22:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>167</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>49</gpxdata:cadence>
+          <gpxdata:distance>5460.2483712</gpxdata:distance>
+          <gpxdata:altitude>1298.603488</gpxdata:altitude>
+          <gpxdata:energy>12.6424109793152</gpxdata:energy>
+          <gpxdata:speed>0.600000023841858</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.192621693582916</gpxdata:verticalSpeed>
+        </extensions>
+      <name>花立山荘</name><type>6,8,14</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=1769</link></trkpt>
+      <trkpt lat="35.445963" lon="139.16255">
+        <ele>1303.70619323275</ele>
+        <time>2017-11-11T23:24:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>145</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>81</gpxdata:cadence>
+          <gpxdata:distance>5506.95392254271</gpxdata:distance>
+          <gpxdata:altitude>1303.70619323275</gpxdata:altitude>
+          <gpxdata:energy>4.04176708888523</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.446379" lon="139.16242">
+        <ele>1311.603488</ele>
+        <time>2017-11-11T23:25:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>157</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>54</gpxdata:cadence>
+          <gpxdata:distance>5543.3311616</gpxdata:distance>
+          <gpxdata:altitude>1311.603488</gpxdata:altitude>
+          <gpxdata:energy>8.40275977931519</gpxdata:energy>
+          <gpxdata:speed>0.65068992571373</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0304139513201952</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.44681" lon="139.162192">
+        <ele>1328.068992</ele>
+        <time>2017-11-11T23:26:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>53</gpxdata:cadence>
+          <gpxdata:distance>5614.1587584</gpxdata:distance>
+          <gpxdata:altitude>1328.068992</gpxdata:altitude>
+          <gpxdata:energy>10.2093099247803</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.446992" lon="139.161915">
+        <ele>1341.0172864</ele>
+        <time>2017-11-11T23:27:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>49</gpxdata:cadence>
+          <gpxdata:distance>5641.6207744</gpxdata:distance>
+          <gpxdata:altitude>1341.0172864</gpxdata:altitude>
+          <gpxdata:energy>9.92930981033935</gpxdata:energy>
+          <gpxdata:speed>0.658620180347824</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0565519347359657</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.447361" lon="139.161687">
+        <ele>1358.9103872</ele>
+        <time>2017-11-11T23:28:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>57</gpxdata:cadence>
+          <gpxdata:distance>5688.1173632</gpxdata:distance>
+          <gpxdata:altitude>1358.9103872</gpxdata:altitude>
+          <gpxdata:energy>9.33862031390381</gpxdata:energy>
+          <gpxdata:speed>0.680689914984894</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.44779" lon="139.161694">
+        <ele>1368.4551936</ele>
+        <time>2017-11-11T23:29:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>55</gpxdata:cadence>
+          <gpxdata:distance>5735.7311616</gpxdata:distance>
+          <gpxdata:altitude>1368.4551936</gpxdata:altitude>
+          <gpxdata:energy>9.60000038146973</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0242069754589319</gpxdata:verticalSpeed>
+        </extensions>
+      <name>花立 [はなだて]</name><type>11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4116</link></trkpt>
+      <trkpt lat="35.448638" lon="139.161791">
+        <ele>1364.931008</ele>
+        <time>2017-11-11T23:30:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>5793.155424</gpxdata:distance>
+          <gpxdata:altitude>1364.931008</gpxdata:altitude>
+          <gpxdata:energy>8.5</gpxdata:energy>
+          <gpxdata:speed>0.90137984587822</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.1267248</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.449573" lon="139.161154">
+        <ele>1363.2275968</ele>
+        <time>2017-11-11T23:31:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>5936.0210048</gpxdata:distance>
+          <gpxdata:altitude>1363.2275968</gpxdata:altitude>
+          <gpxdata:energy>10.2193099629272</gpxdata:energy>
+          <gpxdata:speed>1.68068996307983</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>金冷シ [きんひやし]</name><type>3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4087</link></trkpt>
+      <trkpt lat="35.450249" lon="139.161098">
+        <ele>1369</ele>
+        <time>2017-11-11T23:32:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>6034</gpxdata:distance>
+          <gpxdata:altitude>1369</gpxdata:altitude>
+          <gpxdata:energy>10.181654414996</gpxdata:energy>
+          <gpxdata:speed>1.88165457095427</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0137590593702653</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.450767" lon="139.161051">
+        <ele>1385.2586816</ele>
+        <time>2017-11-11T23:33:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>62</gpxdata:cadence>
+          <gpxdata:distance>6075.0001536</gpxdata:distance>
+          <gpxdata:altitude>1385.2586816</gpxdata:altitude>
+          <gpxdata:energy>10.3413795144348</gpxdata:energy>
+          <gpxdata:speed>1.22931009973145</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0706899210533619</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.451244" lon="139.161476">
+        <ele>1398.0827904</ele>
+        <time>2017-11-11T23:34:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>6125.4553472</gpxdata:distance>
+          <gpxdata:altitude>1398.0827904</gpxdata:altitude>
+          <gpxdata:energy>12.4534494092651</gpxdata:energy>
+          <gpxdata:speed>1.00137984032898</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.157138753208542</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.452068" lon="139.162171">
+        <ele>1406.8275968</ele>
+        <time>2017-11-11T23:35:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>53</gpxdata:cadence>
+          <gpxdata:distance>6236.4658112</gpxdata:distance>
+          <gpxdata:altitude>1406.8275968</gpxdata:altitude>
+          <gpxdata:energy>12.7172405896606</gpxdata:energy>
+          <gpxdata:speed>1.31206975013428</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00706899184199572</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.452505" lon="139.162127">
+        <ele>1424.137984</ele>
+        <time>2017-11-11T23:36:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>51</gpxdata:cadence>
+          <gpxdata:distance>6308.5380608</gpxdata:distance>
+          <gpxdata:altitude>1424.137984</gpxdata:altitude>
+          <gpxdata:energy>11.9386199258545</gpxdata:energy>
+          <gpxdata:speed>1.71931010926819</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.452932" lon="139.162486">
+        <ele>1431.5482944</ele>
+        <time>2017-11-11T23:37:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>57</gpxdata:cadence>
+          <gpxdata:distance>6347.4001536</gpxdata:distance>
+          <gpxdata:altitude>1431.5482944</gpxdata:altitude>
+          <gpxdata:energy>10.5986200659485</gpxdata:energy>
+          <gpxdata:speed>0.899999976158142</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0152069756600976</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.453173" lon="139.162786">
+        <ele>1447.9103872</ele>
+        <time>2017-11-11T23:38:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>47</gpxdata:cadence>
+          <gpxdata:distance>6406.6621696</gpxdata:distance>
+          <gpxdata:altitude>1447.9103872</gpxdata:altitude>
+          <gpxdata:energy>11.2613800675659</gpxdata:energy>
+          <gpxdata:speed>0.919310060762024</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.453444" lon="139.163115">
+        <ele>1456.068992</ele>
+        <time>2017-11-11T23:39:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>51</gpxdata:cadence>
+          <gpxdata:distance>6435.2897664</gpxdata:distance>
+          <gpxdata:altitude>1456.068992</gpxdata:altitude>
+          <gpxdata:energy>11.3506898206848</gpxdata:energy>
+          <gpxdata:speed>0.65068992571373</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0152069756600976</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.453882" lon="139.163262">
+        <ele>1474.1793792</ele>
+        <time>2017-11-11T23:40:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>51</gpxdata:cadence>
+          <gpxdata:distance>6481.8518592</gpxdata:distance>
+          <gpxdata:altitude>1474.1793792</gpxdata:altitude>
+          <gpxdata:energy>11.3506898206848</gpxdata:energy>
+          <gpxdata:speed>0.75068992016449</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.334553485293961</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.45404" lon="139.163352">
+        <ele>1487</ele>
+        <time>2017-11-11T23:41:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>153</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>6516.6310848</gpxdata:distance>
+          <gpxdata:altitude>1487</gpxdata:altitude>
+          <gpxdata:energy>8.64103113405151</gpxdata:energy>
+          <gpxdata:speed>0.597240328899574</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.4541" lon="139.163214">
+        <ele>1486.8758144</ele>
+        <time>2017-11-11T23:43:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>119</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>6533.0965888</gpxdata:distance>
+          <gpxdata:altitude>1486.8758144</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0405519350935936</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.454038" lon="139.163445">
+        <ele>1483.5758912</ele>
+        <time>2017-11-11T23:44:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>118</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>6551.1517824</gpxdata:distance>
+          <gpxdata:altitude>1483.5758912</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.131793787165833</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.454205" lon="139.163149">
+        <ele>1488.3586048</ele>
+        <time>2017-11-11T23:46:51.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>119</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>6582.0276736</gpxdata:distance>
+          <gpxdata:altitude>1488.3586048</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0.182069767234802</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0910348836174011</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.454305" lon="139.163239">
+        <ele>1490.4931008</ele>
+        <time>2017-11-11T23:49:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>104</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>6602.0965888</gpxdata:distance>
+          <gpxdata:altitude>1490.4931008</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>尊仏山荘</name><type>6,7,8,14</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=1779</link></trkpt>
+      <trkpt lat="35.454202" lon="139.163287">
+        <ele>1493.5793024</ele>
+        <time>2017-11-11T23:54:53.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>103</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>6618.6827904</gpxdata:distance>
+          <gpxdata:altitude>1493.5793024</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>塔ノ岳 [とうのだけ]</name><type>1,3,6,11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=304</link></trkpt>
+      <trkpt lat="35.454114" lon="139.163351">
+        <ele>1493.4517056</ele>
+        <time>2017-11-11T23:59:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>109</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>32</gpxdata:cadence>
+          <gpxdata:distance>6626.5758912</gpxdata:distance>
+          <gpxdata:altitude>1493.4517056</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0152069756600976</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.453701" lon="139.163339">
+        <ele>1481.8896128</ele>
+        <time>2017-11-12T00:00:50.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>117</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>78</gpxdata:cadence>
+          <gpxdata:distance>6655.3173632</gpxdata:distance>
+          <gpxdata:altitude>1481.8896128</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0.304139532085419</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.192621693582916</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.453072" lon="139.162656">
+        <ele>1453.1793024</ele>
+        <time>2017-11-12T00:01:51.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>132</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>99</gpxdata:cadence>
+          <gpxdata:distance>6775.2482944</gpxdata:distance>
+          <gpxdata:altitude>1453.1793024</gpxdata:altitude>
+          <gpxdata:energy>3.94275964086609</gpxdata:energy>
+          <gpxdata:speed>1.60000002384186</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.230000004172325</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.452395" lon="139.16211">
+        <ele>1430.465504</ele>
+        <time>2017-11-12T00:02:52.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>94</gpxdata:cadence>
+          <gpxdata:distance>6865.7241856</gpxdata:distance>
+          <gpxdata:altitude>1430.465504</gpxdata:altitude>
+          <gpxdata:energy>5.26551930409546</gpxdata:energy>
+          <gpxdata:speed>1.97068991301193</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.385862014376259</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.45128" lon="139.161562">
+        <ele>1406.16276327214</ele>
+        <time>2017-11-12T00:03:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>156</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>93</gpxdata:cadence>
+          <gpxdata:distance>7013.37236727862</gpxdata:distance>
+          <gpxdata:altitude>1406.16276327214</gpxdata:altitude>
+          <gpxdata:energy>9.38606574054794</gpxdata:energy>
+          <gpxdata:speed>2.53255266218878</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.241393434483183</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.450191" lon="139.161145">
+        <ele>1380.6793024</ele>
+        <time>2017-11-12T00:04:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>7161.4586816</gpxdata:distance>
+          <gpxdata:altitude>1380.6793024</gpxdata:altitude>
+          <gpxdata:energy>10.9679302196106</gpxdata:energy>
+          <gpxdata:speed>2.28551940258636</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.482137974418068</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.44946" lon="139.1603">
+        <ele>1360.5724032</ele>
+        <time>2017-11-12T00:05:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>153</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>95</gpxdata:cadence>
+          <gpxdata:distance>7280.8551936</gpxdata:distance>
+          <gpxdata:altitude>1360.5724032</gpxdata:altitude>
+          <gpxdata:energy>9.36792994008789</gpxdata:energy>
+          <gpxdata:speed>1.56793025619583</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.264275960757065</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.449368" lon="139.159155">
+        <ele>1342.5931008</ele>
+        <time>2017-11-12T00:06:59.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>156</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>80</gpxdata:cadence>
+          <gpxdata:distance>7390.3241856</gpxdata:distance>
+          <gpxdata:altitude>1342.5931008</gpxdata:altitude>
+          <gpxdata:energy>9.60344921853027</gpxdata:energy>
+          <gpxdata:speed>1.85241087112122</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.279655047070313</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.449182" lon="139.158337">
+        <ele>1350.6068992</ele>
+        <time>2017-11-12T00:08:01.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>151</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>50</gpxdata:cadence>
+          <gpxdata:distance>7470.8551936</gpxdata:distance>
+          <gpxdata:altitude>1350.6068992</gpxdata:altitude>
+          <gpxdata:energy>8.95724036077881</gpxdata:energy>
+          <gpxdata:speed>0.578620155313873</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.189310083617401</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.449176" lon="139.158118">
+        <ele>1357.9068992</ele>
+        <time>2017-11-12T00:09:24.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>141</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>7494.3482944</gpxdata:distance>
+          <gpxdata:altitude>1357.9068992</gpxdata:altitude>
+          <gpxdata:energy>6.19999980926514</gpxdata:energy>
+          <gpxdata:speed>0.544139541622162</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0553449587629437</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.449044" lon="139.15771">
+        <ele>1374.034496</ele>
+        <time>2017-11-12T00:10:33.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>54</gpxdata:cadence>
+          <gpxdata:distance>7537.2620928</gpxdata:distance>
+          <gpxdata:altitude>1374.034496</gpxdata:altitude>
+          <gpxdata:energy>10.2034497907349</gpxdata:energy>
+          <gpxdata:speed>0.561379860388946</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.236482945381165</gpxdata:verticalSpeed>
+        </extensions>
+      <name>大丸</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=37058</link></trkpt>
+      <trkpt lat="35.448541" lon="139.157412">
+        <ele>1373.1862016</ele>
+        <time>2017-11-12T00:11:34.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>147</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>92</gpxdata:cadence>
+          <gpxdata:distance>7603.068992</gpxdata:distance>
+          <gpxdata:altitude>1373.1862016</gpxdata:altitude>
+          <gpxdata:energy>7.85586061746216</gpxdata:energy>
+          <gpxdata:speed>1.41862014059753</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.141620933280683</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.447543" lon="139.157019">
+        <ele>1356</ele>
+        <time>2017-11-12T00:12:46.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>143</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>9</gpxdata:cadence>
+          <gpxdata:distance>7721.6413952</gpxdata:distance>
+          <gpxdata:altitude>1356</gpxdata:altitude>
+          <gpxdata:energy>6.9251705803894</gpxdata:energy>
+          <gpxdata:speed>0.710689910627747</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0903790733069301</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.447054" lon="139.156247">
+        <ele>1359.3206976</ele>
+        <time>2017-11-12T00:13:46.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>149</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>7813.1758912</gpxdata:distance>
+          <gpxdata:altitude>1359.3206976</gpxdata:altitude>
+          <gpxdata:energy>7.87482961034546</gpxdata:energy>
+          <gpxdata:speed>1.84275964251099</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.006413951856637</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445879" lon="139.155804">
+        <ele>1359.3931008</ele>
+        <time>2017-11-12T00:15:21.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>136</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>33</gpxdata:cadence>
+          <gpxdata:distance>7925.0898432</gpxdata:distance>
+          <gpxdata:altitude>1359.3931008</gpxdata:altitude>
+          <gpxdata:energy>5.52896133787842</gpxdata:energy>
+          <gpxdata:speed>1.46068991062775</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.160689922394466</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445307" lon="139.155114">
+        <ele>1345</ele>
+        <time>2017-11-12T00:16:06.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>144</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>8043</gpxdata:distance>
+          <gpxdata:altitude>1345</gpxdata:altitude>
+          <gpxdata:energy>6.20785909268123</gpxdata:energy>
+          <gpxdata:speed>1.60392966320766</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.265697970003025</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.44501" lon="139.154384">
+        <ele>1344</ele>
+        <time>2017-11-12T00:16:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>139</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>8117</gpxdata:distance>
+          <gpxdata:altitude>1344</gpxdata:altitude>
+          <gpxdata:energy>6.61591184516532</gpxdata:energy>
+          <gpxdata:speed>1.96846700719752</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00105109990365643</gpxdata:verticalSpeed>
+        </extensions>
+      <name>小丸尾根分岐(二俣分岐・平二山) [こまるおねぶんき]</name><type>3,11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2004</link></trkpt>
+      <trkpt lat="35.445043" lon="139.153236">
+        <ele>1341.931008</ele>
+        <time>2017-11-12T00:17:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>151</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>8138.5175168</gpxdata:distance>
+          <gpxdata:altitude>1341.931008</gpxdata:altitude>
+          <gpxdata:energy>8.48275941691895</gpxdata:energy>
+          <gpxdata:speed>1.52068992493286</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0310348812332153</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445344" lon="139.15256">
+        <ele>1336</ele>
+        <time>2017-11-12T00:18:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>149</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>8291</gpxdata:distance>
+          <gpxdata:altitude>1336</gpxdata:altitude>
+          <gpxdata:energy>7.8424023469249</gpxdata:energy>
+          <gpxdata:speed>1.67879894431502</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00530027465747087</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444772" lon="139.151396">
+        <ele>1336.9068992</ele>
+        <time>2017-11-12T00:19:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>8402.5486016</gpxdata:distance>
+          <gpxdata:altitude>1336.9068992</gpxdata:altitude>
+          <gpxdata:energy>9.49068988448486</gpxdata:energy>
+          <gpxdata:speed>1.29068988119507</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444778" lon="139.150483">
+        <ele>1337.4137984</ele>
+        <time>2017-11-12T00:20:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>154</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>16</gpxdata:cadence>
+          <gpxdata:distance>8431.1726336</gpxdata:distance>
+          <gpxdata:altitude>1337.4137984</gpxdata:altitude>
+          <gpxdata:energy>9.73448041638184</gpxdata:energy>
+          <gpxdata:speed>1.97586040436401</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0165519356300354</gpxdata:verticalSpeed>
+        </extensions>
+      <name>小丸 [こまる]</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4089</link></trkpt>
+      <trkpt lat="35.444496" lon="139.149566">
+        <ele>1317</ele>
+        <time>2017-11-12T00:21:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>139</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>96</gpxdata:cadence>
+          <gpxdata:distance>8586</gpxdata:distance>
+          <gpxdata:altitude>1317</gpxdata:altitude>
+          <gpxdata:energy>5.59012105548792</gpxdata:energy>
+          <gpxdata:speed>1.30987881323745</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0345760043916771</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.44414" lon="139.148343">
+        <ele>1297.9551168</ele>
+        <time>2017-11-12T00:22:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>142</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>7</gpxdata:cadence>
+          <gpxdata:distance>8692.1072064</gpxdata:distance>
+          <gpxdata:altitude>1297.9551168</gpxdata:altitude>
+          <gpxdata:energy>6.78379053814392</gpxdata:energy>
+          <gpxdata:speed>1.59068994162216</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>鍋割山稜</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=33970</link></trkpt>
+      <trkpt lat="35.444249" lon="139.148135">
+        <ele>1286.931008</ele>
+        <time>2017-11-12T00:23:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>133</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>102</gpxdata:cadence>
+          <gpxdata:distance>8723.8586816</gpxdata:distance>
+          <gpxdata:altitude>1286.931008</gpxdata:altitude>
+          <gpxdata:energy>3.89069000204926</gpxdata:energy>
+          <gpxdata:speed>1.81862011675568</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0272069753918767</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444463" lon="139.147246">
+        <ele>1263.32752</ele>
+        <time>2017-11-12T00:24:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>146</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>8802.1795328</gpxdata:distance>
+          <gpxdata:altitude>1263.32752</gpxdata:altitude>
+          <gpxdata:energy>6.87206983760986</gpxdata:energy>
+          <gpxdata:speed>0.400000005960464</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444685" lon="139.14639">
+        <ele>1266</ele>
+        <time>2017-11-12T00:25:55.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>163</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>52</gpxdata:cadence>
+          <gpxdata:distance>8891</gpxdata:distance>
+          <gpxdata:altitude>1266</gpxdata:altitude>
+          <gpxdata:energy>10.8041397067871</gpxdata:energy>
+          <gpxdata:speed>1.39999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0113108477985859</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444811" lon="139.145811">
+        <ele>1277</ele>
+        <time>2017-11-12T00:26:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>55</gpxdata:cadence>
+          <gpxdata:distance>8946</gpxdata:distance>
+          <gpxdata:altitude>1277</gpxdata:altitude>
+          <gpxdata:energy>11.1106008699699</gpxdata:energy>
+          <gpxdata:speed>1.28939941326877</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.042402197259767</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444786" lon="139.14521">
+        <ele>1286</ele>
+        <time>2017-11-12T00:27:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>61</gpxdata:cadence>
+          <gpxdata:distance>9000</gpxdata:distance>
+          <gpxdata:altitude>1286</gpxdata:altitude>
+          <gpxdata:energy>10.4907143801569</gpxdata:energy>
+          <gpxdata:speed>1.09814289943047</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00241426107064637</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444787" lon="139.143757">
+        <ele>1269</ele>
+        <time>2017-11-12T00:28:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>150</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>103</gpxdata:cadence>
+          <gpxdata:distance>9132</gpxdata:distance>
+          <gpxdata:altitude>1269</gpxdata:altitude>
+          <gpxdata:energy>7.76445911713504</gpxdata:energy>
+          <gpxdata:speed>1.06445926518022</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0451214864799466</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444415" lon="139.142026">
+        <ele>1267.965504</ele>
+        <time>2017-11-12T00:29:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>9165.5176704</gpxdata:distance>
+          <gpxdata:altitude>1267.965504</gpxdata:altitude>
+          <gpxdata:energy>10.3448292098022</gpxdata:energy>
+          <gpxdata:speed>2.28275969808655</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0124139517225266</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443912" lon="139.141446">
+        <ele>1273.9758912</ele>
+        <time>2017-11-12T00:30:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>168</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>66</gpxdata:cadence>
+          <gpxdata:distance>9363.8312384</gpxdata:distance>
+          <gpxdata:altitude>1273.9758912</gpxdata:altitude>
+          <gpxdata:energy>13.2744804670227</gpxdata:energy>
+          <gpxdata:speed>2.60930999795074</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>鍋割山荘 [なべわりさんそう]</name><type>6,8,11,14</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=1774</link></trkpt>
+      <trkpt lat="35.443803" lon="139.141347">
+        <ele>1276.8137984</ele>
+        <time>2017-11-12T00:31:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>129</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>8</gpxdata:cadence>
+          <gpxdata:distance>9384.603488</gpxdata:distance>
+          <gpxdata:altitude>1276.8137984</gpxdata:altitude>
+          <gpxdata:energy>3.52103110873108</gpxdata:energy>
+          <gpxdata:speed>0.583790717780304</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>鍋割山 [なべわりやま]</name><type>1,3,11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=306</link></trkpt>
+      <trkpt lat="35.44388" lon="139.141443">
+        <ele>1278.068992</ele>
+        <time>2017-11-12T00:38:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>112</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>47</gpxdata:cadence>
+          <gpxdata:distance>9397.7896896</gpxdata:distance>
+          <gpxdata:altitude>1278.068992</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443882" lon="139.141226">
+        <ele>1278.0931008</ele>
+        <time>2017-11-12T00:40:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>106</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>9416.2310848</gpxdata:distance>
+          <gpxdata:altitude>1278.0931008</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443953" lon="139.141325">
+        <ele>1274.465504</ele>
+        <time>2017-11-12T00:42:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>111</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>9428.8827904</gpxdata:distance>
+          <gpxdata:altitude>1274.465504</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443823" lon="139.141276">
+        <ele>1283</ele>
+        <time>2017-11-12T00:46:55.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>97</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>9445</gpxdata:distance>
+          <gpxdata:altitude>1283</gpxdata:altitude>
+          <gpxdata:energy>0.899999976158142</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00124185604934692</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444267" lon="139.141712">
+        <ele>1282.0931008</ele>
+        <time>2017-11-12T00:47:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>125</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>81</gpxdata:cadence>
+          <gpxdata:distance>9503.0415488</gpxdata:distance>
+          <gpxdata:altitude>1282.0931008</gpxdata:altitude>
+          <gpxdata:energy>3.22551931675568</gpxdata:energy>
+          <gpxdata:speed>0</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444798" lon="139.142869">
+        <ele>1278.07284110221</ele>
+        <time>2017-11-12T00:48:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>9533.80310882817</gpxdata:distance>
+          <gpxdata:altitude>1278.07284110221</gpxdata:altitude>
+          <gpxdata:energy>6.2826768584041</gpxdata:energy>
+          <gpxdata:speed>1.06200776221455</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.140550951504658</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444859" lon="139.143858">
+        <ele>1273.8827904</ele>
+        <time>2017-11-12T00:49:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>147</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>77</gpxdata:cadence>
+          <gpxdata:distance>9710.620928</gpxdata:distance>
+          <gpxdata:altitude>1273.8827904</gpxdata:altitude>
+          <gpxdata:energy>8.36275933404541</gpxdata:energy>
+          <gpxdata:speed>1.89999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0453449606756926</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444818" lon="139.14511">
+        <ele>1289.4095342931</ele>
+        <time>2017-11-12T00:50:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>81</gpxdata:cadence>
+          <gpxdata:distance>9821.66793183835</gpxdata:distance>
+          <gpxdata:altitude>1289.4095342931</gpxdata:altitude>
+          <gpxdata:energy>10.8999996185303</gpxdata:energy>
+          <gpxdata:speed>1.60000002384186</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.44475" lon="139.146343">
+        <ele>1274.6758144</ele>
+        <time>2017-11-12T00:51:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>9934.5727104</gpxdata:distance>
+          <gpxdata:altitude>1274.6758144</gpxdata:altitude>
+          <gpxdata:energy>11.3627593340454</gpxdata:energy>
+          <gpxdata:speed>1.89999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0725519343783379</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444394" lon="139.147618">
+        <ele>1272</ele>
+        <time>2017-11-12T00:52:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>170</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>56</gpxdata:cadence>
+          <gpxdata:distance>10067</gpxdata:distance>
+          <gpxdata:altitude>1272</gpxdata:altitude>
+          <gpxdata:energy>13.6999998092651</gpxdata:energy>
+          <gpxdata:speed>1.89999997615814</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444256" lon="139.148088">
+        <ele>1288</ele>
+        <time>2017-11-12T00:53:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>49</gpxdata:cadence>
+          <gpxdata:distance>10112</gpxdata:distance>
+          <gpxdata:altitude>1288</gpxdata:altitude>
+          <gpxdata:energy>13.2700911394611</gpxdata:energy>
+          <gpxdata:speed>1.9302122533106</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0229302584804835</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444233" lon="139.148501">
+        <ele>1290.7206976</ele>
+        <time>2017-11-12T00:54:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>48</gpxdata:cadence>
+          <gpxdata:distance>10146.4621696</gpxdata:distance>
+          <gpxdata:altitude>1290.7206976</gpxdata:altitude>
+          <gpxdata:energy>12.5093101155151</gpxdata:energy>
+          <gpxdata:speed>0.899999976158142</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>鍋割山稜</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=33970</link></trkpt>
+      <trkpt lat="35.444403" lon="139.149159">
+        <ele>1318</ele>
+        <time>2017-11-12T00:55:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>63</gpxdata:cadence>
+          <gpxdata:distance>10212</gpxdata:distance>
+          <gpxdata:altitude>1318</gpxdata:altitude>
+          <gpxdata:energy>11.6604844126866</gpxdata:energy>
+          <gpxdata:speed>0.819757727874993</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0405033197667222</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444609" lon="139.149744">
+        <ele>1319.2413952</ele>
+        <time>2017-11-12T00:56:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>55</gpxdata:cadence>
+          <gpxdata:distance>10224.0001536</gpxdata:distance>
+          <gpxdata:altitude>1319.2413952</gpxdata:altitude>
+          <gpxdata:energy>10.3586198179932</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0413798406166077</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444847" lon="139.150414">
+        <ele>1333.9758912</ele>
+        <time>2017-11-12T00:57:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>164</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>10329.8553472</gpxdata:distance>
+          <gpxdata:altitude>1333.9758912</gpxdata:altitude>
+          <gpxdata:energy>11.4534496</gpxdata:energy>
+          <gpxdata:speed>0.990689917780304</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0453449606756926</gpxdata:verticalSpeed>
+        </extensions>
+      <name>小丸 [こまる]</name><type/><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=4089</link></trkpt>
+      <trkpt lat="35.44499" lon="139.151703">
+        <ele>1331.3724032</ele>
+        <time>2017-11-12T00:58:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>164</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>86</gpxdata:cadence>
+          <gpxdata:distance>10443.0141056</gpxdata:distance>
+          <gpxdata:altitude>1331.3724032</gpxdata:altitude>
+          <gpxdata:energy>11.6999998092651</gpxdata:energy>
+          <gpxdata:speed>1.19068996546402</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445349" lon="139.152787">
+        <ele>1334.62722414343</ele>
+        <time>2017-11-12T00:59:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>78</gpxdata:cadence>
+          <gpxdata:distance>10550.1214398009</gpxdata:distance>
+          <gpxdata:altitude>1334.62722414343</gpxdata:altitude>
+          <gpxdata:energy>11.0093194319649</gpxdata:energy>
+          <gpxdata:speed>2</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00906806015589232</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445095" lon="139.154104">
+        <ele>1338.6275968</ele>
+        <time>2017-11-12T01:00:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>10671.5486016</gpxdata:distance>
+          <gpxdata:altitude>1338.6275968</gpxdata:altitude>
+          <gpxdata:energy>11.1999998092651</gpxdata:energy>
+          <gpxdata:speed>1.79999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.445009" lon="139.154541">
+        <ele>1340.4482944</ele>
+        <time>2017-11-12T01:01:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>20</gpxdata:cadence>
+          <gpxdata:distance>10691.4828672</gpxdata:distance>
+          <gpxdata:altitude>1340.4482944</gpxdata:altitude>
+          <gpxdata:energy>12.5137906081909</gpxdata:energy>
+          <gpxdata:speed>1.73103103753357</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0206899203083038</gpxdata:verticalSpeed>
+        </extensions>
+      <name>小丸尾根分岐(二俣分岐・平二山) [こまるおねぶんき]</name><type>3,11</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2004</link></trkpt>
+      <trkpt lat="35.444684" lon="139.154578">
+        <ele>1334.2103104</ele>
+        <time>2017-11-12T01:02:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>141</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>68</gpxdata:cadence>
+          <gpxdata:distance>10756.6483712</gpxdata:distance>
+          <gpxdata:altitude>1334.2103104</gpxdata:altitude>
+          <gpxdata:energy>6.35586066185608</gpxdata:energy>
+          <gpxdata:speed>0.600000023841858</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444304" lon="139.154451">
+        <ele>1313.9551168</ele>
+        <time>2017-11-12T01:03:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>141</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>79</gpxdata:cadence>
+          <gpxdata:distance>10799.9035648</gpxdata:distance>
+          <gpxdata:altitude>1313.9551168</gpxdata:altitude>
+          <gpxdata:energy>5.89069002424622</gpxdata:energy>
+          <gpxdata:speed>0.600000023841858</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0906899213513851</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.444089" lon="139.154141">
+        <ele>1307.2413184</ele>
+        <time>2017-11-12T01:04:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>145</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>80</gpxdata:cadence>
+          <gpxdata:distance>10811.6552704</gpxdata:distance>
+          <gpxdata:altitude>1307.2413184</gpxdata:altitude>
+          <gpxdata:energy>7.15862000872803</gpxdata:energy>
+          <gpxdata:speed>0.699999988079071</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.165519362466431</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443832" lon="139.154035">
+        <ele>1285.2758144</ele>
+        <time>2017-11-12T01:05:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>144</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>10847.206976</gpxdata:distance>
+          <gpxdata:altitude>1285.2758144</gpxdata:altitude>
+          <gpxdata:energy>6.71724049100342</gpxdata:energy>
+          <gpxdata:speed>0.600000023841858</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0579317762466431</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443448" lon="139.153836">
+        <ele>1264.3792256</ele>
+        <time>2017-11-12T01:06:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>148</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>91</gpxdata:cadence>
+          <gpxdata:distance>10880.7242624</gpxdata:distance>
+          <gpxdata:altitude>1264.3792256</gpxdata:altitude>
+          <gpxdata:energy>8.07586030899658</gpxdata:energy>
+          <gpxdata:speed>0.520689924932861</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.240003065093994</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.443085" lon="139.153878">
+        <ele>1234.0896128</ele>
+        <time>2017-11-12T01:07:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>151</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>92</gpxdata:cadence>
+          <gpxdata:distance>10930.275968</gpxdata:distance>
+          <gpxdata:altitude>1234.0896128</gpxdata:altitude>
+          <gpxdata:energy>8.39999961853027</gpxdata:energy>
+          <gpxdata:speed>0.699999988079071</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0705868172804832</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.442679" lon="139.153753">
+        <ele>1184</ele>
+        <time>2017-11-12T01:08:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>153</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>91</gpxdata:cadence>
+          <gpxdata:distance>11005</gpxdata:distance>
+          <gpxdata:altitude>1184</gpxdata:altitude>
+          <gpxdata:energy>8.80000019073486</gpxdata:energy>
+          <gpxdata:speed>0.699999988079071</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0818868412829137</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.442288" lon="139.153793">
+        <ele>1177.793024</ele>
+        <time>2017-11-12T01:09:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>147</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>78</gpxdata:cadence>
+          <gpxdata:distance>11013.8966656</gpxdata:distance>
+          <gpxdata:altitude>1177.793024</gpxdata:altitude>
+          <gpxdata:energy>7.63793010845947</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0951736337265015</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.441744" lon="139.153808">
+        <ele>1149.0344192</ele>
+        <time>2017-11-12T01:10:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>145</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>13</gpxdata:cadence>
+          <gpxdata:distance>11060.6208512</gpxdata:distance>
+          <gpxdata:altitude>1149.0344192</gpxdata:altitude>
+          <gpxdata:energy>7.04482949590454</gpxdata:energy>
+          <gpxdata:speed>0.74137982561264</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.177933314959717</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.440935" lon="139.153989">
+        <ele>1116</ele>
+        <time>2017-11-12T01:11:55.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>149</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>92</gpxdata:cadence>
+          <gpxdata:distance>11201</gpxdata:distance>
+          <gpxdata:altitude>1116</gpxdata:altitude>
+          <gpxdata:energy>7.40620937602539</gpxdata:energy>
+          <gpxdata:speed>1.10275970367737</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0635875825530052</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.440287" lon="139.154518">
+        <ele>1094</ele>
+        <time>2017-11-12T01:12:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>64</gpxdata:cadence>
+          <gpxdata:distance>11287</gpxdata:distance>
+          <gpxdata:altitude>1094</gpxdata:altitude>
+          <gpxdata:energy>11.6633571801572</gpxdata:energy>
+          <gpxdata:speed>1.58948902206434</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0819857913105061</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.439889" lon="139.154285">
+        <ele>1067</ele>
+        <time>2017-11-12T01:13:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>141</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>91</gpxdata:cadence>
+          <gpxdata:distance>11336</gpxdata:distance>
+          <gpxdata:altitude>1067</gpxdata:altitude>
+          <gpxdata:energy>6.24182013337374</gpxdata:energy>
+          <gpxdata:speed>1.37090997059624</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0397563469069174</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.439181" lon="139.15419">
+        <ele>1043</ele>
+        <time>2017-11-12T01:14:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>149</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>96</gpxdata:cadence>
+          <gpxdata:distance>11416</gpxdata:distance>
+          <gpxdata:altitude>1043</gpxdata:altitude>
+          <gpxdata:energy>7.16306589023752</gpxdata:energy>
+          <gpxdata:speed>0.910510977935663</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0872412921992666</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.438618" lon="139.15416">
+        <ele>1038.6551168</ele>
+        <time>2017-11-12T01:15:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>150</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>94</gpxdata:cadence>
+          <gpxdata:distance>11428.8277504</gpxdata:distance>
+          <gpxdata:altitude>1038.6551168</gpxdata:altitude>
+          <gpxdata:energy>8.31724001745605</gpxdata:energy>
+          <gpxdata:speed>1.27931005204773</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0682767387130737</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.438191" lon="139.154109">
+        <ele>991</ele>
+        <time>2017-11-12T01:16:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>144</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>98</gpxdata:cadence>
+          <gpxdata:distance>11526</gpxdata:distance>
+          <gpxdata:altitude>991</gpxdata:altitude>
+          <gpxdata:energy>6.90000009536743</gpxdata:energy>
+          <gpxdata:speed>0.990121139078839</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.109655331494206</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.437078" lon="139.154053">
+        <ele>982.724032</ele>
+        <time>2017-11-12T01:17:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>77</gpxdata:cadence>
+          <gpxdata:distance>11551.6555008</gpxdata:distance>
+          <gpxdata:altitude>982.724032</gpxdata:altitude>
+          <gpxdata:energy>10.5793103825439</gpxdata:energy>
+          <gpxdata:speed>0.986209299320221</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.126208514959717</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.436592" lon="139.15398">
+        <ele>946.4482176</ele>
+        <time>2017-11-12T01:18:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>102</gpxdata:cadence>
+          <gpxdata:distance>11661.379456</gpxdata:distance>
+          <gpxdata:altitude>946.4482176</gpxdata:altitude>
+          <gpxdata:energy>9.36206999019775</gpxdata:energy>
+          <gpxdata:speed>1.8965504</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.167588352493286</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.435942" lon="139.153708">
+        <ele>895</ele>
+        <time>2017-11-12T01:19:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>153</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>11781</gpxdata:distance>
+          <gpxdata:altitude>895</gpxdata:altitude>
+          <gpxdata:energy>9.30379037930908</gpxdata:energy>
+          <gpxdata:speed>0.921379821255493</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0545185909805298</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.4355" lon="139.153785">
+        <ele>891.0689152</ele>
+        <time>2017-11-12T01:20:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>140</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>71</gpxdata:cadence>
+          <gpxdata:distance>11791.34496</gpxdata:distance>
+          <gpxdata:altitude>891.0689152</gpxdata:altitude>
+          <gpxdata:energy>5.48275979509888</gpxdata:energy>
+          <gpxdata:speed>1.17931012275085</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.140691457479858</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.435206" lon="139.154022">
+        <ele>868.7448064</ele>
+        <time>2017-11-12T01:21:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>141</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>80</gpxdata:cadence>
+          <gpxdata:distance>11866.3690688</gpxdata:distance>
+          <gpxdata:altitude>868.7448064</gpxdata:altitude>
+          <gpxdata:energy>5.57206969126892</gpxdata:energy>
+          <gpxdata:speed>0.809310088591385</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0272069753918767</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.434636" lon="139.153794">
+        <ele>856.581457430791</ele>
+        <time>2017-11-12T01:22:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>136</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>11889.1260588034</gpxdata:distance>
+          <gpxdata:altitude>856.581457430791</gpxdata:altitude>
+          <gpxdata:energy>4.38563917833215</gpxdata:energy>
+          <gpxdata:speed>0.728546351308075</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.413922181745791</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.434414" lon="139.153914">
+        <ele>824.896512</ele>
+        <time>2017-11-12T01:23:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>133</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>11942.5862784</gpxdata:distance>
+          <gpxdata:altitude>824.896512</gpxdata:altitude>
+          <gpxdata:energy>4.27931019180908</gpxdata:energy>
+          <gpxdata:speed>0.8965504</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0434488306434631</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.434051" lon="139.15391">
+        <ele>801</ele>
+        <time>2017-11-12T01:24:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>130</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>77</gpxdata:cadence>
+          <gpxdata:distance>12004</gpxdata:distance>
+          <gpxdata:altitude>801</gpxdata:altitude>
+          <gpxdata:energy>2.91183863711605</gpxdata:energy>
+          <gpxdata:speed>0.511838552333113</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0254528894566839</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.433979" lon="139.153799">
+        <ele>793</ele>
+        <time>2017-11-12T01:25:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>135</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>105</gpxdata:cadence>
+          <gpxdata:distance>12017</gpxdata:distance>
+          <gpxdata:altitude>793</gpxdata:altitude>
+          <gpxdata:energy>3.33957551729295</gpxdata:energy>
+          <gpxdata:speed>0.570090990395315</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0109666451018664</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.433721" lon="139.153728">
+        <ele>788.2413184</ele>
+        <time>2017-11-12T01:26:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>139</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>0</gpxdata:cadence>
+          <gpxdata:distance>12023.0000768</gpxdata:distance>
+          <gpxdata:altitude>788.2413184</gpxdata:altitude>
+          <gpxdata:energy>5.5</gpxdata:energy>
+          <gpxdata:speed>0.1034496</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.171726332546997</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.433445" lon="139.153707">
+        <ele>760.6413184</ele>
+        <time>2017-11-12T01:27:59.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>142</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>66</gpxdata:cadence>
+          <gpxdata:distance>12058.6138752</gpxdata:distance>
+          <gpxdata:altitude>760.6413184</gpxdata:altitude>
+          <gpxdata:energy>5.9406899765625</gpxdata:energy>
+          <gpxdata:speed>0.5</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.134276741335678</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.433047" lon="139.15329">
+        <ele>764</ele>
+        <time>2017-11-12T01:28:55.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>140</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>1</gpxdata:cadence>
+          <gpxdata:distance>12135</gpxdata:distance>
+          <gpxdata:altitude>764</gpxdata:altitude>
+          <gpxdata:energy>5.80138002941895</gpxdata:energy>
+          <gpxdata:speed>0.5034496</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00400153588485718</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.432722" lon="139.153112">
+        <ele>744.9551168</ele>
+        <time>2017-11-12T01:29:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>142</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>91</gpxdata:cadence>
+          <gpxdata:distance>12171.275968</gpxdata:distance>
+          <gpxdata:altitude>744.9551168</gpxdata:altitude>
+          <gpxdata:energy>6.17206959590149</gpxdata:energy>
+          <gpxdata:speed>1</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0906899213513851</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.431784" lon="139.153466">
+        <ele>733</ele>
+        <time>2017-11-12T01:30:55.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>143</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>76</gpxdata:cadence>
+          <gpxdata:distance>12284</gpxdata:distance>
+          <gpxdata:altitude>733</gpxdata:altitude>
+          <gpxdata:energy>5.89448073405151</gpxdata:energy>
+          <gpxdata:speed>1.30275963297424</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00227673609046936</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.430432" lon="139.153744">
+        <ele>715.7689152</ele>
+        <time>2017-11-12T01:31:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>146</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>12422.7555776</gpxdata:distance>
+          <gpxdata:altitude>715.7689152</gpxdata:altitude>
+          <gpxdata:energy>6.66275952478027</gpxdata:energy>
+          <gpxdata:speed>1.79999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0906899213513851</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.429703" lon="139.154185">
+        <ele>709.582710014538</ele>
+        <time>2017-11-12T01:32:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>145</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>106</gpxdata:cadence>
+          <gpxdata:distance>12453.5648374455</gpxdata:distance>
+          <gpxdata:altitude>709.582710014538</gpxdata:altitude>
+          <gpxdata:energy>6.92637848268957</gpxdata:energy>
+          <gpxdata:speed>2.50797302993545</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.156445691373287</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.429073" lon="139.153931">
+        <ele>651</ele>
+        <time>2017-11-12T01:33:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>137</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>7</gpxdata:cadence>
+          <gpxdata:distance>12601</gpxdata:distance>
+          <gpxdata:altitude>651</gpxdata:altitude>
+          <gpxdata:energy>6.42169713094107</gpxdata:energy>
+          <gpxdata:speed>1.39021211752578</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0597059248225974</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.428877" lon="139.153752">
+        <ele>646</ele>
+        <time>2017-11-12T01:34:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>135</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>69</gpxdata:cadence>
+          <gpxdata:distance>12628</gpxdata:distance>
+          <gpxdata:altitude>646</gpxdata:altitude>
+          <gpxdata:energy>3.8314850966089</gpxdata:energy>
+          <gpxdata:speed>1.14127290755755</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0176181420378493</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.428458" lon="139.154134">
+        <ele>643</ele>
+        <time>2017-11-12T01:35:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>134</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>77</gpxdata:cadence>
+          <gpxdata:distance>12686</gpxdata:distance>
+          <gpxdata:altitude>643</gpxdata:altitude>
+          <gpxdata:energy>3.74939431695997</gpxdata:energy>
+          <gpxdata:speed>0.509878860921161</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00296365750351449</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.428085" lon="139.154404">
+        <ele>615.793024</ele>
+        <time>2017-11-12T01:36:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>84</gpxdata:cadence>
+          <gpxdata:distance>12729.5311616</gpxdata:distance>
+          <gpxdata:altitude>615.793024</gpxdata:altitude>
+          <gpxdata:energy>4.87206983760986</gpxdata:energy>
+          <gpxdata:speed>0.899999976158142</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.42779" lon="139.154406">
+        <ele>589</ele>
+        <time>2017-11-12T01:37:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>139</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>86</gpxdata:cadence>
+          <gpxdata:distance>12767</gpxdata:distance>
+          <gpxdata:altitude>589</gpxdata:altitude>
+          <gpxdata:energy>5.4922392599236</gpxdata:energy>
+          <gpxdata:speed>0.800000011920929</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0279386920296499</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.427153" lon="139.154772">
+        <ele>577</ele>
+        <time>2017-11-12T01:38:55.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>142</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>12846</gpxdata:distance>
+          <gpxdata:altitude>577</gpxdata:altitude>
+          <gpxdata:energy>5.80620946810303</gpxdata:energy>
+          <gpxdata:speed>0.604139544006348</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00282867197532654</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.426932" lon="139.15516">
+        <ele>550</ele>
+        <time>2017-11-12T01:39:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>137</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>12889</gpxdata:distance>
+          <gpxdata:altitude>550</gpxdata:altitude>
+          <gpxdata:energy>5.34655049536743</gpxdata:energy>
+          <gpxdata:speed>1.27862011996231</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0438286716176987</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.427446" lon="139.155209">
+        <ele>531.862016</ele>
+        <time>2017-11-12T01:40:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>136</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>85</gpxdata:cadence>
+          <gpxdata:distance>12940.6932544</gpxdata:distance>
+          <gpxdata:altitude>531.862016</gpxdata:altitude>
+          <gpxdata:energy>3.92551936443939</gpxdata:energy>
+          <gpxdata:speed>0.709310070298767</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      <name>二俣 [ふたまた]</name><type>3</type><link>https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=2003</link></trkpt>
+      <trkpt lat="35.427368" lon="139.155011">
+        <ele>528.008668034958</ele>
+        <time>2017-11-12T01:41:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>126</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>25</gpxdata:cadence>
+          <gpxdata:distance>12949.9826639301</gpxdata:distance>
+          <gpxdata:altitude>528.008668034958</gpxdata:altitude>
+          <gpxdata:energy>2.40000009536743</gpxdata:energy>
+          <gpxdata:speed>0.860606764820909</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.029869980662557</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.42679" lon="139.155828">
+        <ele>564</ele>
+        <time>2017-11-12T01:43:40.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>143</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>13064</gpxdata:distance>
+          <gpxdata:altitude>564</gpxdata:altitude>
+          <gpxdata:energy>5.46315477849307</gpxdata:energy>
+          <gpxdata:speed>1.55488952360333</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.425733" lon="139.15567">
+        <ele>526.9793024</ele>
+        <time>2017-11-12T01:44:25.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>153</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>13183.1793792</gpxdata:distance>
+          <gpxdata:altitude>526.9793024</gpxdata:altitude>
+          <gpxdata:energy>8.60344998146973</gpxdata:energy>
+          <gpxdata:speed>1.10206978351288</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.917520154045105</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.424857" lon="139.157221">
+        <ele>517.5724032</ele>
+        <time>2017-11-12T01:45:36.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>13373.1690688</gpxdata:distance>
+          <gpxdata:altitude>517.5724032</gpxdata:altitude>
+          <gpxdata:energy>10.0320697803894</gpxdata:energy>
+          <gpxdata:speed>2.67482934972992</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.188551941368484</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.423468" lon="139.158074">
+        <ele>512.1068992</ele>
+        <time>2017-11-12T01:46:36.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>13554.7793792</gpxdata:distance>
+          <gpxdata:altitude>512.1068992</gpxdata:altitude>
+          <gpxdata:energy>10.3106900495667</gpxdata:energy>
+          <gpxdata:speed>3.0106899098053</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00786201582427025</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.422287" lon="139.156877">
+        <ele>505.6793024</ele>
+        <time>2017-11-12T01:47:36.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>13724.4965888</gpxdata:distance>
+          <gpxdata:altitude>505.6793024</gpxdata:altitude>
+          <gpxdata:energy>11.7786203711243</gpxdata:energy>
+          <gpxdata:speed>3.15344950463257</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.303517825064659</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.420928" lon="139.158169">
+        <ele>486</ele>
+        <time>2017-11-12T01:49:10.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>92</gpxdata:cadence>
+          <gpxdata:distance>14002</gpxdata:distance>
+          <gpxdata:altitude>486</gpxdata:altitude>
+          <gpxdata:energy>11.0121983427615</gpxdata:energy>
+          <gpxdata:speed>3.29593384452538</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.347966938932286</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.421002" lon="139.158802">
+        <ele>469</ele>
+        <time>2017-11-12T01:49:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>14060</gpxdata:distance>
+          <gpxdata:altitude>469</gpxdata:altitude>
+          <gpxdata:energy>10.6612523318726</gpxdata:energy>
+          <gpxdata:speed>2.88375745234581</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0251858834004641</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.419836" lon="139.157659">
+        <ele>469.6206976</ele>
+        <time>2017-11-12T01:50:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>157</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>14094.5521664</gpxdata:distance>
+          <gpxdata:altitude>469.6206976</gpxdata:altitude>
+          <gpxdata:energy>9.83793001638184</gpxdata:energy>
+          <gpxdata:speed>1.44482940218201</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0227589118766785</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.418757" lon="139.158085">
+        <ele>472</ele>
+        <time>2017-11-12T01:51:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>14265.6692992</gpxdata:distance>
+          <gpxdata:altitude>472</gpxdata:altitude>
+          <gpxdata:energy>9.80000019073486</gpxdata:energy>
+          <gpxdata:speed>2.60793030231781</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.418226" lon="139.158606">
+        <ele>477.6551936</ele>
+        <time>2017-11-12T01:53:02.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>14406.01744</gpxdata:distance>
+          <gpxdata:altitude>477.6551936</gpxdata:altitude>
+          <gpxdata:energy>11.6999998092651</gpxdata:energy>
+          <gpxdata:speed>1.95862011519394</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.417356" lon="139.15818">
+        <ele>476.0103104</ele>
+        <time>2017-11-12T01:53:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>163</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>14460.224416</gpxdata:distance>
+          <gpxdata:altitude>476.0103104</gpxdata:altitude>
+          <gpxdata:energy>11.1999998092651</gpxdata:energy>
+          <gpxdata:speed>1.26137986573257</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0613798409146309</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.41619" lon="139.158012">
+        <ele>465</ele>
+        <time>2017-11-12T01:54:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>14663</gpxdata:distance>
+          <gpxdata:altitude>465</gpxdata:altitude>
+          <gpxdata:energy>10.4604846034214</gpxdata:energy>
+          <gpxdata:speed>1.80987881323745</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00493942935653222</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.414283" lon="139.157344">
+        <ele>457.0206208</ele>
+        <time>2017-11-12T01:55:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>165</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>96</gpxdata:cadence>
+          <gpxdata:distance>14730.8247232</gpxdata:distance>
+          <gpxdata:altitude>457.0206208</gpxdata:altitude>
+          <gpxdata:energy>11.3841394463379</gpxdata:energy>
+          <gpxdata:speed>2.38413953841553</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.122759681829262</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.412611" lon="139.157863">
+        <ele>412</ele>
+        <time>2017-11-12T01:56:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>15076</gpxdata:distance>
+          <gpxdata:altitude>412</gpxdata:altitude>
+          <gpxdata:energy>12.7080609842313</gpxdata:energy>
+          <gpxdata:speed>3.49462588549137</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0295576233910255</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.411412" lon="139.156602">
+        <ele>409.8517056</ele>
+        <time>2017-11-12T01:57:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>171</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>15130.0142592</gpxdata:distance>
+          <gpxdata:altitude>409.8517056</gpxdata:altitude>
+          <gpxdata:energy>13.3386198370667</gpxdata:energy>
+          <gpxdata:speed>3.20793020695038</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0398968945365906</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.410418" lon="139.156159">
+        <ele>407.920321006637</ele>
+        <time>2017-11-12T01:58:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>15286.4597878783</gpxdata:distance>
+          <gpxdata:altitude>407.920321006637</gpxdata:altitude>
+          <gpxdata:energy>9.94159363556797</gpxdata:energy>
+          <gpxdata:speed>2.81239040946763</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.110972196859675</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.408943" lon="139.156406">
+        <ele>410.035454288718</ele>
+        <time>2017-11-12T01:59:58.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>164</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>15418.1852966095</gpxdata:distance>
+          <gpxdata:altitude>410.035454288718</gpxdata:altitude>
+          <gpxdata:energy>11.1168127288641</gpxdata:energy>
+          <gpxdata:speed>2.08760961627392</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.102211233491636</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.407678" lon="139.157477">
+        <ele>391</ele>
+        <time>2017-11-12T02:00:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>15706</gpxdata:distance>
+          <gpxdata:altitude>391</gpxdata:altitude>
+          <gpxdata:energy>11.1999998092651</gpxdata:energy>
+          <gpxdata:speed>2.70858756022685</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0257625632222182</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.40663" lon="139.159139">
+        <ele>391.2068992</ele>
+        <time>2017-11-12T02:01:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>164</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>15745.5177472</gpxdata:distance>
+          <gpxdata:altitude>391.2068992</gpxdata:altitude>
+          <gpxdata:energy>11.3793098169189</gpxdata:energy>
+          <gpxdata:speed>2.92068999563599</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00620697586126328</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.405401" lon="139.160114">
+        <ele>361</ele>
+        <time>2017-11-12T02:02:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>59</gpxdata:cadence>
+          <gpxdata:distance>16060</gpxdata:distance>
+          <gpxdata:altitude>361</gpxdata:altitude>
+          <gpxdata:energy>9.95838840312766</gpxdata:energy>
+          <gpxdata:speed>3.09265668199838</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0313310875188288</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.405013" lon="139.160845">
+        <ele>348</ele>
+        <time>2017-11-12T02:03:55.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>145</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>83</gpxdata:cadence>
+          <gpxdata:distance>16139</gpxdata:distance>
+          <gpxdata:altitude>348</gpxdata:altitude>
+          <gpxdata:energy>6.39517065339355</gpxdata:energy>
+          <gpxdata:speed>2.59310070545502</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0017937919342041</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.403832" lon="139.162212">
+        <ele>338</ele>
+        <time>2017-11-12T02:04:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>151</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>16320</gpxdata:distance>
+          <gpxdata:altitude>338</gpxdata:altitude>
+          <gpxdata:energy>7.35096280558539</gpxdata:energy>
+          <gpxdata:speed>1.44246882861716</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0322763274638379</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.402927" lon="139.163788">
+        <ele>325.3034112</ele>
+        <time>2017-11-12T02:05:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>151</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>75</gpxdata:cadence>
+          <gpxdata:distance>16478.70736</gpxdata:distance>
+          <gpxdata:altitude>325.3034112</gpxdata:altitude>
+          <gpxdata:energy>8.14655078146973</gpxdata:energy>
+          <gpxdata:speed>2.79068988119507</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.117896891675568</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.40202" lon="139.164445">
+        <ele>308.5827136</ele>
+        <time>2017-11-12T02:06:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>142</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>16601.1072064</gpxdata:distance>
+          <gpxdata:altitude>308.5827136</gpxdata:altitude>
+          <gpxdata:energy>4.90000009536743</gpxdata:energy>
+          <gpxdata:speed>3</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.400699" lon="139.165791">
+        <ele>304.2793024</ele>
+        <time>2017-11-12T02:07:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>152</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>16785.2177472</gpxdata:distance>
+          <gpxdata:altitude>304.2793024</gpxdata:altitude>
+          <gpxdata:energy>7.77206993297729</gpxdata:energy>
+          <gpxdata:speed>2</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.00906899179729223</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.399873" lon="139.167092">
+        <ele>285.862016</ele>
+        <time>2017-11-12T02:08:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>151</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>87</gpxdata:cadence>
+          <gpxdata:distance>16939.03488</gpxdata:distance>
+          <gpxdata:altitude>285.862016</gpxdata:altitude>
+          <gpxdata:energy>7.59068983351135</gpxdata:energy>
+          <gpxdata:speed>3.20000004768372</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.398488" lon="139.168436">
+        <ele>268</ele>
+        <time>2017-11-12T02:09:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>152</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>17149</gpxdata:distance>
+          <gpxdata:altitude>268</gpxdata:altitude>
+          <gpxdata:energy>8.16376740829437</gpxdata:energy>
+          <gpxdata:speed>2.5</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0579721719768861</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.397334" lon="139.169962">
+        <ele>261.6517056</ele>
+        <time>2017-11-12T02:10:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>156</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>17320.4039488</gpxdata:distance>
+          <gpxdata:altitude>261.6517056</gpxdata:altitude>
+          <gpxdata:energy>8.99068988448486</gpxdata:energy>
+          <gpxdata:speed>3.09999990463257</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.396204" lon="139.171625">
+        <ele>255.5586048</ele>
+        <time>2017-11-12T02:11:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>158</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>17516.6591424</gpxdata:distance>
+          <gpxdata:altitude>255.5586048</gpxdata:altitude>
+          <gpxdata:energy>9.80931021746216</gpxdata:energy>
+          <gpxdata:speed>3.20000004768372</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0453449606756926</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.394895" lon="139.172752">
+        <ele>243.2103104</ele>
+        <time>2017-11-12T02:12:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>17696.4280576</gpxdata:distance>
+          <gpxdata:altitude>243.2103104</gpxdata:altitude>
+          <gpxdata:energy>10.1813796670227</gpxdata:energy>
+          <gpxdata:speed>3.20000004768372</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.393231" lon="139.172443">
+        <ele>235.6517056</ele>
+        <time>2017-11-12T02:13:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>17882.5901504</gpxdata:distance>
+          <gpxdata:altitude>235.6517056</gpxdata:altitude>
+          <gpxdata:energy>10.5906902659546</gpxdata:energy>
+          <gpxdata:speed>3</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0544139507837534</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.392134" lon="139.17416">
+        <ele>233</ele>
+        <time>2017-11-12T02:14:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>18098</gpxdata:distance>
+          <gpxdata:altitude>233</gpxdata:altitude>
+          <gpxdata:energy>10.3000001907349</gpxdata:energy>
+          <gpxdata:speed>3.09999990463257</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.390661" lon="139.175315">
+        <ele>222.1172096</ele>
+        <time>2017-11-12T02:15:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>18274.845344</gpxdata:distance>
+          <gpxdata:altitude>222.1172096</gpxdata:altitude>
+          <gpxdata:energy>10.4186198495605</gpxdata:energy>
+          <gpxdata:speed>3.29999995231628</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.099758911459446</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.389871" lon="139.175346">
+        <ele>219.965504</ele>
+        <time>2017-11-12T02:16:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>88</gpxdata:cadence>
+          <gpxdata:distance>18311.2071296</gpxdata:distance>
+          <gpxdata:altitude>219.965504</gpxdata:altitude>
+          <gpxdata:energy>10.341379991272</gpxdata:energy>
+          <gpxdata:speed>3.01379074795227</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0372418574798584</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.388518" lon="139.175856">
+        <ele>217.4482944</ele>
+        <time>2017-11-12T02:17:57.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>18413.4831744</gpxdata:distance>
+          <gpxdata:altitude>217.4482944</gpxdata:altitude>
+          <gpxdata:energy>10.341379991272</gpxdata:energy>
+          <gpxdata:speed>1.58275967506714</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0268968950134277</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.38719" lon="139.176852">
+        <ele>215</ele>
+        <time>2017-11-12T02:18:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>160</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>64</gpxdata:cadence>
+          <gpxdata:distance>18711</gpxdata:distance>
+          <gpxdata:altitude>215</gpxdata:altitude>
+          <gpxdata:energy>10.560484890679</gpxdata:energy>
+          <gpxdata:speed>2.71975776952604</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0306244617896901</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.387427" lon="139.177427">
+        <ele>217.7206976</ele>
+        <time>2017-11-12T02:19:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>137</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>82</gpxdata:cadence>
+          <gpxdata:distance>18764.5070528</gpxdata:distance>
+          <gpxdata:altitude>217.7206976</gpxdata:altitude>
+          <gpxdata:energy>4.61172094224243</gpxdata:energy>
+          <gpxdata:speed>2.90000009536743</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.00906899179729223</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.38793" lon="139.178214">
+        <ele>209</ele>
+        <time>2017-11-12T02:20:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>132</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>18861</gpxdata:distance>
+          <gpxdata:altitude>209</gpxdata:altitude>
+          <gpxdata:energy>1.90866741067254</gpxdata:energy>
+          <gpxdata:speed>1.30987881323745</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0355638922502708</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.387038" lon="139.179772">
+        <ele>205</ele>
+        <time>2017-11-12T02:21:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>148</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>19033</gpxdata:distance>
+          <gpxdata:altitude>205</gpxdata:altitude>
+          <gpxdata:energy>6.53058553858329</gpxdata:energy>
+          <gpxdata:speed>1.5</gpxdata:speed>
+          <gpxdata:verticalSpeed>-0.0143528484782509</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.386231" lon="139.181583">
+        <ele>191.396512</ele>
+        <time>2017-11-12T02:22:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>157</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>19203.4970496</gpxdata:distance>
+          <gpxdata:altitude>191.396512</gpxdata:altitude>
+          <gpxdata:energy>9.39068959180298</gpxdata:energy>
+          <gpxdata:speed>2.90000009536743</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.385135" lon="139.183541">
+        <ele>198</ele>
+        <time>2017-11-12T02:23:56.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>161</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>19436</gpxdata:distance>
+          <gpxdata:altitude>198</gpxdata:altitude>
+          <gpxdata:energy>10.5290900286806</gpxdata:energy>
+          <gpxdata:speed>3.11939324938006</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0145450056707827</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.384057" lon="139.18512">
+        <ele>182.5827136</ele>
+        <time>2017-11-12T02:24:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>164</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>89</gpxdata:cadence>
+          <gpxdata:distance>19605.5901504</gpxdata:distance>
+          <gpxdata:altitude>182.5827136</gpxdata:altitude>
+          <gpxdata:energy>11.3720694495605</gpxdata:energy>
+          <gpxdata:speed>3.5</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.382788" lon="139.186759">
+        <ele>185.534496</ele>
+        <time>2017-11-12T02:25:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>90</gpxdata:cadence>
+          <gpxdata:distance>19808.914336</gpxdata:distance>
+          <gpxdata:altitude>185.534496</gpxdata:altitude>
+          <gpxdata:energy>11.890689591803</gpxdata:energy>
+          <gpxdata:speed>3.20931011880493</gpxdata:speed>
+          <gpxdata:verticalSpeed>0.0453449606756926</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.381762" lon="139.187586">
+        <ele>188.7206976</ele>
+        <time>2017-11-12T02:26:54.009Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+            <gpxtpx:hr>152</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+          <gpxdata:cadence>62</gpxdata:cadence>
+          <gpxdata:distance>19952.2451904</gpxdata:distance>
+          <gpxdata:altitude>188.7206976</gpxdata:altitude>
+          <gpxdata:energy>8.94896141746216</gpxdata:energy>
+          <gpxdata:speed>3.40000009536743</gpxdata:speed>
+          <gpxdata:verticalSpeed>0</gpxdata:verticalSpeed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <extensions>
+    <gpxdata:lap>
+      <gpxdata:index>1</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T22:08:56.000Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>0</gpxdata:elapsedTime>
+      <gpxdata:distance>0</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>2</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T22:08:56.000Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>0</gpxdata:elapsedTime>
+      <gpxdata:distance>0</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>3</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T22:17:00.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>485</gpxdata:elapsedTime>
+      <gpxdata:distance>1002</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>4</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T22:30:51.167Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>830</gpxdata:elapsedTime>
+      <gpxdata:distance>1079</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>5</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T22:44:51.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>841</gpxdata:elapsedTime>
+      <gpxdata:distance>973</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>6</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T22:55:52.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>661</gpxdata:elapsedTime>
+      <gpxdata:distance>976</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>7</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T23:11:51.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>959</gpxdata:elapsedTime>
+      <gpxdata:distance>996</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>8</gpxdata:index>
+      <gpxdata:startTime>2017-11-11T23:32:48.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>1257</gpxdata:elapsedTime>
+      <gpxdata:distance>999</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>9</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T00:03:48.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>1860</gpxdata:elapsedTime>
+      <gpxdata:distance>980</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>10</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T00:16:04.657Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>736</gpxdata:elapsedTime>
+      <gpxdata:distance>1031</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>11</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T00:27:54.953Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>710</gpxdata:elapsedTime>
+      <gpxdata:distance>961</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>12</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T00:52:54.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>1500</gpxdata:elapsedTime>
+      <gpxdata:distance>1063</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>13</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T01:08:55.947Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>961</gpxdata:elapsedTime>
+      <gpxdata:distance>927</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>14</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T01:24:55.653Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>960</gpxdata:elapsedTime>
+      <gpxdata:distance>994</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>15</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T01:43:39.237Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>1124</gpxdata:elapsedTime>
+      <gpxdata:distance>1077</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>16</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T01:49:08.950Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>330</gpxdata:elapsedTime>
+      <gpxdata:distance>919</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>17</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T01:56:55.663Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>467</gpxdata:elapsedTime>
+      <gpxdata:distance>981</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>18</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T02:02:55.657Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>360</gpxdata:elapsedTime>
+      <gpxdata:distance>1000</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>19</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T02:09:53.187Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>418</gpxdata:elapsedTime>
+      <gpxdata:distance>1183</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>20</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T02:14:53.057Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>300</gpxdata:elapsedTime>
+      <gpxdata:distance>943</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>21</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T02:21:53.177Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>420</gpxdata:elapsedTime>
+      <gpxdata:distance>937</gpxdata:distance>
+    </gpxdata:lap>
+    <gpxdata:lap>
+      <gpxdata:index>22</gpxdata:index>
+      <gpxdata:startTime>2017-11-12T02:27:43.787Z</gpxdata:startTime>
+      <gpxdata:elapsedTime>351</gpxdata:elapsedTime>
+      <gpxdata:distance>943</gpxdata:distance>
+    </gpxdata:lap>
+  </extensions>
+</gpx>
