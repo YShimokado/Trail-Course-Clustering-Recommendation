@@ -1,4 +1,4 @@
-# Trail-Course-Clustering&Recommendation
+# Trail Course Clustering and Recommendation
 トレイルコースのGPXファイルデータを使って、クラスタリングとレコメンデーションを実施。
 基本的にはPythonにてデータ収集〜前処理〜特徴量作成〜クラスタリング〜レコメンデーションを行った。
 主成分分析のみRを利用。
